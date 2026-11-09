@@ -6,14 +6,14 @@
 
 ## Διάλεξε το πεδίο σου
 
-Η δοκιμαστική συλλογή **0.8.2-beta.1** περιέχει τέσσερις αυτοτελείς λήψεις. Η ανατροφοδότηση μπορεί να περιέχει λάθη ή να αποκαλύπτει απάντηση αντί για υπόδειξη· δες τους [γνωστούς περιορισμούς](docs/status.md). Η Νεοελληνική Γλώσσα και Λογοτεχνία είναι κοινή σε όλα τα πεδία.
+Η συλλογή **0.8.2**, με πειραματικό εκπαιδευτικό χαρακτήρα, περιέχει τέσσερις αυτοτελείς λήψεις. Η ανατροφοδότηση μπορεί να περιέχει λάθη ή να αποκαλύπτει απάντηση αντί για υπόδειξη· δες τους [γνωστούς περιορισμούς](docs/status.md). Η Νεοελληνική Γλώσσα και Λογοτεχνία είναι κοινή σε όλα τα πεδία.
 
 | Πεδίο | Άλλα μαθήματα | Λήψη ZIP |
 | --- | --- | --- |
-| 1ο | Αρχαία Ελληνικά, Ιστορία, Λατινικά | [Tutor 1ου πεδίου — 0.1.2](https://github.com/msanguineti/greek-lyceum-tutor/releases/download/v0.8.2-beta.1/panelladikes-field-1-0.1.2.zip) |
-| 2ο | Μαθηματικά, Φυσική, Χημεία | [Tutor 2ου πεδίου — 0.7.15](https://github.com/msanguineti/greek-lyceum-tutor/releases/download/v0.8.2-beta.1/panelladikes-field-2-0.7.15.zip) |
-| 3ο | Φυσική, Χημεία, Βιολογία | [Tutor 3ου πεδίου — 0.1.9](https://github.com/msanguineti/greek-lyceum-tutor/releases/download/v0.8.2-beta.1/panelladikes-field-3-0.1.9.zip) |
-| 4ο | Μαθηματικά, Οικονομία, Πληροφορική | [Tutor 4ου πεδίου — 0.1.2](https://github.com/msanguineti/greek-lyceum-tutor/releases/download/v0.8.2-beta.1/panelladikes-field-4-0.1.2.zip) |
+| 1ο | Αρχαία Ελληνικά, Ιστορία, Λατινικά | [Tutor 1ου πεδίου — 0.1.2](https://github.com/msanguineti/greek-lyceum-tutor/releases/download/v0.8.2/panelladikes-field-1-0.1.2.zip) |
+| 2ο | Μαθηματικά, Φυσική, Χημεία | [Tutor 2ου πεδίου — 0.7.15](https://github.com/msanguineti/greek-lyceum-tutor/releases/download/v0.8.2/panelladikes-field-2-0.7.15.zip) |
+| 3ο | Φυσική, Χημεία, Βιολογία | [Tutor 3ου πεδίου — 0.1.9](https://github.com/msanguineti/greek-lyceum-tutor/releases/download/v0.8.2/panelladikes-field-3-0.1.9.zip) |
+| 4ο | Μαθηματικά, Οικονομία, Πληροφορική | [Tutor 4ου πεδίου — 0.1.2](https://github.com/msanguineti/greek-lyceum-tutor/releases/download/v0.8.2/panelladikes-field-4-0.1.2.zip) |
 
 Κατέβασε μόνο τον tutor που χρειάζεσαι. Κάθε ZIP περιέχει μόνο το plugin του συγκεκριμένου πεδίου, ελληνικό οδηγό χρήσης και άδειες. Μεταφορτώνεται απευθείας, χωρίς αποσυμπίεση.
 
