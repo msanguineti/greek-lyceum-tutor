@@ -1,0 +1,4 @@
+interface:
+  display_name: "Οικονομία βήμα βήμα"
+  short_description: "Οικονομικός συλλογισμός και εξάσκηση στην ύλη 2027"
+  default_prompt: "Χρησιμοποίησε το $lyceum-economics και βοήθησέ με να βρω το πρώτο λάθος στη λύση μου."

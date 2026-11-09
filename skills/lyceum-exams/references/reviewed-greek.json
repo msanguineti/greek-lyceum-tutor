@@ -1,0 +1,214 @@
+{
+  "audit_date": "2026-10-18",
+  "global_limitations": [
+    "Compatibility is against the supplied maps, not an exhaustive legal revalidation of 2027 syllabus publication/amendments.",
+    "2026 printed point totals are verified from selected PDFs; no claim that these constitute a 2027 grading prescription.",
+    "Selected items only; no whole-paper scope clearance. Original Greek texts must be read; supplied formula tables must be retained.",
+    "Locator and scope metadata only; no stored answer key, solution or source-specific hints. Retrieve the actual item and dependencies before solving or grading."
+  ],
+  "items": [
+    {
+      "id": "greek-2020-A1",
+      "subject": "Νεοελληνική Γλώσσα και Λογοτεχνία",
+      "year": 2020,
+      "date": "2020-06-15",
+      "pdf": "paper-greek-2020.pdf",
+      "url": "https://eoe.minedu.gov.gr/images/2026_Neoellenike%20Glossa%20%20Logotechnia.pdf",
+      "pdf_page": 4,
+      "printed_page": 4,
+      "archive_pdf_page": 124,
+      "item": "A1",
+      "official_points": 15,
+      "map_file": "../../lyceum-greek/references/syllabus-2027.md",
+      "map_sections": [
+        "N2 Συνοπτική απόδοση",
+        "N1 Βασικές ιδέες"
+      ],
+      "syllabus_pages": [
+        2,
+        3,
+        4
+      ],
+      "compatibility_rationale": "Ελεγμένη επιλογή ως προς τις αναφερόμενες ενότητες του χάρτη 2027, με τα όρια του ελέγχου. Πριν από χρήση διάβασε το πραγματικό ερώτημα και τις εξαρτήσεις του και έλεγξε εκ νέου κάθε απαιτούμενη έννοια/μέθοδο και εξαίρεση. Η επιλογή δεν εγκρίνει ολόκληρο το διαγώνισμα.",
+      "required_text_access": {
+        "pdf_pages": [
+          1
+        ],
+        "text_number": 1,
+        "title": "Το γιατρικό της αμόλυντης λογοτεχνίας",
+        "attribution": "Θεόδωρος Γρηγοριάδης, ημερήσιος τύπος, διασκευή, όπως στο θέμα.",
+        "instructions": "Άνοιξε και διάβασε ολόκληρο το συγκεκριμένο κείμενο στην επίσημη διαδικτυακή πηγή, με υποσημειώσεις και πηγή. Χωρίς αυτό δεν δίνεται ως αυτοτελής άσκηση και δεν βαθμολογείται από μνήμης ή από τη σύνοψη του tutor. Το κείμενο δεν αναπαράγεται εδώ. Οι pdf_pages αφορούν το ετήσιο φυλλάδιο· οι source_pdf_pages αφορούν το συγκεκριμένο URL/αρχείο.",
+        "source_pdf_pages": [
+          121
+        ]
+      },
+      "sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "archive_sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "compatibility_status": "item compatible with supplied 2027 map, subject to map verification limits",
+      "word_limit": {
+        "min": 60,
+        "max": 70
+      },
+      "adaptation": "Εντοπιστής και μεταδεδομένα επιλογής· η εκφώνηση, τα δεδομένα και η λύση δεν αποθηκεύονται εδώ.",
+      "source_id": "PA-PAPER-GREEK-2020",
+      "requires_source_access": true,
+      "source_request": "Ανάκτησε και διάβασε το πραγματικό ερώτημα A1 και τις εξαρτήσεις του από το επίσημο URL, σελίδα PDF 124 (annual_archive). Χωρίς πραγματική πρόσβαση μην παραθέτεις, επιλύεις ή βαθμολογείς το συγκεκριμένο θέμα από μνήμης ή μεταδεδομένα, ούτε με επιφύλαξη. Ζήτησε το αναγκαίο απόσπασμα ή πρότεινε ρητά πρωτότυπη εναλλακτική. Επαναχρησιμοποίησε ήδη ανακτημένο επαρκές περιεχόμενο της ίδιας πηγής.",
+      "source_pdf_page": 124,
+      "source_container": "annual_archive",
+      "source_checked_on": "2026-11-07",
+      "reviewed_extract_sha256": "0f9e0e3b944fd1b93f8072fecd56aec8ec70d5225584758f5ccfb4be991522a9"
+    },
+    {
+      "id": "greek-2023-B2",
+      "subject": "Νεοελληνική Γλώσσα και Λογοτεχνία",
+      "year": 2023,
+      "date": "2023-06-02",
+      "pdf": "paper-greek-2023.pdf",
+      "url": "https://eoe.minedu.gov.gr/images/2026_Neoellenike%20Glossa%20%20Logotechnia.pdf",
+      "pdf_page": 4,
+      "printed_page": 4,
+      "archive_pdf_page": 142,
+      "item": "B2",
+      "official_points": 10,
+      "map_file": "../../lyceum-greek/references/syllabus-2027.md",
+      "map_sections": [
+        "N3 Σχέση γλωσσικής μορφής, δομής και λειτουργίας"
+      ],
+      "syllabus_pages": [
+        2,
+        3,
+        4
+      ],
+      "compatibility_rationale": "Ελεγμένη επιλογή ως προς τις αναφερόμενες ενότητες του χάρτη 2027, με τα όρια του ελέγχου. Πριν από χρήση διάβασε το πραγματικό ερώτημα και τις εξαρτήσεις του και έλεγξε εκ νέου κάθε απαιτούμενη έννοια/μέθοδο και εξαίρεση. Η επιλογή δεν εγκρίνει ολόκληρο το διαγώνισμα.",
+      "required_text_access": {
+        "pdf_pages": [
+          1,
+          2
+        ],
+        "text_number": 2,
+        "title": "[Φεμινισμός και Νεοφεμινισμός]",
+        "attribution": "Μαρίλια Παπαθανασίου, εφ. Το Βήμα,28-05-2023, όπως στο θέμα.",
+        "instructions": "Άνοιξε και διάβασε ολόκληρο το συγκεκριμένο κείμενο στην επίσημη διαδικτυακή πηγή, με υποσημειώσεις και πηγή. Χωρίς αυτό δεν δίνεται ως αυτοτελής άσκηση και δεν βαθμολογείται από μνήμης ή από τη σύνοψη του tutor. Το κείμενο δεν αναπαράγεται εδώ. Οι pdf_pages αφορούν το ετήσιο φυλλάδιο· οι source_pdf_pages αφορούν το συγκεκριμένο URL/αρχείο.",
+        "source_pdf_pages": [
+          139,
+          140
+        ]
+      },
+      "sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "archive_sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "compatibility_status": "item compatible with supplied 2027 map, subject to map verification limits",
+      "adaptation": "Εντοπιστής και μεταδεδομένα επιλογής· η εκφώνηση, τα δεδομένα και η λύση δεν αποθηκεύονται εδώ.",
+      "official_point_parts": {
+        "λειτουργίες": 5,
+        "νοήματα": 5
+      },
+      "source_id": "PA-PAPER-GREEK-2023",
+      "requires_source_access": true,
+      "source_request": "Ανάκτησε και διάβασε το πραγματικό ερώτημα B2 και τις εξαρτήσεις του από το επίσημο URL, σελίδα PDF 142 (annual_archive). Χωρίς πραγματική πρόσβαση μην παραθέτεις, επιλύεις ή βαθμολογείς το συγκεκριμένο θέμα από μνήμης ή μεταδεδομένα, ούτε με επιφύλαξη. Ζήτησε το αναγκαίο απόσπασμα ή πρότεινε ρητά πρωτότυπη εναλλακτική. Επαναχρησιμοποίησε ήδη ανακτημένο επαρκές περιεχόμενο της ίδιας πηγής.",
+      "source_pdf_page": 142,
+      "source_container": "annual_archive",
+      "source_checked_on": "2026-11-07",
+      "reviewed_extract_sha256": "cece26330d34c127b050293182e0aaae8b120b85b1b9eb28fedf49826233af45"
+    },
+    {
+      "id": "greek-2025-G1",
+      "subject": "Νεοελληνική Γλώσσα και Λογοτεχνία",
+      "year": 2025,
+      "date": "2025-05-30",
+      "pdf": "paper-greek-2025.pdf",
+      "url": "https://eoe.minedu.gov.gr/images/2026_Neoellenike%20Glossa%20%20Logotechnia.pdf",
+      "pdf_page": 4,
+      "printed_page": 4,
+      "archive_pdf_page": 152,
+      "item": "Θέμα Γ, Γ1",
+      "official_points": 15,
+      "map_file": "../../lyceum-greek/references/syllabus-2027.md",
+      "map_sections": [
+        "L1 Ερμηνευτικό σχόλιο"
+      ],
+      "syllabus_pages": [
+        2,
+        3,
+        4
+      ],
+      "compatibility_rationale": "Ελεγμένη επιλογή ως προς τις αναφερόμενες ενότητες του χάρτη 2027, με τα όρια του ελέγχου. Πριν από χρήση διάβασε το πραγματικό ερώτημα και τις εξαρτήσεις του και έλεγξε εκ νέου κάθε απαιτούμενη έννοια/μέθοδο και εξαίρεση. Η επιλογή δεν εγκρίνει ολόκληρο το διαγώνισμα.",
+      "required_text_access": {
+        "pdf_pages": [
+          2,
+          3
+        ],
+        "text_number": 3,
+        "title": "[Εξαίσια αστική μας κοινωνία]",
+        "attribution": "Γιώργος Ιωάννου, Για ένα φιλότιμο,εκδ.Κέδρος,1980, απόσπασμα διασκευασμένο για την εξέταση.",
+        "instructions": "Άνοιξε και διάβασε ολόκληρο το συγκεκριμένο κείμενο στην επίσημη διαδικτυακή πηγή, με υποσημειώσεις και πηγή. Χωρίς αυτό δεν δίνεται ως αυτοτελής άσκηση και δεν βαθμολογείται από μνήμης ή από τη σύνοψη του tutor. Το κείμενο δεν αναπαράγεται εδώ. Οι pdf_pages αφορούν το ετήσιο φυλλάδιο· οι source_pdf_pages αφορούν το συγκεκριμένο URL/αρχείο.",
+        "source_pdf_pages": [
+          150,
+          151
+        ]
+      },
+      "sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "archive_sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "compatibility_status": "item compatible with supplied 2027 map, subject to map verification limits",
+      "word_limit": {
+        "min": 150,
+        "max": 200
+      },
+      "adaptation": "Εντοπιστής και μεταδεδομένα επιλογής· η εκφώνηση, τα δεδομένα και η λύση δεν αποθηκεύονται εδώ.",
+      "source_id": "PA-PAPER-GREEK-2025",
+      "requires_source_access": true,
+      "source_request": "Ανάκτησε και διάβασε το πραγματικό ερώτημα Θέμα Γ, Γ1 και τις εξαρτήσεις του από το επίσημο URL, σελίδα PDF 152 (annual_archive). Χωρίς πραγματική πρόσβαση μην παραθέτεις, επιλύεις ή βαθμολογείς το συγκεκριμένο θέμα από μνήμης ή μεταδεδομένα, ούτε με επιφύλαξη. Ζήτησε το αναγκαίο απόσπασμα ή πρότεινε ρητά πρωτότυπη εναλλακτική. Επαναχρησιμοποίησε ήδη ανακτημένο επαρκές περιεχόμενο της ίδιας πηγής.",
+      "source_pdf_page": 152,
+      "source_container": "annual_archive",
+      "source_checked_on": "2026-11-07",
+      "reviewed_extract_sha256": "149d717991ab4333b33b6fa16bb0d904a9a823323eb0bdfe063ddfbdf38e9a4e"
+    },
+    {
+      "id": "greek-2026-A1",
+      "subject": "Νεοελληνική Γλώσσα και Λογοτεχνία",
+      "date": "2026-05-29",
+      "pdf": "paper-greek-2026.pdf",
+      "url": "https://www.minedu.gov.gr/publications/docs2026/panelladikes_2026_iounios/them_nea_ellinika_gel_260529.pdf",
+      "pdf_page": 3,
+      "printed_page": 3,
+      "item": "Θέμα Α, Α1",
+      "official_points": 20,
+      "word_limit": {
+        "min": 70,
+        "max": 80
+      },
+      "map_file": "../../lyceum-greek/references/syllabus-2027.md",
+      "map_sections": [
+        "N2 Συνοπτική απόδοση συγκεκριμένου μέρους ή απόψεων για ορισμένο ζήτημα",
+        "N1 Εντοπισμός θέματος και βασικών ιδεών"
+      ],
+      "syllabus_pages": [
+        2,
+        3,
+        4
+      ],
+      "compatibility_rationale": "Ελεγμένη επιλογή ως προς τις αναφερόμενες ενότητες του χάρτη 2027, με τα όρια του ελέγχου. Πριν από χρήση διάβασε το πραγματικό ερώτημα και τις εξαρτήσεις του και έλεγξε εκ νέου κάθε απαιτούμενη έννοια/μέθοδο και εξαίρεση. Η επιλογή δεν εγκρίνει ολόκληρο το διαγώνισμα.",
+      "required_text_access": {
+        "pdf_pages": [
+          1
+        ],
+        "text_number": 1,
+        "title": "Μια παγκόσμια σύγχρονη κρίση μοναξιάς",
+        "attribution": "Μαργαρίτα Βεργολιά, εφημερίδα ΤΑ ΝΕΑ, 23.5.2026, ελαφρώς συντομευμένο και διασκευασμένο (όπως αποδίδεται στο επίσημο θέμα).",
+        "instructions": "Ανοίξτε το επίσημο PDF στη σελίδα 1 και διαβάστε ολόκληρο το Κείμενο 1, με τη σημείωση και την απόδοση πηγής. Το Α1 βρίσκεται στη σελίδα 3. Το παρόν αρχείο δεν αντιγράφει το άρθρο. Χωρίς πρόσβαση στο Κείμενο 1 δεν προσφέρεται το Α1 ως αυτοτελής άσκηση και δεν βαθμολογείται απάντηση από μνήμης ή από περίληψη του tutor. Οι pdf_pages αφορούν το ετήσιο φυλλάδιο· οι source_pdf_pages αφορούν το συγκεκριμένο URL/αρχείο.",
+        "source_pdf_pages": [
+          1
+        ]
+      },
+      "sha256": "f1aee0ee5b25d82365058d2c997c8f19d2e373f2d04824af565e84091af54495",
+      "compatibility_status": "item compatible with supplied 2027 map, subject to map verification limits",
+      "year": 2026,
+      "source_id": "PA-GR",
+      "requires_source_access": true,
+      "source_request": "Ανάκτησε και διάβασε το πραγματικό ερώτημα Θέμα Α, Α1 και τις εξαρτήσεις του από το επίσημο URL, σελίδα PDF 3 (single_paper). Χωρίς πραγματική πρόσβαση μην παραθέτεις, επιλύεις ή βαθμολογείς το συγκεκριμένο θέμα από μνήμης ή μεταδεδομένα, ούτε με επιφύλαξη. Ζήτησε το αναγκαίο απόσπασμα ή πρότεινε ρητά πρωτότυπη εναλλακτική. Επαναχρησιμοποίησε ήδη ανακτημένο επαρκές περιεχόμενο της ίδιας πηγής.",
+      "source_pdf_page": 3,
+      "source_container": "single_paper",
+      "source_checked_on": "2026-11-07",
+      "adaptation": "Εντοπιστής και μεταδεδομένα επιλογής· η εκφώνηση, τα δεδομένα και η λύση δεν αποθηκεύονται εδώ."
+    }
+  ]
+}

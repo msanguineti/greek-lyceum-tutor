@@ -1,0 +1,20 @@
+{
+  "name": "greek-lyceum-tutor",
+  "interface": {
+    "displayName": "Greek Lyceum Tutor"
+  },
+  "plugins": [
+    {
+      "name": "greek-lyceum-tutor",
+      "source": {
+        "source": "local",
+        "path": "./plugins/greek-lyceum-tutor"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    }
+  ]
+}

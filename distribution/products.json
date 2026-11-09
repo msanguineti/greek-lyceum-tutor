@@ -1,0 +1,294 @@
+{
+  "schema_version": 1,
+  "common_source_ids": [
+    "S1",
+    "S1-FEK",
+    "S1-NOTICE",
+    "S3",
+    "E1",
+    "E2",
+    "P1",
+    "P1-page"
+  ],
+  "authoring": {
+    "study": {
+      "source": "skills/lyceum-study",
+      "files": [
+        "SKILL.md",
+        "agents/openai.yaml",
+        "references/shared/curriculum-audit-2026-10-18.md",
+        "references/shared/curriculum-status.md",
+        "references/shared/official/application-2026.pdf",
+        "references/shared/official/exam-rules-fek-5136-2022.pdf",
+        "references/shared/official/programme-2027.docx",
+        "references/shared/official/syllabus-2027-fek-4210.pdf",
+        "references/shared/official/syllabus-2027-publication-notice.pdf",
+        "references/shared/official/syllabus-2027.pdf",
+        "references/shared/sources.json",
+        "references/shared/teaching-policy.md",
+        "references/shared/textbook-use.md",
+        "references/shared/textbooks/catalog.json",
+        "references/study-card.md"
+      ],
+      "ready": true
+    },
+    "exams": {
+      "source": "skills/lyceum-exams",
+      "files": [
+        "SKILL.md",
+        "agents/openai.yaml",
+        "references/answer-evaluation.md",
+        "references/exam-protocol.md",
+        "references/exam-rules.md",
+        "references/historical-selection.md",
+        "references/past-papers.json",
+        "references/question-design.md",
+        "references/reviewed-chemistry.json",
+        "references/reviewed-greek.json",
+        "references/reviewed-items.json",
+        "references/reviewed-math.json",
+        "references/reviewed-physics.json"
+      ],
+      "ready": true
+    },
+    "greek": {
+      "source": "skills/lyceum-greek",
+      "files": [
+        "SKILL.md",
+        "agents/openai.yaml",
+        "references/book-navigation.md",
+        "references/feedback.md",
+        "references/syllabus-2027.md"
+      ],
+      "ready": true,
+      "label": "Νεοελληνική Γλώσσα και Λογοτεχνία",
+      "source_ids": [
+        "G2-archive",
+        "G2",
+        "BOOK-GR-22-0075",
+        "BOOK-GR-22-0253",
+        "BOOK-GR-22-0083",
+        "BOOK-GR-22-0254",
+        "BOOK-GR-22-0043"
+      ]
+    },
+    "mathematics": {
+      "source": "skills/lyceum-mathematics",
+      "files": [
+        "SKILL.md",
+        "agents/openai.yaml",
+        "references/book-navigation.md",
+        "references/proof-index-2027.md",
+        "references/syllabus-2027.md",
+        "references/tutoring.md"
+      ],
+      "ready": true,
+      "label": "Μαθηματικά",
+      "source_ids": [
+        "S2",
+        "textbook-mathematics-b"
+      ]
+    },
+    "physics": {
+      "source": "skills/lyceum-physics",
+      "files": [
+        "SKILL.md",
+        "agents/openai.yaml",
+        "references/book-navigation.md",
+        "references/syllabus-2027.md",
+        "references/tutoring.md"
+      ],
+      "ready": true,
+      "label": "Φυσική",
+      "source_ids": [
+        "SCI-PHYSICS-ARCHIVE",
+        "SCI-PHYSICS-IEP",
+        "SCI-PHYSICS-BOOK-B",
+        "SCI-PHYSICS-BOOK-C"
+      ]
+    },
+    "chemistry": {
+      "source": "skills/lyceum-chemistry",
+      "files": [
+        "SKILL.md",
+        "agents/openai.yaml",
+        "references/book-navigation.md",
+        "references/syllabus-2027.md",
+        "references/tutoring.md"
+      ],
+      "ready": true,
+      "label": "Χημεία",
+      "source_ids": [
+        "SCI-CHEMISTRY-ARCHIVE",
+        "SCI-CHEMISTRY-IEP",
+        "SCI-CHEMISTRY-BOOK"
+      ]
+    },
+    "biology": {
+      "source": "subjects/lyceum-biology",
+      "files": [
+        "SKILL.md",
+        "agents/openai.yaml",
+        "references/book-navigation.md",
+        "references/sources.json",
+        "references/syllabus-2027.md",
+        "references/tutoring.md"
+      ],
+      "ready": true,
+      "label": "Βιολογία",
+      "source_ids": []
+    },
+    "economics": {
+      "source": "subjects/lyceum-economics",
+      "files": [
+        "SKILL.md",
+        "agents/openai.yaml",
+        "references/book-navigation.md",
+        "references/sources.json",
+        "references/syllabus-2027.md",
+        "references/tutoring.md"
+      ],
+      "ready": true,
+      "label": "Οικονομία",
+      "source_ids": []
+    },
+    "informatics": {
+      "source": "subjects/lyceum-informatics",
+      "files": [
+        "SKILL.md",
+        "agents/openai.yaml",
+        "references/book-navigation.md",
+        "references/sources.json",
+        "references/syllabus-2027.md",
+        "references/tutoring.md"
+      ],
+      "ready": true,
+      "label": "Πληροφορική",
+      "source_ids": []
+    },
+    "ancient-greek": {
+      "source": "subjects/lyceum-ancient-greek",
+      "files": [
+        "SKILL.md",
+        "agents/openai.yaml",
+        "references/book-navigation.md",
+        "references/sources.json",
+        "references/syllabus-2027.md",
+        "references/tutoring.md"
+      ],
+      "ready": true,
+      "label": "Αρχαία Ελληνικά",
+      "source_ids": []
+    },
+    "history": {
+      "source": "subjects/lyceum-history",
+      "files": [
+        "SKILL.md",
+        "agents/openai.yaml",
+        "references/book-navigation.md",
+        "references/sources.json",
+        "references/syllabus-2027.md",
+        "references/tutoring.md"
+      ],
+      "ready": true,
+      "label": "Ιστορία",
+      "source_ids": []
+    },
+    "latin": {
+      "source": "subjects/lyceum-latin",
+      "files": [
+        "SKILL.md",
+        "agents/openai.yaml",
+        "references/book-navigation.md",
+        "references/sources.json",
+        "references/syllabus-2027.md",
+        "references/tutoring.md"
+      ],
+      "ready": true,
+      "label": "Λατινικά",
+      "source_ids": []
+    }
+  },
+  "fields": {
+    "1": {
+      "name": "greek-lyceum-tutor-field-1",
+      "display_name": "Πανελλαδικές — 1ο Πεδίο",
+      "version": "0.1.0",
+      "release_ready": true,
+      "subjects": [
+        "greek",
+        "ancient-greek",
+        "history",
+        "latin"
+      ],
+      "skill_names": {
+        "study": "lyceum-f1-study",
+        "greek": "lyceum-f1-greek",
+        "ancient-greek": "lyceum-f1-ancient-greek",
+        "history": "lyceum-f1-history",
+        "latin": "lyceum-f1-latin",
+        "exams": "lyceum-f1-exams"
+      }
+    },
+    "2": {
+      "name": "greek-lyceum-tutor",
+      "display_name": "Πανελλαδικές — 2ο Πεδίο",
+      "version": "0.7.6",
+      "release_ready": true,
+      "subjects": [
+        "greek",
+        "mathematics",
+        "physics",
+        "chemistry"
+      ],
+      "skill_names": {
+        "study": "lyceum-study",
+        "greek": "lyceum-greek",
+        "mathematics": "lyceum-mathematics",
+        "physics": "lyceum-physics",
+        "chemistry": "lyceum-chemistry",
+        "exams": "lyceum-exams"
+      }
+    },
+    "3": {
+      "name": "greek-lyceum-tutor-field-3",
+      "display_name": "Πανελλαδικές — 3ο Πεδίο",
+      "version": "0.1.1",
+      "release_ready": true,
+      "subjects": [
+        "greek",
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "skill_names": {
+        "study": "lyceum-f3-study",
+        "greek": "lyceum-f3-greek",
+        "physics": "lyceum-f3-physics",
+        "chemistry": "lyceum-f3-chemistry",
+        "biology": "lyceum-f3-biology",
+        "exams": "lyceum-f3-exams"
+      }
+    },
+    "4": {
+      "name": "greek-lyceum-tutor-field-4",
+      "display_name": "Πανελλαδικές — 4ο Πεδίο",
+      "version": "0.1.0",
+      "release_ready": true,
+      "subjects": [
+        "greek",
+        "mathematics",
+        "economics",
+        "informatics"
+      ],
+      "skill_names": {
+        "study": "lyceum-f4-study",
+        "greek": "lyceum-f4-greek",
+        "mathematics": "lyceum-f4-mathematics",
+        "economics": "lyceum-f4-economics",
+        "informatics": "lyceum-f4-informatics",
+        "exams": "lyceum-f4-exams"
+      }
+    }
+  }
+}

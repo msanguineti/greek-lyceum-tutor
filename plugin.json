@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "greek-lyceum-tutor",
+  "version": "0.7.6",
+  "description": "Greek-language incremental tutoring for the 2027 Panellinies: study planning, four subjects and examination practice.",
+  "extensions": {
+    "com.openai": {
+      "onboardingSkill": "./skills/lyceum-study/SKILL.md",
+      "interface": {
+        "displayName": "Greek Lyceum Tutor",
+        "shortDescription": "Βήμα βήμα για το 2027",
+        "longDescription": "Μαθηματικά, Φυσική, Χημεία, Νεοελληνική Γλώσσα και Λογοτεχνία Γ΄ ΓΕΛ για τις Πανελλαδικές 2027. Μικρά βήματα, προσαρμοσμένες υποδείξεις, διάγνωση και επανάληψη, με χάρτες επίσημης ύλης και εξαιρέσεων, οδηγούς σελίδων και συνδέσμους σε επίσημα βιβλία και παλαιά θέματα. Δεν αποθηκεύει αυτόματα πρόοδο. Γραφήματα και αρχεία χρησιμοποιούνται όπου διατίθενται.",
+        "category": "Education",
+        "capabilities": [],
+        "defaultPrompt": [
+          "Θέλω να καταλάβω ένα θέμα για τις Πανελλαδικές 2027, βήμα βήμα.",
+          "Βοήθησέ με με την προσπάθειά μου χωρίς να δώσεις αμέσως τη λύση.",
+          "Έχω 30 λεπτά για επανάληψη. Τι να μελετήσω;"
+        ]
+      }
+    }
+  }
+}

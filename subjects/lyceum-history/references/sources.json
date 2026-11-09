@@ -1,0 +1,109 @@
+{
+  "subject": "history",
+  "exam_year": 2027,
+  "verified_on": "2026-11-07",
+  "limitations": [
+    "Ελέγχθηκε η συγκεκριμένη υπουργική απόφαση και οι καταγεγραμμένες οδηγίες· όχι διαρκής έλεγχος μεταγενέστερων τροποποιήσεων.",
+    "Η λήψη πλήρους βιβλίου δεν αποτελεί επιστημονική επικύρωση κάθε ιστορικής πρότασής του. Για ειδικό ισχυρισμό απαιτείται πραγματική ανάγνωση.",
+    "Δεν έχουν εκτελεστεί ακόμη ζωντανές δοκιμές του νέου πακέτου ChatGPT."
+  ],
+  "sources": [
+    {
+      "id": "H-S1",
+      "title": "Εξεταστέα ύλη Πανελλαδικών 2027",
+      "url": "https://www.minedu.gov.gr/publications/90176_%CE%942_06_07_26_%CE%95%CE%9E%CE%95%CE%A4%CE%91%CE%A3%CE%A4%CE%95%CE%91_%CE%A5%CE%9B%CE%97_2027.pdf",
+      "sha256": "279ee3201659ff3bc17bcd0a2bdd3137b1d09bc064e03773ebb6b197aac59357",
+      "pdf_pages": [
+        9,
+        10
+      ],
+      "distribution": "link-only"
+    },
+    {
+      "id": "H-G1",
+      "title": "Οδηγίες διδασκαλίας Ιστορίας ΓΕΛ 2026–2027",
+      "url": "https://www.iep.edu.gr/wp-content/uploads/2026/09/%CE%99%CE%A3%CE%A4%CE%9F%CE%A1%CE%99%CE%91_%CE%91%CE%92_%CE%93%CE%95%CE%9B_2026-2027.zip",
+      "format": "zip",
+      "archive_sha256": "5f616c34fa7465c138258eee95c978b343ccca702d42b30b4199af122893c884",
+      "member": "162267_2_ΣΥΝ_106347_ΙΣΤΟΡΙΑ_ΓΕΛ_2026_2027.pdf",
+      "sha256": "219a08c5bc0dc36a19f86abdf4323b01db0ae9e88bc4fe3e51ed7c32b4d19f78",
+      "hash_scope": "PDF member bytes, not ZIP",
+      "pdf_pages": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "page_count": 20,
+      "distribution": "link-only"
+    },
+    {
+      "id": "H-B1",
+      "title": "Θέματα Νεοελληνικής Ιστορίας, Βιβλίο Μαθητή, V2",
+      "authors": [
+        "Γεώργιος Μαργαρίτης",
+        "Αγαθοκλής Αζέλης",
+        "Νικόλαος Ανδριώτης",
+        "Θεοχάρης Δετοράκης",
+        "Κωνσταντίνος Φωτιάδης"
+      ],
+      "url": "https://www.ebooks.edu.gr/ebooks/v/pdf/8547/2536/22-0163-02_V2_Themata-Neoellinikis-Istorias_G-Lykeiou-AnthrSp_Vivlio-Mathiti/",
+      "sha256": "cecbaa752d4e4ae1bdc4a74d053d74b7500c1bc25aeee7028d337270d7515471",
+      "bytes": 18778027,
+      "page_count": 290,
+      "distribution": "link-only"
+    },
+    {
+      "id": "H-B1-HTML",
+      "title": "Επίσημος πίνακας περιεχομένων/HTML",
+      "url": "https://www.ebooks.edu.gr/ebooks/v/html/8547/2758/Themata-Neoellinikis-Istorias_G-Lykeiou_html-apli/index.html",
+      "distribution": "link-only",
+      "edition_limit": "Δεν θεωρείται byte-identical ή πλήρως ενημερωμένο ως προς το V2 PDF."
+    },
+    {
+      "id": "H-PA-2026",
+      "title": "Πανελλαδικές ΓΕΛ 2026 — Ιστορία Προσανατολισμού",
+      "url": "https://www.minedu.gov.gr/publications/docs2026/panelladikes_2026_iounios/them_istoria_gel_260608.pdf",
+      "sha256": "6967c2109f0aea012d8e09912d803ec085ba0955b3aff99e0c985aceffeaf4c4",
+      "page_count": 4,
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Ελέγχθηκαν πραγματικά η ταυτότητα φυλλαδίου, το επιλεγμένο ερώτημα, η σελίδα και οι αναγραφόμενες μονάδες· δεν εγκρίνεται ολόκληρο το φυλλάδιο για την ύλη2027.",
+      "source_type": "official-exam-paper",
+      "exam_year": 2026
+    },
+    {
+      "id": "H-E1",
+      "title": "ΦΕΚΒ΄5136/03.10.2022 — τρόπος εξέτασης, Γ.Ιστορία",
+      "url": "https://www.minedu.gov.gr/publications/docs2022/FEK-5136_B-2022.pdf",
+      "sha256": "b2aa94019bd465fa6d1caa7fc75aa1f440c14ae742d4c8efb3d6d2478bb76b41",
+      "pdf_pages": [
+        3,
+        4
+      ],
+      "distribution": "link-only",
+      "verified_on": "2026-11-07",
+      "status": "Ελέγχθηκε η πραγματική διατηρημένη απόφαση στην ενότητα Γ.Ιστορία. Δεν πρόκειται για ειδική επανεπιβεβαίωση τροποποιήσεων/οδηγιών διεξαγωγής2027."
+    }
+  ],
+  "selected_past_items": [
+    {
+      "id": "history-2026-B1",
+      "source_id": "H-PA-2026",
+      "year": 2026,
+      "item": "B1",
+      "pdf_page": 1,
+      "official_points": 15,
+      "map_sections": [
+        "H1: Β.1 Το εμπόριο"
+      ],
+      "compatibility_rationale": "Το επιλεγμένο αυτοτελές ερώτημα ελέγχθηκε έναντι της συγκεκριμένης περιλαμβανόμενης ενότητας του χάρτη2027. Δεν απαιτεί εξαιρούμενη ενότητα ή μη διαθέσιμο προηγούμενο αποτέλεσμα.",
+      "requires_source_access": true,
+      "required_source_pdf_pages": [
+        1
+      ]
+    }
+  ]
+}
