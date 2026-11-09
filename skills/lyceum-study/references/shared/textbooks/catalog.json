@@ -1,0 +1,666 @@
+{
+  "verified_on": "2026-10-18",
+  "authority": "2027 subject syllabus maps control examinability; books supply source content only.",
+  "reading": "Βιβλιογραφικός κατάλογος επίσημων διαδικτυακών πηγών. Τα βιβλία και οι πλήρεις εξαγωγές τους δεν περιλαμβάνονται στο πακέτο.",
+  "books": [
+    {
+      "id": "textbook-mathematics-b",
+      "title": "Μαθηματικά Γ΄ Τάξης Γενικού Λυκείου, Β΄ Μέρος — Ομάδας Προσανατολισμού Θετικών Σπουδών & Σπουδών Υγείας και Σπουδών Οικονομίας & Πληροφορικής",
+      "url": "https://ebooks.edu.gr/ebooks/v/pdf/8547/2604/22-0234-01-v3_Mathimatika-G-Lykeiou-ThSp-SpOikPlir_Vivlio-Mathiti-T2/",
+      "catalog_url": "https://lb1.ebooks.edu.gr/ebooks/handle/8547/2604",
+      "book_code": "0-22-0273",
+      "isbn": "978-960-06-5175-1",
+      "url_identifier": "22-0234-01-v3",
+      "edition_statement": "Αναθεωρημένη έκδοση (cover); layout dates2016–2022; no claim of a2027edition",
+      "authors": [
+        "Ανδρεαδάκης Στυλιανός",
+        "Κατσαργύρης Βασίλειος",
+        "Μέτης Στέφανος",
+        "Μπρουχούτας Κων/νος",
+        "Παπασταυρίδης Σταύρος",
+        "Πολύζος Γεώργιος"
+      ],
+      "verified_on": "2026-10-18",
+      "sha256": "1cb7a9c870b645da264a854ac1c200f67ce90401bd3b890c597349776931c697",
+      "page_count": 266,
+      "pagination": {
+        "formula": "PDF page = printed page +1 (numbered book pages)",
+        "numbering": "1-based",
+        "visual_checks": [
+          {
+            "printed": 7,
+            "pdf": 8
+          },
+          {
+            "printed": 27,
+            "pdf": 28
+          },
+          {
+            "printed": 43,
+            "pdf": 44
+          },
+          {
+            "printed": 52,
+            "pdf": 53
+          },
+          {
+            "printed": 54,
+            "pdf": 55
+          },
+          {
+            "printed": 59,
+            "pdf": 60
+          },
+          {
+            "printed": 111,
+            "pdf": 112
+          },
+          {
+            "printed": 185,
+            "pdf": 186
+          },
+          {
+            "printed": 215,
+            "pdf": 216
+          },
+          {
+            "printed": 224,
+            "pdf": 225
+          },
+          {
+            "printed": 247,
+            "pdf": 248
+          }
+        ]
+      },
+      "syllabus_match": "Title, all six authors, chapter/section structure agree with Ministry2027 decision as represented in verified repository map; full book contains excluded material and is not approved in full.",
+      "visual_pages": [
+        1,
+        4,
+        8,
+        28,
+        44,
+        53,
+        55,
+        60,
+        112,
+        186,
+        216,
+        225,
+        248
+      ],
+      "audit_limits": [
+        "Not all pages visually inspected.",
+        "Starred-marker search is extraction-based with four instructional markers visually confirmed, not exhaustive visual certification.",
+        "Current official catalog metadata describes edition2, download URLv3 and actual cover0-22-0273 differ; actual PDF identity takes priority."
+      ],
+      "subject": "mathematics",
+      "verified_page_pairs": [
+        {
+          "printed": 7,
+          "pdf": 8
+        },
+        {
+          "printed": 27,
+          "pdf": 28
+        },
+        {
+          "printed": 43,
+          "pdf": 44
+        },
+        {
+          "printed": 52,
+          "pdf": 53
+        },
+        {
+          "printed": 54,
+          "pdf": 55
+        },
+        {
+          "printed": 59,
+          "pdf": 60
+        },
+        {
+          "printed": 111,
+          "pdf": 112
+        },
+        {
+          "printed": 185,
+          "pdf": 186
+        },
+        {
+          "printed": 215,
+          "pdf": 216
+        },
+        {
+          "printed": 224,
+          "pdf": 225
+        },
+        {
+          "printed": 247,
+          "pdf": 248
+        }
+      ],
+      "source_size_bytes": 38442323,
+      "distribution": "link-only",
+      "rights": {
+        "basis_url": "https://ebooks.edu.gr/ebooks/",
+        "notice_pdf_page": 265,
+        "checked_on": "2026-11-07",
+        "decision": "No blanket public redistribution grant established; official-source access only."
+      }
+    },
+    {
+      "id": "SCI-CHEMISTRY-BOOK",
+      "title": "Χημεία Γ΄ ΓΕΛ, κωδ.22-0297-01_V1",
+      "code": "22-0297-01_V1",
+      "url": "https://www.ebooks.edu.gr/ebooks/d/8547/5598/22-0297-01_V1_Chimeia_G-Lykeiou_Thetikon-Spoudon-kai-Spoudon-Ygeias_Vivlio-Mathiti.pdf",
+      "sha256": "9a578b5e59c41ee5f1680bcc204815c048d8649384919f6b43c970a93d0e333c",
+      "page_count": 398,
+      "verified_on": "2026-10-18",
+      "identity_verification": "Cover/title/author list matches 2027 syllabus prescribed book; chapter numbering matches current map.",
+      "printed_to_pdf_offset": 1,
+      "offset_scope": "numbered body, not covers/preliminary blank leaves; sampled early/middle/late, not every page",
+      "visually_verified_offset_pairs": [
+        {
+          "printed": 11,
+          "pdf": 12
+        },
+        {
+          "printed": 203,
+          "pdf": 204
+        },
+        {
+          "printed": 372,
+          "pdf": 373
+        }
+      ],
+      "subject": "chemistry",
+      "verified_page_pairs": [
+        {
+          "printed": 11,
+          "pdf": 12
+        },
+        {
+          "printed": 203,
+          "pdf": 204
+        },
+        {
+          "printed": 372,
+          "pdf": 373
+        }
+      ],
+      "source_size_bytes": 21819792,
+      "distribution": "link-only",
+      "rights": {
+        "basis_url": "https://ebooks.edu.gr/ebooks/",
+        "notice_pdf_page": 397,
+        "checked_on": "2026-11-07",
+        "decision": "No blanket public redistribution grant established; official-source access only."
+      }
+    },
+    {
+      "id": "SCI-PHYSICS-BOOK-B",
+      "title": "Φυσική Γ΄ ΓΕΛ, Τεύχος Β΄, κωδ.22-0170-02",
+      "code": "22-0170-02",
+      "url": "https://ebooks.edu.gr/ebooks/d/8547/2546/22-0170-02_Fysiki-Teuchos-B_G-Lykeiou-Thetikon-Spoudon-kai-Spoudon-Ygeias-Vivlio-Mathiti.pdf",
+      "sha256": "4b509271d205b2c01f48abdef5786d794405695f8e8312e4d3a3413529511096",
+      "page_count": 246,
+      "verified_on": "2026-10-18",
+      "identity_verification": "Cover/title/author list matches 2027 syllabus prescribed book; chapter numbering matches current map.",
+      "printed_to_pdf_offset": 3,
+      "offset_scope": "numbered body, not covers/preliminary blank leaves; sampled early/middle/late, not every page",
+      "visually_verified_offset_pairs": [
+        {
+          "printed": 8,
+          "pdf": 11
+        },
+        {
+          "printed": 148,
+          "pdf": 151
+        },
+        {
+          "printed": 240,
+          "pdf": 243
+        }
+      ],
+      "subject": "physics",
+      "verified_page_pairs": [
+        {
+          "printed": 8,
+          "pdf": 11
+        },
+        {
+          "printed": 148,
+          "pdf": 151
+        },
+        {
+          "printed": 240,
+          "pdf": 243
+        }
+      ],
+      "source_size_bytes": 13934076,
+      "distribution": "link-only",
+      "rights": {
+        "basis_url": "https://ebooks.edu.gr/ebooks/",
+        "notice_pdf_page": 245,
+        "checked_on": "2026-11-07",
+        "decision": "No blanket public redistribution grant established; official-source access only."
+      }
+    },
+    {
+      "id": "SCI-PHYSICS-BOOK-C",
+      "title": "Φυσική Γ΄ ΓΕΛ, Τεύχος Γ΄, κωδ.22-0282-01",
+      "code": "22-0282-01",
+      "url": "https://ebooks.edu.gr/ebooks/d/8547/2554/22-0282-01_Fysiki-Teuchos-G_G-Lykeiou-Thetikon-Spoudon-kai-Spoudon-Ygeias_Vivlio-Mathiti.pdf",
+      "sha256": "1b59b2ffdac935d85814ac540ce77b7a85d7eefb76d1f2a75cc997f913ee6299",
+      "page_count": 274,
+      "verified_on": "2026-10-18",
+      "identity_verification": "Cover/title/author list matches 2027 syllabus prescribed book; chapter numbering matches current map.",
+      "printed_to_pdf_offset": 1,
+      "offset_scope": "numbered body, not covers/preliminary blank leaves; sampled early/middle/late, not every page",
+      "visually_verified_offset_pairs": [
+        {
+          "printed": 9,
+          "pdf": 10
+        },
+        {
+          "printed": 109,
+          "pdf": 110
+        },
+        {
+          "printed": 239,
+          "pdf": 240
+        }
+      ],
+      "subject": "physics",
+      "verified_page_pairs": [
+        {
+          "printed": 9,
+          "pdf": 10
+        },
+        {
+          "printed": 109,
+          "pdf": 110
+        },
+        {
+          "printed": 239,
+          "pdf": 240
+        }
+      ],
+      "source_size_bytes": 17866571,
+      "distribution": "link-only",
+      "rights": {
+        "basis_url": "https://ebooks.edu.gr/ebooks/",
+        "notice_pdf_page": 273,
+        "checked_on": "2026-11-07",
+        "decision": "No blanket public redistribution grant established; official-source access only."
+      }
+    },
+    {
+      "id": "22-0075",
+      "title": "Έκφραση - Έκθεση, τεύχος Γ΄, Γενικό Λύκειο",
+      "url": "https://old.ebooks.edu.gr/modules/document/file.php/DSGL-C130/%CE%94%CE%B9%CE%B4%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CF%8C%20%CE%A0%CE%B1%CE%BA%CE%AD%CF%84%CE%BF/%CE%92%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%20%CE%9C%CE%B1%CE%B8%CE%B7%CF%84%CE%AE/22-0075-02_Ekfrasi-Ekthesi_G-Lyk_BM.pdf",
+      "sha256": "d4b33c836b5896cc67276156d756da824f7726d57bc6784c7878aeeeca549b71",
+      "page_count": 322,
+      "verified_on": "2026-10-18",
+      "edition_code": "22-0075-02",
+      "cover_code": "0-22-0075",
+      "identity": "Cover and title/imprint pages confirm Γ΄ volume and prescribed author group (Τσολάκης, Αδαλόγλου, Αυδή, Γρηγοριάδης, Δανιήλ, Ζερβού, Λόππα, Τάνης). Revised edition; original file retains 2013/2015/2016 production marks, not a claimed newly written 2026 edition.",
+      "role": "core Γ language textbook",
+      "catalogue_url": "https://old.ebooks.edu.gr/new/books-pdf.php?course=DSGL-C130",
+      "page_mapping": {
+        "rule": "PDF page = printed page + 1 for numbered interior; cover PDF p.1 has no printed page",
+        "basis": "Text extraction plus visual checks at the listed anchors; representative visual QA, not every page proofread.",
+        "anchors": [
+          {
+            "title": "Περιεχόμενα",
+            "printed_page": 5,
+            "pdf_page": 6
+          },
+          {
+            "title": "Επιχειρήματα και τεκμήρια",
+            "printed_page": 8,
+            "pdf_page": 9
+          },
+          {
+            "title": "Το δοκίμιο - κεφαλαιακά περιεχόμενα",
+            "printed_page": 99,
+            "pdf_page": 100
+          },
+          {
+            "title": "Δίκαιος λόγος και άδικος λόγος - κεφαλαιακά περιεχόμενα",
+            "printed_page": 200,
+            "pdf_page": 201
+          },
+          {
+            "title": "Διαβάζω και γράφω - κεφαλαιακά περιεχόμενα",
+            "printed_page": 254,
+            "pdf_page": 255
+          },
+          {
+            "title": "Ερευνητική εργασία",
+            "printed_page": 272,
+            "pdf_page": 273
+          }
+        ]
+      },
+      "verification_status": "identity, relevant contents, page anchors and selected activity/glossary visually checked; full anthology not pedagogically reviewed",
+      "subject": "greek",
+      "verified_page_pairs": [
+        {
+          "printed": 5,
+          "pdf": 6
+        },
+        {
+          "printed": 8,
+          "pdf": 9
+        },
+        {
+          "printed": 99,
+          "pdf": 100
+        },
+        {
+          "printed": 200,
+          "pdf": 201
+        },
+        {
+          "printed": 254,
+          "pdf": 255
+        },
+        {
+          "printed": 272,
+          "pdf": 273
+        }
+      ],
+      "source_size_bytes": 52310437,
+      "distribution": "link-only",
+      "rights": {
+        "basis_url": "https://ebooks.edu.gr/ebooks/",
+        "notice_pdf_page": 321,
+        "checked_on": "2026-11-07",
+        "decision": "No blanket public redistribution grant established; official-source access only."
+      }
+    },
+    {
+      "id": "22-0253",
+      "title": "«Εμείς και οι άλλοι…», Δίκτυο κειμένων, Φάκελος Υλικού Νεοελληνικής Γλώσσας Γ΄ Λυκείου",
+      "url": "https://old.ebooks.edu.gr/modules/document/file.php/DSGL-C130/%CE%94%CE%B9%CE%B4%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CF%8C%20%CE%A0%CE%B1%CE%BA%CE%AD%CF%84%CE%BF/%CE%A6%CE%AC%CE%BA%CE%B5%CE%BB%CE%BF%CF%82%20%CE%A5%CE%BB%CE%B9%CE%BA%CE%BF%CF%8D/22-0253-01-v2_Neoelliniki-Glossa_Diktya-Keimenon-G-Lykeiou_Fakelos-Ylikou.pdf",
+      "sha256": "59755fea99299dfa15b0ed183ccf6e3ec1c31601c0506e2863e586968a717817",
+      "page_count": 182,
+      "verified_on": "2026-10-18",
+      "edition_code": "22-0253-01-v2",
+      "cover_code": "0-22-0253",
+      "identity": "Cover/title confirm Γ΄ ΓΕΛ, Νεοελληνική Γλώσσα, 2019, Φάκελος Υλικού and exact prescribed folder title. Internal updated page production marks October 2019; version v2 is part of the official filename.",
+      "role": "core Γ language folder; includes current-use terminology but historical assessment material",
+      "catalogue_url": "https://old.ebooks.edu.gr/new/books-pdf.php?course=DSGL-C130",
+      "page_mapping": {
+        "rule": "PDF page = printed page + 1 for numbered interior; cover PDF p.1 has no printed page",
+        "basis": "Text extraction plus visual checks at the listed anchors; representative visual QA, not every page proofread.",
+        "anchors": [
+          {
+            "title": "Περιεχόμενα - αρχή",
+            "printed_page": 5,
+            "pdf_page": 6
+          },
+          {
+            "title": "Περιεχόμενα - τέλος",
+            "printed_page": 6,
+            "pdf_page": 7
+          },
+          {
+            "title": "Γλωσσάρι: Νεοελληνική Γλώσσα",
+            "printed_page": 165,
+            "pdf_page": 166
+          },
+          {
+            "title": "Γλωσσάρι: Λογοτεχνία",
+            "printed_page": 174,
+            "pdf_page": 175
+          }
+        ]
+      },
+      "verification_status": "identity, relevant contents, page anchors and selected activity/glossary visually checked; full anthology not pedagogically reviewed",
+      "subject": "greek",
+      "verified_page_pairs": [
+        {
+          "printed": 5,
+          "pdf": 6
+        },
+        {
+          "printed": 6,
+          "pdf": 7
+        },
+        {
+          "printed": 165,
+          "pdf": 166
+        },
+        {
+          "printed": 174,
+          "pdf": 175
+        }
+      ],
+      "source_size_bytes": 5361636,
+      "distribution": "link-only",
+      "rights": {
+        "basis_url": "https://ebooks.edu.gr/ebooks/",
+        "notice_pdf_page": 181,
+        "checked_on": "2026-11-07",
+        "decision": "No blanket public redistribution grant established; official-source access only."
+      }
+    },
+    {
+      "id": "22-0083",
+      "title": "Κείμενα Νεοελληνικής Λογοτεχνίας, τεύχος Γ΄ (1945-2000), Γ΄ τάξη Γενικού Λυκείου",
+      "url": "https://old.ebooks.edu.gr/modules/document/file.php/DSGL-C131/%CE%94%CE%B9%CE%B4%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CF%8C%20%CE%A0%CE%B1%CE%BA%CE%AD%CF%84%CE%BF/%CE%92%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%20%CE%9C%CE%B1%CE%B8%CE%B7%CF%84%CE%AE/22-0083-02-v2_Keimena-Neoellinikis-Logotechnias_G-Lykeiou_Vivlio-Mathiti.pdf",
+      "sha256": "0cdbe97aa25c2c88002affc109377bd4d82601e22d4f12c075115ccf83719ffc",
+      "page_count": 482,
+      "verified_on": "2026-10-18",
+      "edition_code": "22-0083-02-v2",
+      "cover_code": "0-22-0083",
+      "identity": "Cover/title confirm Γ΄ volume for Γ΄ ΓΕΛ general education; title page names Γρηγοριάδης, Καρβέλης, Μηλιώνης, Μπαλάσκας, Παγανός, Παπακώστας, matching prescribed list. NOT the separately listed orientation anthology. Official production marks 2018.",
+      "role": "core Γ general-education literature anthology",
+      "catalogue_url": "https://old.ebooks.edu.gr/new/books-pdf.php?course=DSGL-C131",
+      "page_mapping": {
+        "rule": "PDF page = printed page + 1 for numbered interior; cover PDF p.1 has no printed page",
+        "basis": "Text extraction plus visual checks at the listed anchors; representative visual QA, not every page proofread.",
+        "anchors": [
+          {
+            "title": "Κώστας Μόντης, Νύχτες - ποίημα και ερωτήσεις",
+            "printed_page": 15,
+            "pdf_page": 16
+          },
+          {
+            "title": "Περιεχόμενα - αρχή",
+            "printed_page": 475,
+            "pdf_page": 476
+          },
+          {
+            "title": "Περιεχόμενα - Δ΄ Ξένη Λογοτεχνία",
+            "printed_page": 479,
+            "pdf_page": 480
+          }
+        ]
+      },
+      "verification_status": "identity, relevant contents, page anchors and selected activity/glossary visually checked; full anthology not pedagogically reviewed",
+      "subject": "greek",
+      "verified_page_pairs": [
+        {
+          "printed": 15,
+          "pdf": 16
+        },
+        {
+          "printed": 475,
+          "pdf": 476
+        },
+        {
+          "printed": 479,
+          "pdf": 480
+        }
+      ],
+      "source_size_bytes": 9478771,
+      "distribution": "link-only",
+      "rights": {
+        "basis_url": "https://ebooks.edu.gr/ebooks/",
+        "notice_pdf_page": 481,
+        "checked_on": "2026-11-07",
+        "decision": "No blanket public redistribution grant established; official-source access only."
+      }
+    },
+    {
+      "id": "22-0254",
+      "title": "Λογοτεχνία, Φάκελος Υλικού - Δίκτυα Κειμένων, Γ΄ Γενικού Λυκείου",
+      "url": "https://old.ebooks.edu.gr/modules/document/file.php/DSGL-C131/%CE%94%CE%B9%CE%B4%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CF%8C%20%CE%A0%CE%B1%CE%BA%CE%AD%CF%84%CE%BF/%CE%A6%CE%AC%CE%BA%CE%B5%CE%BB%CE%BF%CF%82%20%CE%A5%CE%BB%CE%B9%CE%BA%CE%BF%CF%8D%20-%20%CE%94%CE%AF%CE%BA%CF%84%CF%85%CE%BF%20%CE%9A%CE%B5%CE%B9%CE%BC%CE%AD%CE%BD%CF%89%CE%BD/22-0254-01_Logotechnia_G-Lykeiou_Fakelos-Ylikou_Diktya-Keimenon.pdf",
+      "sha256": "9266b16622bb2e12786904e50ce0eff147c736677296f59838bf3b0ad1799710",
+      "page_count": 222,
+      "verified_on": "2026-10-18",
+      "edition_code": "22-0254-01",
+      "cover_code": "0-22-0254",
+      "identity": "Cover and title confirm exact prescribed Γ΄ ΓΕΛ literature folder, not Φάκελος Εκπαιδευτικού (22-0256). Official 2019 production marks.",
+      "role": "core Γ literature folder and glossary",
+      "catalogue_url": "https://old.ebooks.edu.gr/new/books-pdf.php?course=DSGL-C131",
+      "page_mapping": {
+        "rule": "PDF page = printed page + 1 for numbered interior; cover PDF p.1 has no printed page",
+        "basis": "Text extraction plus visual checks at the listed anchors; representative visual QA, not every page proofread.",
+        "anchors": [
+          {
+            "title": "Περιεχόμενα - αρχή",
+            "printed_page": 7,
+            "pdf_page": 8
+          },
+          {
+            "title": "Περιεχόμενα - τέλος",
+            "printed_page": 8,
+            "pdf_page": 9
+          },
+          {
+            "title": "Γλωσσάρι όρων",
+            "printed_page": 193,
+            "pdf_page": 194
+          }
+        ]
+      },
+      "verification_status": "identity, relevant contents, page anchors and selected activity/glossary visually checked; full anthology not pedagogically reviewed",
+      "subject": "greek",
+      "verified_page_pairs": [
+        {
+          "printed": 7,
+          "pdf": 8
+        },
+        {
+          "printed": 8,
+          "pdf": 9
+        },
+        {
+          "printed": 193,
+          "pdf": 194
+        }
+      ],
+      "source_size_bytes": 4667402,
+      "distribution": "link-only",
+      "rights": {
+        "basis_url": "https://ebooks.edu.gr/ebooks/",
+        "notice_pdf_page": 221,
+        "checked_on": "2026-11-07",
+        "decision": "No blanket public redistribution grant established; official-source access only."
+      }
+    },
+    {
+      "id": "22-0043",
+      "title": "Λεξικό Λογοτεχνικών Όρων, Γυμνασίου - Λυκείου",
+      "url": "https://old.ebooks.edu.gr/modules/document/file.php/DSGL-C131/%CE%94%CE%B9%CE%B4%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CF%8C%20%CE%A0%CE%B1%CE%BA%CE%AD%CF%84%CE%BF/%CE%9B%CE%B5%CE%BE%CE%B9%CE%BA%CF%8C%20%CE%9B%CE%BF%CE%B3%CE%BF%CF%84%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CF%8E%CE%BD%20%CE%8C%CF%81%CF%89%CE%BD/22-0043-02_Lexiko-Logotechnikon-Oron_Gymnasiou-Lykeiou.pdf",
+      "sha256": "41b08addbee0ffa687b280c357427f6456593408037b5b8d4ef3ac27755eeb86",
+      "page_count": 242,
+      "verified_on": "2026-10-18",
+      "edition_code": "22-0043-02",
+      "cover_code": "0-22-0043",
+      "identity": "Cover/code and title/imprint confirm Παρίσης Ιωάννης and Παρίσης Νικήτας, matching Ministry prescribed reference book. Common Gymnasium/Lyceum dictionary, deliberately included as reference rather than Γ-only textbook. Official production marks 2018.",
+      "role": "prescribed literary terminology reference",
+      "catalogue_url": "https://old.ebooks.edu.gr/new/books-pdf.php?course=DSGL-C131",
+      "page_mapping": {
+        "rule": "PDF page = printed page + 1 for numbered interior; cover PDF p.1 has no printed page",
+        "basis": "Text extraction plus visual checks at the listed anchors; representative visual QA, not every page proofread.",
+        "anchors": [
+          {
+            "title": "Αλληγορία - αρχή λημμάτων",
+            "printed_page": 7,
+            "pdf_page": 8
+          },
+          {
+            "title": "Αφηγητής - αρχή λήμματος",
+            "printed_page": 29,
+            "pdf_page": 30
+          },
+          {
+            "title": "Ωδή - τελευταίο λήμμα",
+            "printed_page": 210,
+            "pdf_page": 211
+          },
+          {
+            "title": "Ευρετήριο όρων - αρχή",
+            "printed_page": 230,
+            "pdf_page": 231
+          }
+        ]
+      },
+      "verification_status": "identity, relevant contents, page anchors and selected activity/glossary visually checked; full anthology not pedagogically reviewed",
+      "subject": "greek",
+      "verified_page_pairs": [
+        {
+          "printed": 7,
+          "pdf": 8
+        },
+        {
+          "printed": 29,
+          "pdf": 30
+        },
+        {
+          "printed": 210,
+          "pdf": 211
+        },
+        {
+          "printed": 230,
+          "pdf": 231
+        }
+      ],
+      "source_size_bytes": 4925587,
+      "distribution": "link-only",
+      "rights": {
+        "basis_url": "https://ebooks.edu.gr/ebooks/",
+        "notice_pdf_page": 241,
+        "checked_on": "2026-11-07",
+        "decision": "No blanket public redistribution grant established; official-source access only."
+      }
+    }
+  ],
+  "online_only": [
+    {
+      "id": "22-0011-02",
+      "title": "Γλωσσικές Ασκήσεις (Γενικό Λύκειο)",
+      "url": "https://old.ebooks.edu.gr/modules/document/file.php/DSGL-C130/%CE%94%CE%B9%CE%B4%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CF%8C%20%CE%A0%CE%B1%CE%BA%CE%AD%CF%84%CE%BF/%CE%93%CE%BB%CF%89%CF%83%CF%83%CE%B9%CE%BA%CE%AD%CF%82%20%CE%91%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82/22-0011-02_Glossikes-Askiseis_Lyk.pdf",
+      "catalogue_url": "https://old.ebooks.edu.gr/new/books-pdf.php?course=DSGL-C130",
+      "reason": "Συμπληρωματικό διαταξικό υλικό Α΄-Β΄-Γ΄ Λυκείου: επίσημος σύνδεσμος, δεν πακετάρεται στον βασικό πυρήνα.",
+      "verification_status": "Official catalogue title/direct PDF link observed; PDF not downloaded, page mapping and contents not verified. Code is catalogue filename code; newer alternative editions not compared.",
+      "included": false
+    },
+    {
+      "id": "22-0020-02",
+      "title": "Θεματικοί Κύκλοι. Έκφραση - Έκθεση (Γενικό Λύκειο)",
+      "url": "https://old.ebooks.edu.gr/modules/document/file.php/DSGL-C130/%CE%94%CE%B9%CE%B4%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CF%8C%20%CE%A0%CE%B1%CE%BA%CE%AD%CF%84%CE%BF/%CE%98%CE%B5%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%BF%CE%AF%20%CE%BA%CF%8D%CE%BA%CE%BB%CE%BF%CE%B9/22-0020-02_Thematikoi-Kykloi_Ekfrasi-Ekthesi_Lyk.pdf",
+      "catalogue_url": "https://old.ebooks.edu.gr/new/books-pdf.php?course=DSGL-C130",
+      "reason": "Συμπληρωματική ανθολογία θεμάτων για όλο το Λύκειο: επίσημος σύνδεσμος καταλόγου, όχι χωριστός νέος κατάλογος εξεταστέων κειμένων.",
+      "verification_status": "Official catalogue title/direct PDF link observed; PDF not downloaded, page mapping and contents not verified. Code is catalogue filename code; newer alternative editions not compared.",
+      "included": false
+    },
+    {
+      "id": "21-0058-02_V2",
+      "title": "Γραμματική Νέας Ελληνικής Γλώσσας (Α΄, Β΄, Γ΄ Γυμνασίου)",
+      "url": "https://ebooks.edu.gr/ebooks/v/pdf/8547/774/21-0058-02_V2_Grammatiki-Neas-Ellinikis-Glossas_A-B-G-Gymnasiou/",
+      "catalogue_url": "https://ebooks.edu.gr/ebooks/handle/8547/292",
+      "reason": "Prescribed general reference grammar is a Gymnasium reference, not a Γ-only new volume. Official-source link only; no public redistribution grant established; Ministry explicitly points to printed pp.169-171 for assessment concepts. Those page mappings not independently verified here.",
+      "verification_status": "Official catalogue title, authors, standard PDF-viewer URL and HTML contents verified; full PDF not downloaded.",
+      "included": false
+    }
+  ],
+  "scope": "Nine core/reference books for four subjects and three ancillary Greek titles, all link-only. Bibliographic presence does not establish blanket2027scope approval."
+}

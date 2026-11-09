@@ -1,0 +1,280 @@
+{
+  "subject": "latin",
+  "exam_year": 2027,
+  "verified_on": "2026-11-07",
+  "verification_limits": [
+    "Dated primary-source verification, not continuous monitoring or a guarantee that every amendment has been found.",
+    "Official source PDFs/ZIPs/text extracts are not distributed here. Only links, identity, locators and original teaching notes.",
+    "Actual textbook identity and targeted pages verified; not a full philological or every-exercise audit.",
+    "No liveChatGPT behavioral verification or independent review claimed.",
+    "Only selected past item is approved for current-scope use after source retrieval; no stored prompt, answer or hint.",
+    "Examination rules from retained2022 Gazette checked; no specific2027 conduct-circular reconfirmation."
+  ],
+  "sources": [
+    {
+      "id": "LA-SCOPE-2027",
+      "title": "ΥΠΑΙΘΑ90176/Δ2/06-07-2026: εξεταστέα ύλη Πανελλαδικών ΓΕΛ2027",
+      "source_type": "official-examination-syllabus",
+      "exam_year": 2027,
+      "url": "https://www.minedu.gov.gr/publications/90176_%CE%942_06_07_26_%CE%95%CE%9E%CE%95%CE%A4%CE%91%CE%A3%CE%A4%CE%95%CE%91_%CE%A5%CE%9B%CE%97_2027.pdf",
+      "shared_source_id": "S1",
+      "shared_resource": "../../lyceum-study/references/shared/official/syllabus-2027.pdf",
+      "sha256": "279ee3201659ff3bc17bcd0a2bdd3137b1d09bc064e03773ebb6b197aac59357",
+      "page_count": 22,
+      "locators": {
+        "subject_pdf_pages": [
+          7,
+          8,
+          9
+        ]
+      },
+      "verified_on": "2026-11-07",
+      "distribution": "reference-existing-bundled-administrative-record",
+      "status": "Actual retained complete22-page MinistryPDF read at the specified pages; critical selections visually inspected. Hash identifies retained document, not a fresh network retrieval in this check."
+    },
+    {
+      "id": "LA-IEP-INDEX",
+      "title": "ΙΕΠ: οδηγίες Γενικού Λυκείου2026–2027",
+      "source_type": "official-guidance-index",
+      "school_year": "2026-2027",
+      "url": "https://www.iep.edu.gr/yli-kai-odigies-didaskalias-genikou-lykeiou-gia-to-scholiko-etos-2026-2027/",
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Actual official annual page opened and relevant archive href inspected. No hash asserted for changingHTML."
+    },
+    {
+      "id": "LA-RULES",
+      "title": "Φ.251/119188/Α5/29.9.2022, ΦΕΚ Β΄5136/03.10.2022 — Δ. Λατινικά",
+      "source_type": "official-examination-rules",
+      "url": "https://www.minedu.gov.gr/publications/docs2022/FEK-5136_B-2022.pdf",
+      "retrieved_url": "https://old.minedu.gov.gr/publications/docs2022/FEK-5136_B-2022.pdf",
+      "shared_source_id": "E1",
+      "shared_resource": "../../lyceum-study/references/shared/official/exam-rules-fek-5136-2022.pdf",
+      "sha256": "b2aa94019bd465fa6d1caa7fc75aa1f440c14ae742d4c8efb3d6d2478bb76b41",
+      "locators": {
+        "section": "Δ. Λατινικά",
+        "pdf_page": 4,
+        "printed_page": 52700
+      },
+      "verified_on": "2026-11-07",
+      "distribution": "reference-existing-bundled-administrative-record",
+      "status": "Actual retained relevant page read. Rule applies from2023–24 onward according to document; not a fresh network retrieval.",
+      "verification_limit": "No special2027 conduct-circular reconfirmation; check newer official instructions before claiming a fully current full-exam simulation."
+    },
+    {
+      "id": "LA-IEP-2026-27",
+      "title": "ΙΕΠ2026–2027: Λατινικά ΓΕΛ Β΄ και Γ΄",
+      "source_type": "official-teaching-guidance",
+      "school_year": "2026-2027",
+      "url": "https://www.iep.edu.gr/wp-content/uploads/2026/09/%CE%9B%CE%91%CE%A4%CE%99%CE%9D%CE%99%CE%9A%CE%91_%CE%92_%CE%93%CE%95%CE%9B_2026-2027.zip",
+      "archive_member": "162272_2_ΣΥΝ_106387_ΛΑΤΙΝΙΚΑ_ΓΕΛ_2026_2027.pdf",
+      "archive_sha256": "40cfe74c5d058cb9ee7329c5495b97a4b7ef3d3644647a836889a758491400dd",
+      "sha256": "f2d076a911bcb18fc3cf0e69d1d1bc1f2605ff57c142d4f36e5277efac19a506",
+      "page_count": 34,
+      "format": "zip",
+      "locators": {
+        "grade_b_grammar_table_pdf_pages": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "grade_g_section_begins_pdf_page": 22,
+        "grade_g_teaching_guidance_pdf_pages": [
+          23,
+          24,
+          25,
+          26
+        ],
+        "grade_g_etymology_support": [
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34
+        ]
+      },
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Actual gradeG section and gradeB grammar table read separately. Revised introduction22-0286 confirmed; gradeB texts are not substituted for gradeG selected texts.",
+      "hash_scope": "sha256 is actual PDF member; archive_sha256 identifies actualZIP.",
+      "retrieval": "Use available archive/PDF access for exact member; no special student installation needed."
+    },
+    {
+      "id": "LA-BOOK-A",
+      "title": "Λατινικά τεύχοςΑ΄ — αναθεωρημένη εισαγωγή22-0286",
+      "source_type": "official-textbook",
+      "authors": [
+        "Μ. Πασχάλης",
+        "Γ. Σαββαντίδης"
+      ],
+      "publisher": "ΙΤΥΕ Διόφαντος",
+      "book_code": "22-0286-01-V1",
+      "isbn": "978-960-06-2412-0",
+      "url": "https://ebooks.edu.gr/ebooks/v/pdf/8547/2528/22-0286-01-V1_Latinika-Teuchos-A_B-Lykeiou_Vivlio-Mathiti/",
+      "sha256": "60918323f9b931bf215369b54d29eda6be0ccc980a86ff236a08f7d546e8e902",
+      "bytes": 8579167,
+      "page_count": 170,
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Actual revised title, introduction authorsD.Z.Nikitas/V.Vaiopoulos, relevant introduction boundary and XVI–XX start pages/contents read. Intro boundary visually inspected onPDF21/printed20. Cover says gradeB; Ministry2027 explicitly selects this volume for gradeG.",
+      "locators": {
+        "intro_authors": [
+          "Δ. Ζ. Νικήτας",
+          "Β. Βαϊόπουλος"
+        ],
+        "printed_to_pdf_offset": 1,
+        "selected_introduction_pdf_pages": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "introduction_end_note": "PDF21/printed20 contains the end of Augustan prose and the beginning of excluded detailed postclassical section; select by heading, not whole page.",
+        "lesson_start_pdf": {
+          "XVI": 121,
+          "XVII": 126,
+          "XVIII": 132,
+          "XIX": 137,
+          "XX": 142
+        },
+        "grammar_index_pdf_pages": [
+          160,
+          161,
+          162,
+          163,
+          164
+        ],
+        "legacy_warning": "22-0156 is inactive oldA; do not replace revised22-0286 introduction."
+      },
+      "verification_limit": "Πραγματική λήψη και στοχευμένη ανάγνωση, όχι έλεγχος κάθε άσκησης, μορφής ή τυπογραφικού στοιχείου όλου του βιβλίου."
+    },
+    {
+      "id": "LA-BOOK-B",
+      "title": "Λατινικά τεύχοςΒ΄ Γ΄ΓΕΛ",
+      "source_type": "official-textbook",
+      "authors": [
+        "Μ. Πασχάλης",
+        "Γ. Σαββαντίδης"
+      ],
+      "publisher": "ΙΤΥΕ Διόφαντος",
+      "book_code": "22-0165-02",
+      "isbn": "978-960-06-2420-5",
+      "url": "https://ebooks.edu.gr/ebooks/d/8547/2538/22-0165-02_Latinika-Teuchos-B_G-Lykeiou_Vivlio-Mathiti.pdf",
+      "sha256": "d5542c00b9891b6883249ccf12e4db91ee5b595fc2ed558dc7cf4c1011176f9f",
+      "bytes": 4008076,
+      "page_count": 242,
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Actual current download, title/authors/lesson starts/full phenomenon-index and targeted rules read. Cover ISBN visually inspected;2025 cover-production date observed, not claimed as new2027 edition.",
+      "locators": {
+        "printed_to_pdf_offset": 1,
+        "included_lessons": "XXI–L",
+        "grammar_index_pdf_pages": [
+          235,
+          236,
+          237,
+          238,
+          239
+        ],
+        "targeted_rule_pdf_pages": [
+          13,
+          31,
+          32,
+          79,
+          80
+        ],
+        "exam_context_lesson_XXXV_pdf_page": 86
+      },
+      "verification_limit": "Πραγματική λήψη και στοχευμένη ανάγνωση, όχι έλεγχος κάθε άσκησης, μορφής ή τυπογραφικού στοιχείου όλου του βιβλίου."
+    },
+    {
+      "id": "LA-GRAMMAR",
+      "title": "Λατινική Γραμματική",
+      "source_type": "official-textbook",
+      "authors": [
+        "Αχιλλέας Τζάρτζανος"
+      ],
+      "publisher": "ΙΤΥΕ Διόφαντος",
+      "book_code": "22-0158-02-v3",
+      "isbn": "978-960-06-2414-4",
+      "url": "https://old.ebooks.edu.gr/modules/document/file.php/DSGL-C133/%CE%94%CE%B9%CE%B4%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CF%8C%20%CE%A0%CE%B1%CE%BA%CE%AD%CF%84%CE%BF/%CE%93%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE%20%CE%9B%CE%B1%CF%84%CE%B9%CE%BD%CE%B9%CE%BA%CE%AE%CF%82%20%CE%93%CE%BB%CF%8E%CF%83%CF%83%CE%B1%CF%82/22-0158-02-v3_Latiniki-Grammatiki_G-Lykeiou-AnthrSp_Vivlio-Mathiti.pdf",
+      "sha256": "21e53eb1663008eae3e9b49a54327648bfb5a3f45728a47df497932ddac370fe",
+      "bytes": 2316886,
+      "page_count": 202,
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Actual title/authorship verified; reference work to inspect for disputed forms, without claiming every page is examination scope.",
+      "locators": {
+        "identity_pdf_pages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "html_url": "https://ebooks.edu.gr/ebooks/v/html/8547/2730/Latiniki-Grammatiki_G-Lykeiou_html-apli/"
+      },
+      "verification_limit": "Πραγματική λήψη και στοχευμένη ανάγνωση, όχι έλεγχος κάθε άσκησης, μορφής ή τυπογραφικού στοιχείου όλου του βιβλίου."
+    },
+    {
+      "id": "LA-PAPER-2026",
+      "title": "Λατινικά — Πανελλαδικές ημερήσιων/εσπερινών ΓΕΛ2026",
+      "source_type": "official-exam-paper",
+      "exam_year": 2026,
+      "exam_date": "2026-06-05",
+      "url": "https://www.minedu.gov.gr/publications/docs2026/panelladikes_2026_iounios/them_latin_gel_260605.pdf",
+      "sha256": "90fd66e1812e017af0b317406bea390a4e9d8e1c1f2cbf434daa3d688c7adbaf",
+      "page_count": 4,
+      "bytes": 277869,
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Actual complete paper downloaded temporarily; selected item and all necessary text context read; selected item page visually inspected. Only locator/marks/compatibility metadata retained.",
+      "limits": "No official answer key, no full-paper2027 compatibility approval, no predictions of future questions."
+    }
+  ],
+  "selected_past_items": [
+    {
+      "id": "LA-2026-D1B",
+      "source_id": "LA-PAPER-2026",
+      "year": 2026,
+      "item": "Δ1β",
+      "pdf_page": 3,
+      "official_points": 3,
+      "map_sections": [
+        "Προσδιορισμός τόπου — XXVIII",
+        "ΚείμενοXXXV"
+      ],
+      "compatibility_rationale": "Only selected item reviewed: topic expressly included in2027 grammar/syntax list and contextual text belongs to included lessonXXXV. No whole-paper compatibility approval.",
+      "requires_source_access": true,
+      "required_source_pdf_pages": [
+        1,
+        3
+      ],
+      "required_source_parts": [
+        {
+          "pdf_pages": [
+            1
+          ],
+          "locator": "Πρώτο λατινικό κείμενο, με τα πλήρη αναγκαία συμφραζόμενα."
+        },
+        {
+          "pdf_pages": [
+            3
+          ],
+          "locator": "Δ1β, πλήρες ερώτημα και αναγραφόμενες μονάδες."
+        }
+      ],
+      "marks_provenance": "Actual official item page3:3 points; no answer or marking key retained."
+    }
+  ]
+}
