@@ -1,6 +1,6 @@
 # Greek Lyceum Tutor — repository guidance
 
-Git is the development source of truth for four Greek-language tutors for Γ΄ ΓΕΛ / Πανελλαδικές 2027. All twelve authoring skills live under `skills/`; each built tutor contains exactly six. The repository root is authoring source, not an installable four-field plugin.
+Git is the development source of truth for four Greek-language tutors for Γ΄ ΓΕΛ / Πανελλαδικές 2027. All twelve authoring skills live under `skills/`; each built tutor contains exactly six. The repository root is authoring source, not an installable four-field plugin. The published marketplace at `.agents/plugins/marketplace.json` points to four complete generated packages under `plugins/`.
 
 ## Orientation and authority
 
@@ -21,7 +21,7 @@ Use relevant installed engineering skills and available general consultant/revie
 
 ## Verification and delivery
 
-Use Python 3 and the pinned `requirements-dev.txt` dependency, or an available bundled runtime. Packaging/layout changes require `scripts/validate.py`, both regression scripts listed in [test guidance](tests/README.md), and candidate builds of all four fields into a disposable directory. Keep strict emitted-runtime closure distinct from the twelve-skill authoring tree. For a behaviour-preserving refactor, compare all four emitted payloads before/after.
+Use Python 3 and the pinned `requirements-dev.txt` dependency, or an available bundled runtime. Packaging/layout changes require `scripts/validate.py`, both regression scripts listed in [test guidance](tests/README.md), and candidate builds of all four fields into a disposable directory. Keep strict emitted-runtime closure distinct from the twelve-skill authoring tree. For a behaviour-preserving refactor, compare all four emitted payloads before/after. After source or human-guide edits, run `python3 scripts/marketplace.py` and `python3 scripts/marketplace.py --check`; never edit generated `plugins/` copies directly.
 
 Instruction changes require relevant real-host checks when authorized. Structural success and subagent simulations never establish ChatGPT behaviour. Live tests use Temporary chats and verified plugin/version/model/settings; check actually loaded instructions when staleness matters.
 

@@ -1,0 +1,56 @@
+{
+  "name": "greek-lyceum-tutor",
+  "interface": {
+    "displayName": "Πανελλαδικές — Επιλογή πεδίου"
+  },
+  "plugins": [
+    {
+      "name": "greek-lyceum-tutor-field-1",
+      "source": {
+        "source": "local",
+        "path": "./plugins/greek-lyceum-tutor-field-1"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "greek-lyceum-tutor",
+      "source": {
+        "source": "local",
+        "path": "./plugins/greek-lyceum-tutor"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "greek-lyceum-tutor-field-3",
+      "source": {
+        "source": "local",
+        "path": "./plugins/greek-lyceum-tutor-field-3"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "greek-lyceum-tutor-field-4",
+      "source": {
+        "source": "local",
+        "path": "./plugins/greek-lyceum-tutor-field-4"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    }
+  ]
+}

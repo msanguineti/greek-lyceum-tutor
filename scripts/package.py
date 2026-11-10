@@ -182,8 +182,8 @@ def build_marketplace(destination):
         for field in fields:
             plugin = tree / 'plugins' / field['name']
             runtime = checked_runtime(field, plugin)
-            for name in ('LICENSE', 'THIRD_PARTY_NOTICES.md'):
-                (plugin / name).write_bytes(runtime[name])
+            for name, content in download_payload(field, runtime).items():
+                (plugin / name).write_bytes(content)
             entries.append(marketplace_entry(field))
         manifest = {'name': 'greek-lyceum-tutor',
                     'interface': {'displayName': 'Πανελλαδικές — Επιλογή πεδίου'},

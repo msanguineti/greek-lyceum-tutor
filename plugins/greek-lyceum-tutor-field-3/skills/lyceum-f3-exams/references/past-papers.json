@@ -1,0 +1,203 @@
+{
+  "papers": [
+    {
+      "source_id": "PA-GR",
+      "title": "Νεοελληνική Γλώσσα και Λογοτεχνία - επίσημα θέματα ΓΕΛ 2026-05-29",
+      "url": "https://www.minedu.gov.gr/publications/docs2026/panelladikes_2026_iounios/them_nea_ellinika_gel_260529.pdf",
+      "verified_on": "2026-10-18",
+      "sha256": "f1aee0ee5b25d82365058d2c997c8f19d2e373f2d04824af565e84091af54495",
+      "compatibility": "Authentic 2026 source; each selected subquestion must be checked against 2027 syllabus before assignment. See curated selections when available.",
+      "official_solutions_included": false,
+      "distribution": "link-only",
+      "source_container": "single_paper"
+    },
+    {
+      "source_id": "PA-PH",
+      "title": "Φυσική Προσανατολισμού - επίσημα θέματα ΓΕΛ 2026-06-08",
+      "url": "https://www.minedu.gov.gr/publications/docs2026/panelladikes_2026_iounios/them_fysiki_gel_260608.pdf",
+      "verified_on": "2026-10-18",
+      "sha256": "d4d891a08673c4077426d0b7ed94f534567b373e864a47379edd24a229859763",
+      "compatibility": "Authentic 2026 source; each selected subquestion must be checked against 2027 syllabus before assignment. See curated selections when available.",
+      "official_solutions_included": false,
+      "distribution": "link-only",
+      "source_container": "single_paper"
+    },
+    {
+      "source_id": "PA-CH",
+      "title": "Χημεία Προσανατολισμού - επίσημα θέματα ΓΕΛ 2026-06-05",
+      "url": "https://www.minedu.gov.gr/publications/docs2026/panelladikes_2026_iounios/them_ximeia_gel_260605.pdf",
+      "verified_on": "2026-10-18",
+      "sha256": "27e1aa5cc25145feb19ebf6fa1df69901c6bc56bc81ac07b8b03a6643160b373",
+      "compatibility": "Authentic 2026 source; each selected subquestion must be checked against 2027 syllabus before assignment. See curated selections when available.",
+      "official_solutions_included": false,
+      "distribution": "link-only",
+      "source_container": "single_paper"
+    },
+    {
+      "source_id": "PA-PHYSICS-2020",
+      "title": "Φυσική Προσανατολισμού - επίσημα θέματα ΓΕΛ 2020-06-22",
+      "url": "https://www.minedu.gov.gr/publications/docs2020/EXETASEIS-2020-IOUNIOS/them_Phys_op_NEO_200622.pdf",
+      "verified_on": "2026-10-18",
+      "sha256": "ee47580a5dcdbedc92f28e2c2e1eb633600edee979a1a4e50aeb8070f27979c5",
+      "compatibility": "Only explicitly indexed items reviewed against supplied 2027 maps; no whole-paper approval.",
+      "official_solutions_included": false,
+      "distribution": "link-only",
+      "source_container": "single_paper"
+    },
+    {
+      "source_id": "PA-PHYSICS-2024",
+      "title": "Φυσική Προσανατολισμού - επίσημα θέματα ΓΕΛ 2024-06-12",
+      "url": "https://www.minedu.gov.gr/publications/docs2024/panelladikes_2024_iounios/them_fysiki_gel_240612.pdf",
+      "verified_on": "2026-10-18",
+      "sha256": "4ab4baa2e4b6afdba538923242ee2ef16909d0e4138266645835f26631b97c91",
+      "compatibility": "Only explicitly indexed items reviewed against supplied 2027 maps; no whole-paper approval.",
+      "official_solutions_included": false,
+      "distribution": "link-only",
+      "source_container": "single_paper"
+    },
+    {
+      "source_id": "PA-PHYSICS-2025",
+      "title": "Φυσική Προσανατολισμού - επίσημα θέματα ΓΕΛ 2025-06-06",
+      "url": "https://www.minedu.gov.gr/publications/docs2025/panelladikes_2025_iounios/them_fysiki_gel_250606.pdf",
+      "verified_on": "2026-10-18",
+      "sha256": "f157db92e343d9ccbe91ed6d37d97071fd37d30852eb76d6a42325b69b82cb3e",
+      "compatibility": "Only explicitly indexed items reviewed against supplied 2027 maps; no whole-paper approval.",
+      "official_solutions_included": false,
+      "distribution": "link-only",
+      "source_container": "single_paper"
+    },
+    {
+      "source_id": "PA-PAPER-CHEMISTRY-2020",
+      "title": "Χημεία Προσανατολισμού - επίσημα θέματα ΓΕΛ 2020-06-26",
+      "url": "https://eoe.minedu.gov.gr/images/2010-2026_CHEMEIA_GEL.pdf",
+      "verified_on": "2026-10-18",
+      "sha256": "66a77722792653c15cd708e3006091001cb7ae25ad07589fd6164d4cfd550502",
+      "compatibility": "Only explicitly indexed items reviewed against supplied 2027 maps; no whole-paper approval.",
+      "official_solutions_included": false,
+      "archive_index_url": "https://eoe.minedu.gov.gr/el/home/arxeio-thematon",
+      "archive_sha256": "66a77722792653c15cd708e3006091001cb7ae25ad07589fd6164d4cfd550502",
+      "archive_pdf_pages_1_based": [
+        174,
+        181
+      ],
+      "page_count": 8,
+      "artifact_type": "complete annual paper extracted from official consolidated archive; not original downloaded annual-file bytes",
+      "extraction_method": "Poppler pdfseparate -f START -l END ARCHIVE PART-%d.pdf; pdfunite PART-START.pdf ... PART-END.pdf OUTPUT.pdf. Page content unedited. Byte hashes can vary across tool versions; verify source pages/content.",
+      "distribution": "link-only",
+      "source_container": "annual_archive",
+      "reviewed_extract_sha256": "49876d25f901a903d7858c31213f28b479dd111ff4753daf186e4ceed1b2814b",
+      "hash_scope": "Bytes of the consolidated archive at url; reviewed_extract_sha256 identifies the earlier annual extract, which is not bundled."
+    },
+    {
+      "source_id": "PA-PAPER-CHEMISTRY-2023",
+      "title": "Χημεία Προσανατολισμού - επίσημα θέματα ΓΕΛ 2023-06-08",
+      "url": "https://eoe.minedu.gov.gr/images/2010-2026_CHEMEIA_GEL.pdf",
+      "verified_on": "2026-10-18",
+      "sha256": "66a77722792653c15cd708e3006091001cb7ae25ad07589fd6164d4cfd550502",
+      "compatibility": "Only explicitly indexed items reviewed against supplied 2027 maps; no whole-paper approval.",
+      "official_solutions_included": false,
+      "archive_index_url": "https://eoe.minedu.gov.gr/el/home/arxeio-thematon",
+      "archive_sha256": "66a77722792653c15cd708e3006091001cb7ae25ad07589fd6164d4cfd550502",
+      "archive_pdf_pages_1_based": [
+        207,
+        213
+      ],
+      "page_count": 7,
+      "artifact_type": "complete annual paper extracted from official consolidated archive; not original downloaded annual-file bytes",
+      "extraction_method": "Poppler pdfseparate -f START -l END ARCHIVE PART-%d.pdf; pdfunite PART-START.pdf ... PART-END.pdf OUTPUT.pdf. Page content unedited. Byte hashes can vary across tool versions; verify source pages/content.",
+      "distribution": "link-only",
+      "source_container": "annual_archive",
+      "reviewed_extract_sha256": "7983efae1da946253f979e5d2202dfb6538de9b41cb1cf21a057cbed55c83b2e",
+      "hash_scope": "Bytes of the consolidated archive at url; reviewed_extract_sha256 identifies the earlier annual extract, which is not bundled."
+    },
+    {
+      "source_id": "PA-PAPER-CHEMISTRY-2025",
+      "title": "Χημεία Προσανατολισμού - επίσημα θέματα ΓΕΛ 2025-06-04",
+      "url": "https://www.minedu.gov.gr/publications/docs2025/panelladikes_2025_iounios/them_ximeia_gel_250604.pdf",
+      "verified_on": "2026-11-07",
+      "sha256": "ed5280d8c2c3628daee2fe6665da3b09ed4c7828d8c9efb935a7215bb40b3ef1",
+      "compatibility": "Only explicitly indexed items reviewed against supplied 2027 maps; no whole-paper approval.",
+      "official_solutions_included": false,
+      "archive_index_url": "https://eoe.minedu.gov.gr/el/home/arxeio-thematon",
+      "archive_sha256": "66a77722792653c15cd708e3006091001cb7ae25ad07589fd6164d4cfd550502",
+      "archive_pdf_pages_1_based": [
+        220,
+        225
+      ],
+      "page_count": 6,
+      "artifact_type": "Official standalone annual paper, 6 pages",
+      "distribution": "link-only",
+      "reviewed_extract_sha256": "a8bce6e51f7cc76878521a17f1a1028c23c1fb384e23b88e73613e809e0429f3",
+      "archive_url": "https://eoe.minedu.gov.gr/images/2010-2026_CHEMEIA_GEL.pdf",
+      "source_container": "single_paper"
+    },
+    {
+      "source_id": "PA-PAPER-GREEK-2020",
+      "title": "Νεοελληνική Γλώσσα και Λογοτεχνία - επίσημα θέματα ΓΕΛ 2020-06-15",
+      "url": "https://eoe.minedu.gov.gr/images/2026_Neoellenike%20Glossa%20%20Logotechnia.pdf",
+      "verified_on": "2026-10-18",
+      "sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "compatibility": "Only explicitly indexed items reviewed against supplied 2027 maps; no whole-paper approval.",
+      "official_solutions_included": false,
+      "archive_index_url": "https://eoe.minedu.gov.gr/el/home/arxeio-thematon",
+      "archive_sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "archive_pdf_pages_1_based": [
+        121,
+        125
+      ],
+      "page_count": 5,
+      "artifact_type": "complete annual paper extracted from official consolidated archive; not original downloaded annual-file bytes",
+      "extraction_method": "Poppler pdfseparate -f START -l END ARCHIVE PART-%d.pdf; pdfunite PART-START.pdf ... PART-END.pdf OUTPUT.pdf. Page content unedited. Byte hashes can vary across tool versions; verify source pages/content.",
+      "distribution": "link-only",
+      "source_container": "annual_archive",
+      "reviewed_extract_sha256": "0f9e0e3b944fd1b93f8072fecd56aec8ec70d5225584758f5ccfb4be991522a9",
+      "hash_scope": "Bytes of the consolidated archive at url; reviewed_extract_sha256 identifies the earlier annual extract, which is not bundled."
+    },
+    {
+      "source_id": "PA-PAPER-GREEK-2023",
+      "title": "Νεοελληνική Γλώσσα και Λογοτεχνία - επίσημα θέματα ΓΕΛ 2023-06-02",
+      "url": "https://eoe.minedu.gov.gr/images/2026_Neoellenike%20Glossa%20%20Logotechnia.pdf",
+      "verified_on": "2026-10-18",
+      "sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "compatibility": "Only explicitly indexed items reviewed against supplied 2027 maps; no whole-paper approval.",
+      "official_solutions_included": false,
+      "archive_index_url": "https://eoe.minedu.gov.gr/el/home/arxeio-thematon",
+      "archive_sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "archive_pdf_pages_1_based": [
+        139,
+        143
+      ],
+      "page_count": 5,
+      "artifact_type": "complete annual paper extracted from official consolidated archive; not original downloaded annual-file bytes",
+      "extraction_method": "Poppler pdfseparate -f START -l END ARCHIVE PART-%d.pdf; pdfunite PART-START.pdf ... PART-END.pdf OUTPUT.pdf. Page content unedited. Byte hashes can vary across tool versions; verify source pages/content.",
+      "distribution": "link-only",
+      "source_container": "annual_archive",
+      "reviewed_extract_sha256": "cece26330d34c127b050293182e0aaae8b120b85b1b9eb28fedf49826233af45",
+      "hash_scope": "Bytes of the consolidated archive at url; reviewed_extract_sha256 identifies the earlier annual extract, which is not bundled."
+    },
+    {
+      "source_id": "PA-PAPER-GREEK-2025",
+      "title": "Νεοελληνική Γλώσσα και Λογοτεχνία - επίσημα θέματα ΓΕΛ 2025-05-30",
+      "url": "https://eoe.minedu.gov.gr/images/2026_Neoellenike%20Glossa%20%20Logotechnia.pdf",
+      "verified_on": "2026-10-18",
+      "sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "compatibility": "Only explicitly indexed items reviewed against supplied 2027 maps; no whole-paper approval.",
+      "official_solutions_included": false,
+      "archive_index_url": "https://eoe.minedu.gov.gr/el/home/arxeio-thematon",
+      "archive_sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "archive_pdf_pages_1_based": [
+        149,
+        152
+      ],
+      "page_count": 4,
+      "artifact_type": "complete annual paper extracted from official consolidated archive; not original downloaded annual-file bytes",
+      "extraction_method": "Poppler pdfseparate -f START -l END ARCHIVE PART-%d.pdf; pdfunite PART-START.pdf ... PART-END.pdf OUTPUT.pdf. Page content unedited. Byte hashes can vary across tool versions; verify source pages/content.",
+      "distribution": "link-only",
+      "source_container": "annual_archive",
+      "reviewed_extract_sha256": "149d717991ab4333b33b6fa16bb0d904a9a823323eb0bdfe063ddfbdf38e9a4e",
+      "hash_scope": "Bytes of the consolidated archive at url; reviewed_extract_sha256 identifies the earlier annual extract, which is not bundled."
+    }
+  ],
+  "instructions": "Ανάκτησε το ακριβές ερώτημα και τις εξαρτήσεις του από το επίσημο URL. Αν η πηγή παραμένει απρόσιτη, ζήτησε μόνο το κρίσιμο απόσπασμα ή πρότεινε πρωτότυπη εναλλακτική. Μην ανασυνθέτεις από μνήμης. Η γνησιότητα δεν συνεπάγεται συμβατότητα όλου του φυλλαδίου με το 2027.",
+  "reviewed_items": "reviewed-items.json"
+}

@@ -1,0 +1,177 @@
+{
+  "audit_date": "2026-10-18",
+  "scope": "Το παρόν ευρετήριο καλύπτει μόνο τα επαναχρησιμοποιούμενα μαθήματα. Για τα νέα μαθήματα, διάβασε το selected_past_items στο ιδιαίτερο μητρώο πηγών που συνδέεται από το Skill εξάσκησης. Καμία καταχώριση δεν εγκρίνει ολόκληρο φυλλάδιο.",
+  "usage": "Επίλεξε εντοπιστή και ανάκτησε την πραγματική εκφώνηση και όλες τις εξαρτήσεις από το επίσημο URL πριν από ανάθεση, λύση ή διόρθωση. Δεν περιλαμβάνονται κλειδιά ή λύσεις. Λύσε και έλεγξε το πραγματικά αναγνωσμένο ερώτημα με επιτρεπόμενες μεθόδους· τα εκπαιδευτικά κριτήρια δεν είναι επίσημη βαθμολόγηση. Οι παλιές μονάδες δεν ορίζουν τη μορφή του 2027.",
+  "subjects": [
+    {
+      "subject": "Φυσική Προσανατολισμού",
+      "file": "reviewed-physics.json",
+      "items": [
+        {
+          "id": "physics-2020-B2",
+          "year": 2020,
+          "item": "ΘΕΜΑ B, B2",
+          "official_points": 8,
+          "topics": [
+            "κεντρική ελαστική κρούση",
+            "ποσοστό μεταφοράς ενέργειας"
+          ],
+          "requires_source_text": true,
+          "requires_formula_data": false
+        },
+        {
+          "id": "physics-2024-A4",
+          "year": 2024,
+          "item": "ΘΕΜΑ A, A4",
+          "official_points": 5,
+          "topics": [
+            "απόσβεση",
+            "συντονισμός"
+          ],
+          "requires_source_text": true,
+          "requires_formula_data": false
+        },
+        {
+          "id": "physics-2025-B3",
+          "year": 2025,
+          "item": "ΘΕΜΑ B, B3",
+          "official_points": 9,
+          "topics": [
+            "Compton",
+            "ενέργεια φωτονίου",
+            "διατήρηση ενέργειας"
+          ],
+          "requires_source_text": true,
+          "requires_formula_data": true
+        },
+        {
+          "id": "physics-2026-A4",
+          "year": 2026,
+          "item": "ΘΕΜΑ Α, Α4",
+          "official_points": 5,
+          "topics": [
+            "Γ΄, 5.2 Κρούσεις",
+            "Γ΄, 5.3 Κεντρική ελαστική κρούση δύο σφαιρών"
+          ],
+          "requires_source_text": true,
+          "requires_formula_data": false
+        }
+      ]
+    },
+    {
+      "subject": "Χημεία Προσανατολισμού",
+      "file": "reviewed-chemistry.json",
+      "items": [
+        {
+          "id": "chemistry-2020-A3",
+          "year": 2020,
+          "item": "A3",
+          "official_points": 5,
+          "topics": [
+            "8.2 Ώσμωση και ωσμωτική πίεση"
+          ],
+          "requires_source_text": true,
+          "requires_formula_data": false
+        },
+        {
+          "id": "chemistry-2023-A3",
+          "year": 2023,
+          "item": "A3",
+          "official_points": 5,
+          "topics": [
+            "3.3 Νόμος ταχύτητας και μηχανισμός"
+          ],
+          "requires_source_text": true,
+          "requires_formula_data": false
+        },
+        {
+          "id": "chemistry-2023-B1",
+          "year": 2023,
+          "item": "B1",
+          "official_points": 7,
+          "topics": [
+            "6.4 Περιοδικές ιδιότητες",
+            "5.2 Ιοντισμός οξέων και βάσεων",
+            "7.1 Επαγωγικό φαινόμενο"
+          ],
+          "requires_source_text": true,
+          "requires_formula_data": false
+        },
+        {
+          "id": "chemistry-2025-B3",
+          "year": 2025,
+          "item": "B3",
+          "official_points": 5,
+          "topics": [
+            "8.1 Διαμοριακές δυνάμεις"
+          ],
+          "requires_source_text": true,
+          "requires_formula_data": false
+        },
+        {
+          "id": "chemistry-2026-A2",
+          "year": 2026,
+          "item": "ΘΕΜΑ Α, Α2",
+          "official_points": 5,
+          "topics": [
+            "2.1 Μεταβολή ενέργειας, ενδόθερμες/εξώθερμες, θερμότητα αντίδρασης/ενθαλπία"
+          ],
+          "requires_source_text": true,
+          "requires_formula_data": false
+        }
+      ]
+    },
+    {
+      "subject": "Νεοελληνική Γλώσσα και Λογοτεχνία",
+      "file": "reviewed-greek.json",
+      "items": [
+        {
+          "id": "greek-2020-A1",
+          "year": 2020,
+          "item": "A1",
+          "official_points": 15,
+          "topics": [
+            "N2 Συνοπτική απόδοση",
+            "N1 Βασικές ιδέες"
+          ],
+          "requires_source_text": true,
+          "requires_formula_data": false
+        },
+        {
+          "id": "greek-2023-B2",
+          "year": 2023,
+          "item": "B2",
+          "official_points": 10,
+          "topics": [
+            "N3 Σχέση γλωσσικής μορφής, δομής και λειτουργίας"
+          ],
+          "requires_source_text": true,
+          "requires_formula_data": false
+        },
+        {
+          "id": "greek-2025-G1",
+          "year": 2025,
+          "item": "Θέμα Γ, Γ1",
+          "official_points": 15,
+          "topics": [
+            "L1 Ερμηνευτικό σχόλιο"
+          ],
+          "requires_source_text": true,
+          "requires_formula_data": false
+        },
+        {
+          "id": "greek-2026-A1",
+          "year": 2026,
+          "item": "Θέμα Α, Α1",
+          "official_points": 20,
+          "topics": [
+            "N2 Συνοπτική απόδοση συγκεκριμένου μέρους ή απόψεων για ορισμένο ζήτημα",
+            "N1 Εντοπισμός θέματος και βασικών ιδεών"
+          ],
+          "requires_source_text": true,
+          "requires_formula_data": false
+        }
+      ]
+    }
+  ]
+}

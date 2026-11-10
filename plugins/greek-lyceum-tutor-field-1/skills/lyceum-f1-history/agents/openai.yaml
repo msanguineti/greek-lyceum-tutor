@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ιστορία με τεκμηρίωση"
+  short_description: "Πηγές και ιστορική σκέψη στην ύλη 2027"
+  default_prompt: "Χρησιμοποίησε το $lyceum-f1-history και βοήθησέ με να συνδέσω την πηγή με το ζητούμενο."

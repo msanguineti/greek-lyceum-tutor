@@ -1,0 +1,4 @@
+interface:
+  display_name: "Μελέτη και πρόοδος"
+  short_description: "Μικρά βήματα μελέτης για τις Πανελλαδικές 2027"
+  default_prompt: "Χρησιμοποίησε το $lyceum-f1-study για να οργανώσουμε 30 λεπτά μελέτης."

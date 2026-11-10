@@ -1,0 +1,161 @@
+{
+  "subject": "economics",
+  "exam_year": 2027,
+  "sources": [
+    {
+      "id": "E-SYL",
+      "title": "ΥΠΑΙΘΑ 90176/Δ2/06-07-2026: εξεταστέα ύλη Πανελλαδικών ΓΕΛ 2027",
+      "url": "https://www.minedu.gov.gr/publications/90176_%CE%942_06_07_26_%CE%95%CE%9E%CE%95%CE%A4%CE%91%CE%A3%CE%A4%CE%95%CE%91_%CE%A5%CE%9B%CE%97_2027.pdf",
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "snapshot_included": false,
+      "edition": "Εξεταστέα ύλη εισαγωγής 2027, σχολικό έτος 2026–2027",
+      "pages": [
+        18,
+        19
+      ],
+      "sha256": "279ee3201659ff3bc17bcd0a2bdd3137b1d09bc064e03773ebb6b197aac59357",
+      "hash_scope": "Retained administrative PDF bytes; no new remote-byte comparison in this subject check",
+      "common_resource": "../lyceum-f4-study/references/shared/official/syllabus-2027.pdf",
+      "status": "Retained official administrative PDF read at the listed subject pages; exclusions mapped. Other subjects not re-audited here.",
+      "distribution_note": "The existing registered administrative original is bundled only through the common study skill; this subject adds no binary copy."
+    },
+    {
+      "id": "E-IEP",
+      "title": "ΙΕΠ/ΥΠΑΙΘΑ: οδηγίες Οικονομίας Γ΄ ΓΕΛ 2026–2027",
+      "url": "https://www.iep.edu.gr/wp-content/uploads/2026/09/ΟΙΚΟΝΟΜΙΑ_ΚΑΤΕΥΘΥΝΣΗ_Γ_ΓΕΛ_2026-2027.pdf",
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "snapshot_included": false,
+      "edition": "106319/Δ2/07-08-2026",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "sha256": "49e19a9a3c06acdaac8e21e9d22854b18bfff271f9045fc0fcd06c227a0f2edc",
+      "bytes": 716882,
+      "status": "Official PDF downloaded to disposable temporary storage and read; elasticity correction and stated teaching guidance checked.",
+      "limits": "No local guide copy retained. Guidance is distinct from examination scope."
+    },
+    {
+      "id": "E-BOOK",
+      "title": "Αρχές Οικονομικής Θεωρίας — Μικροοικονομία, Μακροοικονομία, Γ΄ ΓΕΛ",
+      "url": "https://ebooks.edu.gr/ebooks/v/pdf/8547/2522/22-0127-02_Arches-Oikonomikis-Theorias_G-Lykeiou-SpOikPlir_Vivlio-Mathiti/",
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "snapshot_included": false,
+      "authors": [
+        "Λιανός Θεόδωρος",
+        "Παπαβασιλείου Αντώνιος",
+        "Χατζηανδρέου Ανδρέας"
+      ],
+      "publisher": "ΙΤΥΕ Διόφαντος",
+      "edition": "Official live PDF: URL locator 22-0127-02, internal layout 22-0299_OIKONOMIKH THEORIA_FINAL.indd, layout date 03-12-2025; publication year not inferred.",
+      "sha256": "53521815851fbbbbfa015929576879d63ceb69b99dae808330d4a4a80c136bd4",
+      "bytes": 4109900,
+      "page_numbering": "Printed page n maps to PDF page n+1 in the retrieved file.",
+      "locators": {
+        "chapters": {
+          "1": 9,
+          "2": 28,
+          "3": 53,
+          "4": 79,
+          "5": 93,
+          "7": 133,
+          "9": 163,
+          "10": 177
+        },
+        "elasticity_erratum": {
+          "printed_page": 42,
+          "pdf_page": 43
+        }
+      },
+      "status": "Official PDF retrieved; title/authors, contents, relevant section boundaries and corrected absolute-value elasticity sentence read.",
+      "limits": "Not every exercise or diagram reviewed. Old DSGL-C117 ZIP yields different bytes; do not substitute silently."
+    },
+    {
+      "id": "E-IEP-INDEX",
+      "title": "ΙΕΠ: επίσημος κατάλογος οδηγιών ΓΕΛ 2026–2027",
+      "url": "https://www.iep.edu.gr/yli-kai-odigies-didaskalias-genikou-lykeiou-gia-to-scholiko-etos-2026-2027/",
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "snapshot_included": false,
+      "status": "Opened; economics guidance link followed."
+    },
+    {
+      "id": "E-TEACHER-LINK",
+      "title": "Αρχές Οικονομικής Θεωρίας — Βιβλίο Καθηγητή (παραπομπή οδηγιών)",
+      "url": "https://ebooks.edu.gr/ebooks/v/pdf/8547/5164/22-0129-01_Arches-OikonomikisTheorias_G-Lykeiou_Vivlio-Ekpaideutikou/",
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "snapshot_included": false,
+      "status": "Link explicitly recorded in the read E-IEP page 1; teacher book itself not retrieved or read in this check.",
+      "limits": "No claims about teacher-book contents; no hash asserted."
+    },
+    {
+      "id": "E-EXAM-2026",
+      "title": "ΥΠΑΙΘΑ: Πανελλαδικές ΓΕΛ 2026 — Οικονομία Προσανατολισμού, τακτική περίοδος",
+      "url": "https://www.minedu.gov.gr/publications/docs2026/panelladikes_2026_iounios/them_oikonomia_gel_260608.pdf",
+      "edition": "Ημερήσια και Εσπερινά Γενικά Λύκεια, τακτική εξέταση 2026-06-08",
+      "exam_year": 2026,
+      "exam_date": "2026-06-08",
+      "verified_on": "2026-11-07",
+      "sha256": "a91dcac92d1bc385448de85c1b353505773f37d8d4b08c7e990bd01cd1eb1540",
+      "bytes": 204390,
+      "distribution": "link-only",
+      "snapshot_included": false,
+      "reviewed_parts": [
+        {
+          "pdf_page": 1,
+          "locator": "Header, selected item Α2 and its required response instruction"
+        },
+        {
+          "pdf_page": 4,
+          "locator": "ΟΔΗΓΙΕΣ για τους εξεταζομένους/τις εξεταζόμενες"
+        }
+      ],
+      "status": "Official Ministry PDF downloaded; exact selected item, marks, header/date and general examination instructions read. Temporary PDF/text removed after verification.",
+      "limits": "Only the selected item is catalogued for 2027 compatibility. Other items and the full paper are not approved by this record; no official answer or marking scheme retrieved or stored.",
+      "source_type": "official-exam-paper",
+      "page_count": 4
+    }
+  ],
+  "verification_limits": "Source checks on2026-11-07; no claim of future monitoring, live ChatGPT testing, or complete visual inspection. All book/guide copies used for checking are disposable, outside the repository. Original tutoring examples are authored separately from sources.",
+  "selected_past_items": [
+    {
+      "id": "E-2026-A2",
+      "source_id": "E-EXAM-2026",
+      "year": 2026,
+      "item": "Α2",
+      "pdf_page": 1,
+      "official_points": 5,
+      "map_sections": [
+        "3Β.1",
+        "3Β.3",
+        "3Β.4"
+      ],
+      "compatibility_rationale": "E-SYL; compatibility checked against the recorded included sections and exclusions, not inferred from examination year.",
+      "requires_source_access": true,
+      "required_source_pdf_pages": [
+        1,
+        4
+      ],
+      "marks_provenance": "Printed beside the selected item in the official question paper. This is the item total, not an official answer-specific marking rubric.",
+      "required_source_parts": [
+        {
+          "pdf_pages": [
+            1
+          ],
+          "locator": "ΘΕΜΑ Α / Α2, including any response instruction immediately preceding it"
+        },
+        {
+          "pdf_pages": [
+            4
+          ],
+          "locator": "General ΟΔΗΓΙΕΣ at the end of the paper"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "audit_date": "2026-10-18",
+  "global_limitations": [
+    "Compatibility is against the supplied maps, not an exhaustive legal revalidation of 2027 syllabus publication/amendments.",
+    "2026 printed point totals are verified from selected PDFs; no claim that these constitute a 2027 grading prescription.",
+    "Selected items only; no whole-paper scope clearance. Original Greek texts must be read; supplied formula tables must be retained.",
+    "Locator and scope metadata only; no stored answer key, solution or source-specific hints. Retrieve the actual item and dependencies before solving or grading."
+  ],
+  "items": [
+    {
+      "id": "physics-2020-B2",
+      "subject": "Φυσική Προσανατολισμού",
+      "year": 2020,
+      "date": "2020-06-22",
+      "pdf": "paper-physics-2020.pdf",
+      "url": "https://www.minedu.gov.gr/publications/docs2020/EXETASEIS-2020-IOUNIOS/them_Phys_op_NEO_200622.pdf",
+      "pdf_page": 3,
+      "printed_page": 3,
+      "item": "ΘΕΜΑ B, B2",
+      "official_points": 8,
+      "map_file": "../../lyceum-f3-physics/references/syllabus-2027.md",
+      "map_sections": [
+        "Γ΄, 5.2 Κρούσεις",
+        "Γ΄, 5.3 Κεντρική ελαστική κρούση δύο σφαιρών"
+      ],
+      "syllabus_pages": [
+        10,
+        11,
+        12
+      ],
+      "compatibility_rationale": "Ελεγμένη επιλογή ως προς τις αναφερόμενες ενότητες του χάρτη 2027, με τα όρια του ελέγχου. Πριν από χρήση διάβασε το πραγματικό ερώτημα και τις εξαρτήσεις του και έλεγξε εκ νέου κάθε απαιτούμενη έννοια/μέθοδο και εξαίρεση. Η επιλογή δεν εγκρίνει ολόκληρο το διαγώνισμα.",
+      "required_text_access": null,
+      "sha256": "ee47580a5dcdbedc92f28e2c2e1eb633600edee979a1a4e50aeb8070f27979c5",
+      "compatibility_status": "item compatible with supplied 2027 map, subject to map verification limits",
+      "adaptation": "Εντοπιστής και μεταδεδομένα επιλογής· η εκφώνηση, τα δεδομένα και η λύση δεν αποθηκεύονται εδώ.",
+      "official_point_parts": {
+        "επιλογή": 2,
+        "αιτιολόγηση": 6
+      },
+      "exam_system": "Νέο σύστημα 2020, Ημερήσια και Εσπερινά ΓΕΛ",
+      "skills_tested": [
+        "κεντρική ελαστική κρούση",
+        "ποσοστό μεταφοράς ενέργειας"
+      ],
+      "source_id": "PA-PHYSICS-2020",
+      "requires_source_access": true,
+      "source_request": "Ανάκτησε και διάβασε το πραγματικό ερώτημα ΘΕΜΑ B, B2 και τις εξαρτήσεις του από το επίσημο URL, σελίδα PDF 3 (single_paper). Χωρίς πραγματική πρόσβαση μην παραθέτεις, επιλύεις ή βαθμολογείς το συγκεκριμένο θέμα από μνήμης ή μεταδεδομένα, ούτε με επιφύλαξη. Ζήτησε το αναγκαίο απόσπασμα ή πρότεινε ρητά πρωτότυπη εναλλακτική. Επαναχρησιμοποίησε ήδη ανακτημένο επαρκές περιεχόμενο της ίδιας πηγής.",
+      "source_pdf_page": 3,
+      "source_container": "single_paper",
+      "source_checked_on": "2026-11-07"
+    },
+    {
+      "id": "physics-2024-A4",
+      "subject": "Φυσική Προσανατολισμού",
+      "year": 2024,
+      "date": "2024-06-12",
+      "pdf": "paper-physics-2024.pdf",
+      "url": "https://www.minedu.gov.gr/publications/docs2024/panelladikes_2024_iounios/them_fysiki_gel_240612.pdf",
+      "pdf_page": 2,
+      "printed_page": 2,
+      "item": "ΘΕΜΑ A, A4",
+      "official_points": 5,
+      "map_file": "../../lyceum-f3-physics/references/syllabus-2027.md",
+      "map_sections": [
+        "Γ΄, 1.5 Φθίνουσες ταλαντώσεις",
+        "Γ΄, 1.6 Εξαναγκασμένες ταλαντώσεις"
+      ],
+      "syllabus_pages": [
+        10,
+        11,
+        12
+      ],
+      "compatibility_rationale": "Ελεγμένη επιλογή ως προς τις αναφερόμενες ενότητες του χάρτη 2027, με τα όρια του ελέγχου. Πριν από χρήση διάβασε το πραγματικό ερώτημα και τις εξαρτήσεις του και έλεγξε εκ νέου κάθε απαιτούμενη έννοια/μέθοδο και εξαίρεση. Η επιλογή δεν εγκρίνει ολόκληρο το διαγώνισμα.",
+      "required_text_access": null,
+      "sha256": "4ab4baa2e4b6afdba538923242ee2ef16909d0e4138266645835f26631b97c91",
+      "compatibility_status": "item compatible with supplied 2027 map, subject to map verification limits",
+      "adaptation": "Εντοπιστής και μεταδεδομένα επιλογής· η εκφώνηση, τα δεδομένα και η λύση δεν αποθηκεύονται εδώ.",
+      "skills_tested": [
+        "απόσβεση",
+        "συντονισμός"
+      ],
+      "source_id": "PA-PHYSICS-2024",
+      "requires_source_access": true,
+      "source_request": "Ανάκτησε και διάβασε το πραγματικό ερώτημα ΘΕΜΑ A, A4 και τις εξαρτήσεις του από το επίσημο URL, σελίδα PDF 2 (single_paper). Χωρίς πραγματική πρόσβαση μην παραθέτεις, επιλύεις ή βαθμολογείς το συγκεκριμένο θέμα από μνήμης ή μεταδεδομένα, ούτε με επιφύλαξη. Ζήτησε το αναγκαίο απόσπασμα ή πρότεινε ρητά πρωτότυπη εναλλακτική. Επαναχρησιμοποίησε ήδη ανακτημένο επαρκές περιεχόμενο της ίδιας πηγής.",
+      "source_pdf_page": 2,
+      "source_container": "single_paper",
+      "source_checked_on": "2026-11-07"
+    },
+    {
+      "id": "physics-2025-B3",
+      "subject": "Φυσική Προσανατολισμού",
+      "year": 2025,
+      "date": "2025-06-06",
+      "pdf": "paper-physics-2025.pdf",
+      "url": "https://www.minedu.gov.gr/publications/docs2025/panelladikes_2025_iounios/them_fysiki_gel_250606.pdf",
+      "pdf_page": 3,
+      "printed_page": 3,
+      "item": "ΘΕΜΑ B, B3",
+      "official_points": 9,
+      "map_file": "../../lyceum-f3-physics/references/syllabus-2027.md",
+      "map_sections": [
+        "Γ΄, 7.4 Compton"
+      ],
+      "syllabus_pages": [
+        10,
+        11,
+        12
+      ],
+      "compatibility_rationale": "Ελεγμένη επιλογή ως προς τις αναφερόμενες ενότητες του χάρτη 2027, με τα όρια του ελέγχου. Πριν από χρήση διάβασε το πραγματικό ερώτημα και τις εξαρτήσεις του και έλεγξε εκ νέου κάθε απαιτούμενη έννοια/μέθοδο και εξαίρεση. Η επιλογή δεν εγκρίνει ολόκληρο το διαγώνισμα.",
+      "required_text_access": null,
+      "sha256": "f157db92e343d9ccbe91ed6d37d97071fd37d30852eb76d6a42325b69b82cb3e",
+      "compatibility_status": "item compatible with supplied 2027 map, subject to map verification limits",
+      "adaptation": "Εντοπιστής και μεταδεδομένα επιλογής· η εκφώνηση, τα δεδομένα και η λύση δεν αποθηκεύονται εδώ.",
+      "official_point_parts": {
+        "επιλογή": 2,
+        "αιτιολόγηση": 7
+      },
+      "skills_tested": [
+        "Compton",
+        "ενέργεια φωτονίου",
+        "διατήρηση ενέργειας"
+      ],
+      "required_formula_access": {
+        "pdf_pages": [
+          8
+        ],
+        "instructions": "Ανάκτησε και διάβασε το αυθεντικό τυπολόγιο στις source_pdf_pages του συγκεκριμένου URL. Δώσε τους αναγκαίους πραγματικά αναγνωσμένους τύπους ως δεδομένα πριν από ανεξάρτητη προσπάθεια. Αν δεν είναι διαθέσιμο, μην επινοείς το τυπολόγιο ή συνεχίζεις το συγκεκριμένο θέμα από μνήμης.",
+        "source_pdf_pages": [
+          8
+        ]
+      },
+      "source_id": "PA-PHYSICS-2025",
+      "requires_source_access": true,
+      "source_request": "Ανάκτησε και διάβασε το πραγματικό ερώτημα ΘΕΜΑ B, B3 και τις εξαρτήσεις του από το επίσημο URL, σελίδα PDF 3 (single_paper). Χωρίς πραγματική πρόσβαση μην παραθέτεις, επιλύεις ή βαθμολογείς το συγκεκριμένο θέμα από μνήμης ή μεταδεδομένα, ούτε με επιφύλαξη. Ζήτησε το αναγκαίο απόσπασμα ή πρότεινε ρητά πρωτότυπη εναλλακτική. Επαναχρησιμοποίησε ήδη ανακτημένο επαρκές περιεχόμενο της ίδιας πηγής.",
+      "source_pdf_page": 3,
+      "source_container": "single_paper",
+      "source_checked_on": "2026-11-07"
+    },
+    {
+      "id": "physics-2026-A4",
+      "subject": "Φυσική Προσανατολισμού",
+      "date": "2026-06-08",
+      "pdf": "paper-physics-2026.pdf",
+      "url": "https://www.minedu.gov.gr/publications/docs2026/panelladikes_2026_iounios/them_fysiki_gel_260608.pdf",
+      "pdf_page": 1,
+      "printed_page": 1,
+      "item": "ΘΕΜΑ Α, Α4",
+      "official_points": 5,
+      "map_file": "../../lyceum-f3-physics/references/syllabus-2027.md",
+      "map_sections": [
+        "Γ΄, 5.2 Κρούσεις",
+        "Γ΄, 5.3 Κεντρική ελαστική κρούση δύο σφαιρών"
+      ],
+      "syllabus_pages": [
+        10,
+        11,
+        12
+      ],
+      "compatibility_rationale": "Ελεγμένη επιλογή ως προς τις αναφερόμενες ενότητες του χάρτη 2027, με τα όρια του ελέγχου. Πριν από χρήση διάβασε το πραγματικό ερώτημα και τις εξαρτήσεις του και έλεγξε εκ νέου κάθε απαιτούμενη έννοια/μέθοδο και εξαίρεση. Η επιλογή δεν εγκρίνει ολόκληρο το διαγώνισμα.",
+      "required_text_access": null,
+      "sha256": "d4d891a08673c4077426d0b7ed94f534567b373e864a47379edd24a229859763",
+      "compatibility_status": "item compatible with supplied 2027 map, subject to map verification limits",
+      "year": 2026,
+      "source_id": "PA-PH",
+      "requires_source_access": true,
+      "source_request": "Ανάκτησε και διάβασε το πραγματικό ερώτημα ΘΕΜΑ Α, Α4 και τις εξαρτήσεις του από το επίσημο URL, σελίδα PDF 1 (single_paper). Χωρίς πραγματική πρόσβαση μην παραθέτεις, επιλύεις ή βαθμολογείς το συγκεκριμένο θέμα από μνήμης ή μεταδεδομένα, ούτε με επιφύλαξη. Ζήτησε το αναγκαίο απόσπασμα ή πρότεινε ρητά πρωτότυπη εναλλακτική. Επαναχρησιμοποίησε ήδη ανακτημένο επαρκές περιεχόμενο της ίδιας πηγής.",
+      "source_pdf_page": 1,
+      "source_container": "single_paper",
+      "source_checked_on": "2026-11-07",
+      "adaptation": "Εντοπιστής και μεταδεδομένα επιλογής· η εκφώνηση, τα δεδομένα και η λύση δεν αποθηκεύονται εδώ."
+    }
+  ]
+}

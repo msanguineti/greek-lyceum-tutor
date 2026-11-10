@@ -1,0 +1,4 @@
+interface:
+  display_name: "Μαθηματικά βήμα βήμα"
+  short_description: "Κατανόηση και υποδείξεις στην επίσημη ύλη 2027"
+  default_prompt: "Χρησιμοποίησε το $lyceum-mathematics και βοήθησέ με με μια υπόδειξη κάθε φορά."

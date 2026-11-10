@@ -1,0 +1,193 @@
+{
+  "audit_date": "2026-10-18",
+  "global_limitations": [
+    "Compatibility is against the supplied maps, not an exhaustive legal revalidation of 2027 syllabus publication/amendments.",
+    "2026 printed point totals are verified from selected PDFs; no claim that these constitute a 2027 grading prescription.",
+    "Selected items only; no whole-paper scope clearance. Original Greek texts must be read; supplied formula tables must be retained.",
+    "Locator and scope metadata only; no stored answer key, solution or source-specific hints. Retrieve the actual item and dependencies before solving or grading."
+  ],
+  "items": [
+    {
+      "id": "chemistry-2020-A3",
+      "subject": "Χημεία Προσανατολισμού",
+      "year": 2020,
+      "date": "2020-06-26",
+      "pdf": "paper-chemistry-2020.pdf",
+      "url": "https://eoe.minedu.gov.gr/images/2010-2026_CHEMEIA_GEL.pdf",
+      "pdf_page": 2,
+      "printed_page": 2,
+      "archive_pdf_page": 175,
+      "item": "A3",
+      "official_points": 5,
+      "map_file": "../../lyceum-f3-chemistry/references/syllabus-2027.md",
+      "map_sections": [
+        "8.2 Ώσμωση και ωσμωτική πίεση"
+      ],
+      "syllabus_pages": [
+        13,
+        14
+      ],
+      "compatibility_rationale": "Ελεγμένη επιλογή ως προς τις αναφερόμενες ενότητες του χάρτη 2027, με τα όρια του ελέγχου. Πριν από χρήση διάβασε το πραγματικό ερώτημα και τις εξαρτήσεις του και έλεγξε εκ νέου κάθε απαιτούμενη έννοια/μέθοδο και εξαίρεση. Η επιλογή δεν εγκρίνει ολόκληρο το διαγώνισμα.",
+      "required_text_access": null,
+      "sha256": "66a77722792653c15cd708e3006091001cb7ae25ad07589fd6164d4cfd550502",
+      "archive_sha256": "66a77722792653c15cd708e3006091001cb7ae25ad07589fd6164d4cfd550502",
+      "compatibility_status": "item compatible with supplied 2027 map, subject to map verification limits",
+      "adaptation": "Εντοπιστής και μεταδεδομένα επιλογής· η εκφώνηση, τα δεδομένα και η λύση δεν αποθηκεύονται εδώ.",
+      "source_id": "PA-PAPER-CHEMISTRY-2020",
+      "requires_source_access": true,
+      "source_request": "Ανάκτησε και διάβασε το πραγματικό ερώτημα A3 και τις εξαρτήσεις του από το επίσημο URL, σελίδα PDF 175 (annual_archive). Χωρίς πραγματική πρόσβαση μην παραθέτεις, επιλύεις ή βαθμολογείς το συγκεκριμένο θέμα από μνήμης ή μεταδεδομένα, ούτε με επιφύλαξη. Ζήτησε το αναγκαίο απόσπασμα ή πρότεινε ρητά πρωτότυπη εναλλακτική. Επαναχρησιμοποίησε ήδη ανακτημένο επαρκές περιεχόμενο της ίδιας πηγής.",
+      "source_pdf_page": 175,
+      "source_container": "annual_archive",
+      "source_checked_on": "2026-11-07",
+      "reviewed_extract_sha256": "49876d25f901a903d7858c31213f28b479dd111ff4753daf186e4ceed1b2814b"
+    },
+    {
+      "id": "chemistry-2023-A3",
+      "subject": "Χημεία Προσανατολισμού",
+      "year": 2023,
+      "date": "2023-06-08",
+      "pdf": "paper-chemistry-2023.pdf",
+      "url": "https://eoe.minedu.gov.gr/images/2010-2026_CHEMEIA_GEL.pdf",
+      "pdf_page": 1,
+      "printed_page": 1,
+      "archive_pdf_page": 207,
+      "item": "A3",
+      "official_points": 5,
+      "map_file": "../../lyceum-f3-chemistry/references/syllabus-2027.md",
+      "map_sections": [
+        "3.3 Νόμος ταχύτητας και μηχανισμός"
+      ],
+      "syllabus_pages": [
+        13,
+        14
+      ],
+      "compatibility_rationale": "Ελεγμένη επιλογή ως προς τις αναφερόμενες ενότητες του χάρτη 2027, με τα όρια του ελέγχου. Πριν από χρήση διάβασε το πραγματικό ερώτημα και τις εξαρτήσεις του και έλεγξε εκ νέου κάθε απαιτούμενη έννοια/μέθοδο και εξαίρεση. Η επιλογή δεν εγκρίνει ολόκληρο το διαγώνισμα.",
+      "required_text_access": null,
+      "sha256": "66a77722792653c15cd708e3006091001cb7ae25ad07589fd6164d4cfd550502",
+      "archive_sha256": "66a77722792653c15cd708e3006091001cb7ae25ad07589fd6164d4cfd550502",
+      "compatibility_status": "item compatible with supplied 2027 map, subject to map verification limits",
+      "adaptation": "Εντοπιστής και μεταδεδομένα επιλογής· η εκφώνηση, τα δεδομένα και η λύση δεν αποθηκεύονται εδώ.",
+      "source_id": "PA-PAPER-CHEMISTRY-2023",
+      "requires_source_access": true,
+      "source_request": "Ανάκτησε και διάβασε το πραγματικό ερώτημα A3 και τις εξαρτήσεις του από το επίσημο URL, σελίδα PDF 207 (annual_archive). Χωρίς πραγματική πρόσβαση μην παραθέτεις, επιλύεις ή βαθμολογείς το συγκεκριμένο θέμα από μνήμης ή μεταδεδομένα, ούτε με επιφύλαξη. Ζήτησε το αναγκαίο απόσπασμα ή πρότεινε ρητά πρωτότυπη εναλλακτική. Επαναχρησιμοποίησε ήδη ανακτημένο επαρκές περιεχόμενο της ίδιας πηγής.",
+      "source_pdf_page": 207,
+      "source_container": "annual_archive",
+      "source_checked_on": "2026-11-07",
+      "reviewed_extract_sha256": "7983efae1da946253f979e5d2202dfb6538de9b41cb1cf21a057cbed55c83b2e"
+    },
+    {
+      "id": "chemistry-2023-B1",
+      "subject": "Χημεία Προσανατολισμού",
+      "year": 2023,
+      "date": "2023-06-08",
+      "pdf": "paper-chemistry-2023.pdf",
+      "url": "https://eoe.minedu.gov.gr/images/2010-2026_CHEMEIA_GEL.pdf",
+      "pdf_page": 2,
+      "printed_page": 2,
+      "archive_pdf_page": 208,
+      "item": "B1",
+      "official_points": 7,
+      "map_file": "../../lyceum-f3-chemistry/references/syllabus-2027.md",
+      "map_sections": [
+        "6.4 Περιοδικές ιδιότητες",
+        "5.2 Ιοντισμός οξέων και βάσεων",
+        "7.1 Επαγωγικό φαινόμενο"
+      ],
+      "syllabus_pages": [
+        13,
+        14
+      ],
+      "compatibility_rationale": "Ελεγμένη επιλογή ως προς τις αναφερόμενες ενότητες του χάρτη 2027, με τα όρια του ελέγχου. Πριν από χρήση διάβασε το πραγματικό ερώτημα και τις εξαρτήσεις του και έλεγξε εκ νέου κάθε απαιτούμενη έννοια/μέθοδο και εξαίρεση. Η επιλογή δεν εγκρίνει ολόκληρο το διαγώνισμα.",
+      "required_text_access": null,
+      "sha256": "66a77722792653c15cd708e3006091001cb7ae25ad07589fd6164d4cfd550502",
+      "archive_sha256": "66a77722792653c15cd708e3006091001cb7ae25ad07589fd6164d4cfd550502",
+      "compatibility_status": "item compatible with supplied 2027 map, subject to map verification limits",
+      "adaptation": "Εντοπιστής και μεταδεδομένα επιλογής· η εκφώνηση, τα δεδομένα και η λύση δεν αποθηκεύονται εδώ.",
+      "official_point_parts": {
+        "α": 3,
+        "β κατάταξη": 1,
+        "β αιτιολόγηση": 3
+      },
+      "source_id": "PA-PAPER-CHEMISTRY-2023",
+      "requires_source_access": true,
+      "source_request": "Ανάκτησε και διάβασε το πραγματικό ερώτημα B1 και τις εξαρτήσεις του από το επίσημο URL, σελίδα PDF 208 (annual_archive). Χωρίς πραγματική πρόσβαση μην παραθέτεις, επιλύεις ή βαθμολογείς το συγκεκριμένο θέμα από μνήμης ή μεταδεδομένα, ούτε με επιφύλαξη. Ζήτησε το αναγκαίο απόσπασμα ή πρότεινε ρητά πρωτότυπη εναλλακτική. Επαναχρησιμοποίησε ήδη ανακτημένο επαρκές περιεχόμενο της ίδιας πηγής.",
+      "source_pdf_page": 208,
+      "source_container": "annual_archive",
+      "source_checked_on": "2026-11-07",
+      "reviewed_extract_sha256": "7983efae1da946253f979e5d2202dfb6538de9b41cb1cf21a057cbed55c83b2e"
+    },
+    {
+      "id": "chemistry-2025-B3",
+      "subject": "Χημεία Προσανατολισμού",
+      "year": 2025,
+      "date": "2025-06-04",
+      "pdf": "paper-chemistry-2025.pdf",
+      "url": "https://www.minedu.gov.gr/publications/docs2025/panelladikes_2025_iounios/them_ximeia_gel_250604.pdf",
+      "pdf_page": 3,
+      "printed_page": 3,
+      "archive_pdf_page": 222,
+      "item": "B3",
+      "official_points": 5,
+      "map_file": "../../lyceum-f3-chemistry/references/syllabus-2027.md",
+      "map_sections": [
+        "8.1 Διαμοριακές δυνάμεις"
+      ],
+      "syllabus_pages": [
+        13,
+        14
+      ],
+      "compatibility_rationale": "Ελεγμένη επιλογή ως προς τις αναφερόμενες ενότητες του χάρτη 2027, με τα όρια του ελέγχου. Πριν από χρήση διάβασε το πραγματικό ερώτημα και τις εξαρτήσεις του και έλεγξε εκ νέου κάθε απαιτούμενη έννοια/μέθοδο και εξαίρεση. Η επιλογή δεν εγκρίνει ολόκληρο το διαγώνισμα.",
+      "required_text_access": null,
+      "sha256": "ed5280d8c2c3628daee2fe6665da3b09ed4c7828d8c9efb935a7215bb40b3ef1",
+      "archive_sha256": "66a77722792653c15cd708e3006091001cb7ae25ad07589fd6164d4cfd550502",
+      "compatibility_status": "item compatible with supplied 2027 map, subject to map verification limits",
+      "adaptation": "Εντοπιστής και μεταδεδομένα επιλογής· η εκφώνηση, τα δεδομένα και η λύση δεν αποθηκεύονται εδώ.",
+      "source_id": "PA-PAPER-CHEMISTRY-2025",
+      "requires_source_access": true,
+      "source_request": "Ανάκτησε και διάβασε το πραγματικό ερώτημα B3 και τις εξαρτήσεις του από το επίσημο URL, σελίδα PDF 3 (single_paper). Χωρίς πραγματική πρόσβαση μην παραθέτεις, επιλύεις ή βαθμολογείς το συγκεκριμένο θέμα από μνήμης ή μεταδεδομένα, ούτε με επιφύλαξη. Ζήτησε το αναγκαίο απόσπασμα ή πρότεινε ρητά πρωτότυπη εναλλακτική. Επαναχρησιμοποίησε ήδη ανακτημένο επαρκές περιεχόμενο της ίδιας πηγής.",
+      "source_pdf_page": 3,
+      "source_container": "single_paper",
+      "reviewed_extract_sha256": "a8bce6e51f7cc76878521a17f1a1028c23c1fb384e23b88e73613e809e0429f3",
+      "source_alternatives": [
+        {
+          "url": "https://eoe.minedu.gov.gr/images/2010-2026_CHEMEIA_GEL.pdf",
+          "pdf_page": 222,
+          "sha256": "66a77722792653c15cd708e3006091001cb7ae25ad07589fd6164d4cfd550502",
+          "container": "annual_archive"
+        }
+      ],
+      "source_checked_on": "2026-11-07"
+    },
+    {
+      "id": "chemistry-2026-A2",
+      "subject": "Χημεία Προσανατολισμού",
+      "date": "2026-06-05",
+      "pdf": "paper-chemistry-2026.pdf",
+      "url": "https://www.minedu.gov.gr/publications/docs2026/panelladikes_2026_iounios/them_ximeia_gel_260605.pdf",
+      "pdf_page": 1,
+      "printed_page": 1,
+      "item": "ΘΕΜΑ Α, Α2",
+      "official_points": 5,
+      "map_file": "../../lyceum-f3-chemistry/references/syllabus-2027.md",
+      "map_sections": [
+        "2.1 Μεταβολή ενέργειας, ενδόθερμες/εξώθερμες, θερμότητα αντίδρασης/ενθαλπία"
+      ],
+      "syllabus_pages": [
+        13,
+        14
+      ],
+      "compatibility_rationale": "Ελεγμένη επιλογή ως προς τις αναφερόμενες ενότητες του χάρτη 2027, με τα όρια του ελέγχου. Πριν από χρήση διάβασε το πραγματικό ερώτημα και τις εξαρτήσεις του και έλεγξε εκ νέου κάθε απαιτούμενη έννοια/μέθοδο και εξαίρεση. Η επιλογή δεν εγκρίνει ολόκληρο το διαγώνισμα.",
+      "required_text_access": null,
+      "sha256": "27e1aa5cc25145feb19ebf6fa1df69901c6bc56bc81ac07b8b03a6643160b373",
+      "compatibility_status": "item compatible with supplied 2027 map, subject to map verification limits",
+      "year": 2026,
+      "source_id": "PA-CH",
+      "requires_source_access": true,
+      "source_request": "Ανάκτησε και διάβασε το πραγματικό ερώτημα ΘΕΜΑ Α, Α2 και τις εξαρτήσεις του από το επίσημο URL, σελίδα PDF 1 (single_paper). Χωρίς πραγματική πρόσβαση μην παραθέτεις, επιλύεις ή βαθμολογείς το συγκεκριμένο θέμα από μνήμης ή μεταδεδομένα, ούτε με επιφύλαξη. Ζήτησε το αναγκαίο απόσπασμα ή πρότεινε ρητά πρωτότυπη εναλλακτική. Επαναχρησιμοποίησε ήδη ανακτημένο επαρκές περιεχόμενο της ίδιας πηγής.",
+      "source_pdf_page": 1,
+      "source_container": "single_paper",
+      "source_checked_on": "2026-11-07",
+      "adaptation": "Εντοπιστής και μεταδεδομένα επιλογής· η εκφώνηση, τα δεδομένα και η λύση δεν αποθηκεύονται εδώ."
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "subject": "biology",
+  "exam_year": 2027,
+  "verified_on": "2026-11-07",
+  "verification_limits": [
+    "Χρονολογημένος έλεγχος πραγματικών πηγών· δεν αποτελεί συνεχή ενημέρωση ή βεβαίωση απουσίας κάθε μεταγενέστερης τροποποίησης.",
+    "Στις 2026-11-07 αναγνώστηκαν το διατηρημένο πλήρες υπουργικό PDF 22 σελίδων στα σχετικά σημεία, ο πραγματικός οδηγός ΙΕΠ Γ΄ 2026–2027 και οι ελεγμένες εκδόσεις βιβλίων. Δεν χρησιμοποιήθηκε ύλη απολυτηρίων ή προηγούμενου έτους.",
+    "Τα PDF και το ZIP βιβλίων/ΙΕΠ ανακτήθηκαν μόνο σε προσωρινό χώρο για έλεγχο. Το πακέτο διατηρεί συνδέσμους, αναγνωριστικά, εντοπιστές, αποτυπώματα και πρωτότυπες σημειώσεις, όχι αντίγραφα ή πλήρεις εξαγωγές.",
+    "Έχει ελεγχθεί μόνο το επιλεγμένο Α3/2026, χωρίς αποθήκευση εκφώνησης ή κλειδιού. Δεν έχει ελεγχθεί όλο το φυλλάδιο για συμβατότητα2027 ούτε επίσημο αναλυτικό κλειδί. Δεν δηλώνεται δοκιμή συμπεριφοράς σε πραγματικό ChatGPT.",
+    "Η ενότητα Η. Βιολογία του διατηρημένου ΦΕΚ τρόπου εξέτασης ελέγχθηκε, χωρίς ειδική επανεπιβεβαίωση εγκυκλίου διεξαγωγής 2027."
+  ],
+  "sources": [
+    {
+      "id": "BIO-SCOPE-2027",
+      "title": "ΥΠΑΙΘΑ 90176/Δ2/06-07-2026: εξεταστέα ύλη Πανελλαδικών ΓΕΛ 2027",
+      "url": "https://www.minedu.gov.gr/publications/90176_%CE%942_06_07_26_%CE%95%CE%9E%CE%95%CE%A4%CE%91%CE%A3%CE%A4%CE%95%CE%91_%CE%A5%CE%9B%CE%97_2027.pdf",
+      "shared_source_id": "S1",
+      "shared_resource": "../../lyceum-f3-study/references/shared/official/syllabus-2027.pdf",
+      "document_id": "90176/Δ2/06-07-2026",
+      "pdf_pages": 22,
+      "locators": {
+        "biology_pdf_pages": [
+          16,
+          17,
+          18
+        ],
+        "selection_table_pdf_page": 17,
+        "general_exclusions_pdf_page": 18
+      },
+      "sha256": "279ee3201659ff3bc17bcd0a2bdd3137b1d09bc064e03773ebb6b197aac59357",
+      "hash_scope": "Actual retained complete 22-page Ministry PDF inspected locally; not a fresh network download in this check.",
+      "status": "Read actual pp16–18 text and visually checked pp17–18; selected books and every special/general exclusion mapped.",
+      "verified_on": "2026-11-07",
+      "distribution": "reference-existing-bundled-administrative-record",
+      "authority": "Controlling nationwide examination syllabus 2027; does not derive scope from textbooks or graduation examinations."
+    },
+    {
+      "id": "BIO-IEP-INDEX-2026-27",
+      "title": "ΙΕΠ: Ύλη και οδηγίες διδασκαλίας Γενικού Λυκείου 2026–2027",
+      "url": "https://www.iep.edu.gr/yli-kai-odigies-didaskalias-genikou-lykeiou-gia-to-scholiko-etos-2026-2027/",
+      "locators": {
+        "heading": "Οδηγίες Διδασκαλίας",
+        "link_label": "Οδηγίες για τη διδασκαλία του μαθήματος της Βιολογίας του Ημερήσιου και του Εσπερινού Γενικού Λυκείου για το σχολικό έτος 2026-2027"
+      },
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Official annual page opened; actual Biology ZIP href followed. No content hash asserted for changing HTML."
+    },
+    {
+      "id": "BIO-IEP-G3-2026-27",
+      "title": "ΙΕΠ: Οδηγίες διδασκαλίας Βιολογίας Προσανατολισμού Γ΄ ΓΕΛ 2026–2027",
+      "url": "https://www.iep.edu.gr/wp-content/uploads/2026/09/%CE%92%CE%99%CE%9F%CE%9B%CE%9F%CE%93%CE%99%CE%91_%CE%91%CE%92%CE%93_%CE%93%CE%95%CE%9B_2026-2027.zip",
+      "archive_member": "162288_2_ΣΥΝ3_107418_ΒΙΟΛΟΓΙΑ_Γ_ΓΕΛ_ΠΡΟΣΑΝ_2026_2027.pdf",
+      "format": "zip",
+      "pdf_pages": 10,
+      "archive_sha256": "6a21e2d78822003f7ae320045755847a88e96046f04de3513b44bd4d0d9913c9",
+      "sha256": "a1945841c5b6080afb91e8500833aaa0200a882e8df6ea772c35622e2a74997e",
+      "hash_scope": "sha256 is actual PDF member; archive_sha256 is actual downloaded ZIP.",
+      "locators": {
+        "book_identity_and_general_guidance": [
+          1
+        ],
+        "volume_a_selections": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "volume_b_selections": [
+          4,
+          6,
+          7,
+          8
+        ],
+        "crossing_over_exercises": [
+          6
+        ],
+        "general_exclusions": [
+          8
+        ]
+      },
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Actual ZIP downloaded temporarily, member enumerated and extracted; pp1–8 read; critical continued table p3 inspected visually. Agrees with Ministry scope; laboratory suggestions do not remove syllabus exclusions.",
+      "retrieval": "Use available download/archive/PDF capabilities for the exact member; rejection of ZIP by a web reader does not mean the official source is unavailable. No runtime local executor or special installation is required."
+    },
+    {
+      "id": "BIO-BOOK-A",
+      "title": "Βιολογία Γ΄ ΓΕΛ Θετικών Σπουδών & Σπουδών Υγείας — Τεύχος Α΄",
+      "authors": [
+        "Αθανάσιος Καψάλης",
+        "Ιωάννης-Ευάγγελος Μπουρμπουχάκης",
+        "Βασιλική Περάκη",
+        "Στέργιος Σαλαμαστράκης"
+      ],
+      "publisher": "ΙΤΥΕ Διόφαντος",
+      "book_code": "22-0047-02",
+      "isbn": "978-960-06-2332-1",
+      "url": "https://ebooks.edu.gr/ebooks/d/8547/2488/22-0047-02_Biologia_G-Lykeiou-ThSp-SpYg_Vivlio-Mathiti.pdf",
+      "landing_page": "https://ebooks.edu.gr/ebooks/handle/8547/2375",
+      "html_url": "https://www.ebooks.edu.gr/ebooks/v/html/8547/2668/Biologia_B-Lykeiou_html-empl/",
+      "sha256": "14a76094ff69ab8dbb5ad0dcd5829240c889910f86c4f6225f2ed6922a15d680",
+      "bytes": 13768851,
+      "pdf_pages": 182,
+      "edition_evidence": "Actual title/author/ISBN pages read; filename 22-0047-02, PDF modification metadata 2022-07-28. Metadata is not asserted as a new school-year edition.",
+      "locators": {
+        "contents_pdf_pages": [
+          5,
+          6
+        ],
+        "printed_to_pdf_offset": 1,
+        "protein_start_printed": 22,
+        "cell_introduction_printed": 45,
+        "nucleus_start_printed": 60,
+        "rough_er_excerpt_printed": 61,
+        "organelles_start_printed": 64,
+        "enzymes_printed": [
+          82,
+          84
+        ],
+        "cycle_printed": 122,
+        "division_printed": [
+          134,
+          140,
+          145
+        ]
+      },
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Actual PDF downloaded and title/authors/contents plus critical excerpt text read. Printed61/PDF62 excerpt boundary and adjacent PDF63 diagram inspected visually; not an exhaustive visual review of every figure.",
+      "legacy_catalog_warning": "old.ebooks.edu.gr/new/books-pdf.php?course=DSGL-C112 linked an unrelated 22-0072 volume A on verification date; actual downloaded 22-0072 title/authors did not match 2027 scope. Do not use that legacy A link.",
+      "html_fallback": {
+        "url": "https://ebooks.edu.gr/ebooks/v/html/8547/2668/Biologia_B-Lykeiou_html-empl/index1_2.html",
+        "title_page": "https://ebooks.edu.gr/ebooks/v/html/8547/2668/Biologia_B-Lykeiou_html-empl/index.html",
+        "verified_on": "2026-11-08",
+        "distribution": "link-only",
+        "locator": {
+          "section": "1.2",
+          "start_heading": "Πρωτεΐνες: Διαδεδομένες, πολύπλοκες και εύθραυστες",
+          "stop_before_heading": "Νουκλεϊκά οξέα: νήματα και αγγελιαφόροι της ζωής"
+        },
+        "status": "Actual official HTML title page read: Γ΄ ΓΕΛ, Τεύχος Α΄, matching four authors. Section 1.2 text and protein/nucleic-acid headings read using web access.",
+        "retrieval": "If the volume A PDF fails because of size or access, try this section HTML for protein text before requesting a student excerpt. No local executor required.",
+        "limits": "HTML reading does not verify PDF visuals, printed/PDF pagination or byte identity with BIO-BOOK-A. The 2027 map and general exclusions govern; neither all of section 1.2 nor its tables, insets or images are thereby approved."
+      }
+    },
+    {
+      "id": "BIO-BOOK-B",
+      "title": "Βιολογία Γ΄ ΓΕΛ Θετικών Σπουδών & Σπουδών Υγείας — Τεύχος Β΄",
+      "authors": [
+        "Βασιλική Αλεπόρου-Μαρίνου",
+        "Αλέξανδρος Αργυροκαστρίτης",
+        "Αικατερίνη Κομητοπούλου",
+        "Περικλής Πιαλόγλου",
+        "Βασιλική Σγουρίτσα"
+      ],
+      "publisher": "ΙΤΥΕ Διόφαντος",
+      "book_code": "22-0178-02",
+      "isbn": "978-960-06-2428-1",
+      "url": "https://ebooks.edu.gr/ebooks/v/pdf/8547/2552/22-0178-02_Biologia_G-Lykeiou-SpYg_Vivlio-Mathiti-T2/",
+      "sha256": "914361e18c4fe94f1a8c166e7d03786572bd992008a06ba4159c6bbaf34e0622",
+      "bytes": 21843888,
+      "pdf_pages": 210,
+      "edition_evidence": "Actual title/author/ISBN pages read; filename 22-0178-02, PDF modification metadata 2022-08-01. Not the distinct older 2019 DSGL-C112 mirror.",
+      "locators": {
+        "contents_pdf_pages": [
+          6,
+          7
+        ],
+        "printed_to_pdf_offset": 1,
+        "excluded_penicillin_paragraph_printed": [
+          115,
+          116
+        ],
+        "included_antibiotics_printed": 126,
+        "school_question_locators": [
+          {
+            "chapter": 1,
+            "question": 2,
+            "printed_page": 27,
+            "pdf_page": 28
+          },
+          {
+            "chapter": 1,
+            "question": 3,
+            "printed_page": 27,
+            "pdf_page": 28
+          }
+        ],
+        "key_content_locator_printed": {
+          "1": 17,
+          "2": 31,
+          "4": 61,
+          "5": 74,
+          "6": 93,
+          "7": 111,
+          "8": 121,
+          "9": 137
+        }
+      },
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Actual PDF downloaded and title/authors/contents plus targeted pages read. Printed115/PDF116 inspected visually to separate included purification from excluded penicillin paragraph. Questions2–3 actual text read for locators, with no question text or official key retained. Not an exhaustive content/figure verification.",
+      "retrieval": "This URL returns application/pdf; readers with file-size limits may fail. Use available official-PDF access or the specific excerpt supplied by the student without inventing missing data."
+    },
+    {
+      "id": "BIO-EXAM-RULES",
+      "title": "Φ.251/119188/Α5/29.9.2022, ΦΕΚ Β΄5136/03.10.2022 — τρόπος εξέτασης, ενότητα Η. Βιολογία",
+      "url": "https://www.minedu.gov.gr/publications/docs2022/FEK-5136_B-2022.pdf",
+      "retrieved_url": "https://old.minedu.gov.gr/publications/docs2022/FEK-5136_B-2022.pdf",
+      "shared_source_id": "E1",
+      "shared_resource": "../../lyceum-f3-study/references/shared/official/exam-rules-fek-5136-2022.pdf",
+      "sha256": "b2aa94019bd465fa6d1caa7fc75aa1f440c14ae742d4c8efb3d6d2478bb76b41",
+      "locators": {
+        "section": "Η. Βιολογία",
+        "pdf_page": 5,
+        "printed_page": 52701
+      },
+      "verified_on": "2026-11-07",
+      "distribution": "reference-existing-bundled-administrative-record",
+      "status": "Actual retained page5 read and visually checked: four topics,25 marks each; specific Biology roles of A/B,C,D recorded. Hash is retained document, not fresh network retrieval.",
+      "limit": "Applies from academic year2023–24 onward according to source. No special 2027 conduct-circular reconfirmation claimed; check newer official instructions before asserting a fully current examination simulation."
+    },
+    {
+      "id": "BIO-PA-2026",
+      "title": "Πανελλαδικές ΓΕΛ 2026 — Βιολογία Προσανατολισμού",
+      "url": "https://www.minedu.gov.gr/publications/docs2026/panelladikes_2026_iounios/them_biologia_gel_260603.pdf",
+      "sha256": "2579d6408ff7594d34d587a0b19d1d9215804000ce0b7562b6ab6034ae56fdb4",
+      "page_count": 6,
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Ελέγχθηκαν πραγματικά η ταυτότητα φυλλαδίου, το επιλεγμένο ερώτημα, η σελίδα και οι αναγραφόμενες μονάδες· δεν εγκρίνεται ολόκληρο το φυλλάδιο για την ύλη2027.",
+      "source_type": "official-exam-paper",
+      "exam_year": 2026
+    }
+  ],
+  "selected_past_items": [
+    {
+      "id": "biology-2026-A3",
+      "source_id": "BIO-PA-2026",
+      "year": 2026,
+      "item": "A3",
+      "pdf_page": 1,
+      "official_points": 5,
+      "map_sections": [
+        "Α΄ 1.2: πρωτεΐνες"
+      ],
+      "compatibility_rationale": "Το επιλεγμένο αυτοτελές ερώτημα ελέγχθηκε έναντι της συγκεκριμένης περιλαμβανόμενης ενότητας του χάρτη2027. Δεν απαιτεί εξαιρούμενη ενότητα ή μη διαθέσιμο προηγούμενο αποτέλεσμα.",
+      "requires_source_access": true,
+      "required_source_pdf_pages": [
+        1
+      ]
+    }
+  ]
+}

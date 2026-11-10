@@ -1,0 +1,127 @@
+{
+  "papers": [
+    {
+      "source_id": "PA-GR",
+      "title": "Νεοελληνική Γλώσσα και Λογοτεχνία - επίσημα θέματα ΓΕΛ 2026-05-29",
+      "url": "https://www.minedu.gov.gr/publications/docs2026/panelladikes_2026_iounios/them_nea_ellinika_gel_260529.pdf",
+      "verified_on": "2026-10-18",
+      "sha256": "f1aee0ee5b25d82365058d2c997c8f19d2e373f2d04824af565e84091af54495",
+      "compatibility": "Authentic 2026 source; each selected subquestion must be checked against 2027 syllabus before assignment. See curated selections when available.",
+      "official_solutions_included": false,
+      "distribution": "link-only",
+      "source_container": "single_paper"
+    },
+    {
+      "source_id": "PA-MA",
+      "title": "Μαθηματικά Προσανατολισμού - επίσημα θέματα ΓΕΛ 2026-06-03",
+      "url": "https://www.minedu.gov.gr/publications/docs2026/panelladikes_2026_iounios/them_mathimatika_gel_260603.pdf",
+      "verified_on": "2026-10-18",
+      "sha256": "aa5f0d19eebdbe5b9c56cd5dc6e2431a538a09410f7fdb5720d86d5b8c7b8619",
+      "compatibility": "Authentic 2026 source; each selected subquestion must be checked against 2027 syllabus before assignment. See curated selections when available.",
+      "official_solutions_included": false,
+      "distribution": "link-only",
+      "source_container": "single_paper"
+    },
+    {
+      "source_id": "PA-MATH-2020",
+      "title": "Μαθηματικά Προσανατολισμού - επίσημα θέματα ΓΕΛ 2020-06-17",
+      "url": "https://www.minedu.gov.gr/publications/docs2020/EXETASEIS-2020-IOUNIOS/them_math_NEO_200617.pdf",
+      "verified_on": "2026-10-18",
+      "sha256": "00a18b91c4e70ffb9b4496232284b7e34ecfe408bbe7ec57de212f37ca6b1438",
+      "compatibility": "Only explicitly indexed items reviewed against supplied 2027 maps; no whole-paper approval.",
+      "official_solutions_included": false,
+      "distribution": "link-only",
+      "source_container": "single_paper"
+    },
+    {
+      "source_id": "PA-MATH-2023",
+      "title": "Μαθηματικά Προσανατολισμού - επίσημα θέματα ΓΕΛ 2023-06-06",
+      "url": "https://www.minedu.gov.gr/publications/docs2023/panelladikes_2023_iounios/MATHIMATIKA_%CE%9F%CE%A1_HM_2023_04.pdf",
+      "verified_on": "2026-10-18",
+      "sha256": "6e5b5a70a996937c0a0472002f6a0fc21ee6424154fe68a32d0f1b1cf17d772d",
+      "compatibility": "Only explicitly indexed items reviewed against supplied 2027 maps; no whole-paper approval.",
+      "official_solutions_included": false,
+      "distribution": "link-only",
+      "source_container": "single_paper"
+    },
+    {
+      "source_id": "PA-MATH-2024",
+      "title": "Μαθηματικά Προσανατολισμού - επίσημα θέματα ΓΕΛ 2024-06-04",
+      "url": "https://www.minedu.gov.gr/publications/docs2024/panelladikes_2024_iounios/them_math_gel_240604.pdf",
+      "verified_on": "2026-10-18",
+      "sha256": "fabf692d15034e23d01aa3e61f3b7686ca466fef98dbcb8c566272966b6a0465",
+      "compatibility": "Only explicitly indexed items reviewed against supplied 2027 maps; no whole-paper approval.",
+      "official_solutions_included": false,
+      "distribution": "link-only",
+      "source_container": "single_paper"
+    },
+    {
+      "source_id": "PA-PAPER-GREEK-2020",
+      "title": "Νεοελληνική Γλώσσα και Λογοτεχνία - επίσημα θέματα ΓΕΛ 2020-06-15",
+      "url": "https://eoe.minedu.gov.gr/images/2026_Neoellenike%20Glossa%20%20Logotechnia.pdf",
+      "verified_on": "2026-10-18",
+      "sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "compatibility": "Only explicitly indexed items reviewed against supplied 2027 maps; no whole-paper approval.",
+      "official_solutions_included": false,
+      "archive_index_url": "https://eoe.minedu.gov.gr/el/home/arxeio-thematon",
+      "archive_sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "archive_pdf_pages_1_based": [
+        121,
+        125
+      ],
+      "page_count": 5,
+      "artifact_type": "complete annual paper extracted from official consolidated archive; not original downloaded annual-file bytes",
+      "extraction_method": "Poppler pdfseparate -f START -l END ARCHIVE PART-%d.pdf; pdfunite PART-START.pdf ... PART-END.pdf OUTPUT.pdf. Page content unedited. Byte hashes can vary across tool versions; verify source pages/content.",
+      "distribution": "link-only",
+      "source_container": "annual_archive",
+      "reviewed_extract_sha256": "0f9e0e3b944fd1b93f8072fecd56aec8ec70d5225584758f5ccfb4be991522a9",
+      "hash_scope": "Bytes of the consolidated archive at url; reviewed_extract_sha256 identifies the earlier annual extract, which is not bundled."
+    },
+    {
+      "source_id": "PA-PAPER-GREEK-2023",
+      "title": "Νεοελληνική Γλώσσα και Λογοτεχνία - επίσημα θέματα ΓΕΛ 2023-06-02",
+      "url": "https://eoe.minedu.gov.gr/images/2026_Neoellenike%20Glossa%20%20Logotechnia.pdf",
+      "verified_on": "2026-10-18",
+      "sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "compatibility": "Only explicitly indexed items reviewed against supplied 2027 maps; no whole-paper approval.",
+      "official_solutions_included": false,
+      "archive_index_url": "https://eoe.minedu.gov.gr/el/home/arxeio-thematon",
+      "archive_sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "archive_pdf_pages_1_based": [
+        139,
+        143
+      ],
+      "page_count": 5,
+      "artifact_type": "complete annual paper extracted from official consolidated archive; not original downloaded annual-file bytes",
+      "extraction_method": "Poppler pdfseparate -f START -l END ARCHIVE PART-%d.pdf; pdfunite PART-START.pdf ... PART-END.pdf OUTPUT.pdf. Page content unedited. Byte hashes can vary across tool versions; verify source pages/content.",
+      "distribution": "link-only",
+      "source_container": "annual_archive",
+      "reviewed_extract_sha256": "cece26330d34c127b050293182e0aaae8b120b85b1b9eb28fedf49826233af45",
+      "hash_scope": "Bytes of the consolidated archive at url; reviewed_extract_sha256 identifies the earlier annual extract, which is not bundled."
+    },
+    {
+      "source_id": "PA-PAPER-GREEK-2025",
+      "title": "Νεοελληνική Γλώσσα και Λογοτεχνία - επίσημα θέματα ΓΕΛ 2025-05-30",
+      "url": "https://eoe.minedu.gov.gr/images/2026_Neoellenike%20Glossa%20%20Logotechnia.pdf",
+      "verified_on": "2026-10-18",
+      "sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "compatibility": "Only explicitly indexed items reviewed against supplied 2027 maps; no whole-paper approval.",
+      "official_solutions_included": false,
+      "archive_index_url": "https://eoe.minedu.gov.gr/el/home/arxeio-thematon",
+      "archive_sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "archive_pdf_pages_1_based": [
+        149,
+        152
+      ],
+      "page_count": 4,
+      "artifact_type": "complete annual paper extracted from official consolidated archive; not original downloaded annual-file bytes",
+      "extraction_method": "Poppler pdfseparate -f START -l END ARCHIVE PART-%d.pdf; pdfunite PART-START.pdf ... PART-END.pdf OUTPUT.pdf. Page content unedited. Byte hashes can vary across tool versions; verify source pages/content.",
+      "distribution": "link-only",
+      "source_container": "annual_archive",
+      "reviewed_extract_sha256": "149d717991ab4333b33b6fa16bb0d904a9a823323eb0bdfe063ddfbdf38e9a4e",
+      "hash_scope": "Bytes of the consolidated archive at url; reviewed_extract_sha256 identifies the earlier annual extract, which is not bundled."
+    }
+  ],
+  "instructions": "Ανάκτησε το ακριβές ερώτημα και τις εξαρτήσεις του από το επίσημο URL. Αν η πηγή παραμένει απρόσιτη, ζήτησε μόνο το κρίσιμο απόσπασμα ή πρότεινε πρωτότυπη εναλλακτική. Μην ανασυνθέτεις από μνήμης. Η γνησιότητα δεν συνεπάγεται συμβατότητα όλου του φυλλαδίου με το 2027.",
+  "reviewed_items": "reviewed-items.json"
+}

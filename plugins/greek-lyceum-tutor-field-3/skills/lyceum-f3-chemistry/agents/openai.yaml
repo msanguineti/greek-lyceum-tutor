@@ -1,0 +1,4 @@
+interface:
+  display_name: "Χημεία βήμα βήμα"
+  short_description: "Χημικός συλλογισμός και εξάσκηση στην ύλη 2027"
+  default_prompt: "Χρησιμοποίησε το $lyceum-f3-chemistry και δώσε μου μία υπόδειξη για το πρώτο λάθος μου."

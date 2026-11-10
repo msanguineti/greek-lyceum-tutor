@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "greek-lyceum-tutor-field-3",
+  "version": "0.1.9",
+  "description": "Greek-language tutoring for field 3, 2027 Panellinies.",
+  "extensions": {
+    "com.openai": {
+      "onboardingSkill": "./skills/lyceum-f3-study/SKILL.md",
+      "interface": {
+        "displayName": "Πανελλαδικές — 3ο Πεδίο",
+        "shortDescription": "Βήμα βήμα για το 2027",
+        "longDescription": "Νεοελληνική Γλώσσα και Λογοτεχνία, Φυσική, Χημεία, Βιολογία. Μικρά βήματα, υποδείξεις, μελέτη και εξάσκηση για τις Πανελλαδικές 2027. Δεν αποθηκεύεται αυτόματα προσωπική πρόοδος. Πρωτότυπες ασκήσεις και δοκιμασίες δημιουργούνται όταν τις ζητήσεις· η βαθμολόγησή τους είναι εκπαιδευτική.",
+        "category": "Education",
+        "capabilities": [],
+        "defaultPrompt": [
+          "Θέλω να καταλάβω ένα θέμα για τις Πανελλαδικές 2027, βήμα βήμα.",
+          "Βοήθησέ με με την προσπάθειά μου χωρίς να δώσεις αμέσως τη λύση.",
+          "Έχω 30 λεπτά για επανάληψη. Τι να μελετήσω;"
+        ]
+      }
+    }
+  }
+}

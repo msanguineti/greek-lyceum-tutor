@@ -1,0 +1,440 @@
+{
+  "sources": [
+    {
+      "id": "S1",
+      "title": "ΥΠΑΙΘΑ 90176/Δ2 06-07-2026: εξεταστέα ύλη Πανελλαδικών ΓΕΛ 2027",
+      "url": "https://www.minedu.gov.gr/publications/90176_%CE%942_06_07_26_%CE%95%CE%9E%CE%95%CE%A4%CE%91%CE%A3%CE%A4%CE%95%CE%91_%CE%A5%CE%9B%CE%97_2027.pdf",
+      "file": "official/syllabus-2027.pdf",
+      "math_pages": [
+        15,
+        16
+      ],
+      "status": "Επίσημο διοικητικό πρωτότυπο με διατηρημένη ταυτότητα και αποτύπωμα. Ο αρχικός έλεγχος 18-10-2026 αφορά μόνο τα επαναχρησιμοποιούμενα μαθήματα: Νεοελληνική Γλώσσα και Λογοτεχνία, Μαθηματικά. Για τα νέα μαθήματα διάβασε τους ιδιαίτερους χάρτες, την προέλευση και τα όρια ελέγχου τους.",
+      "verified_on": "2026-10-18",
+      "sha256": "279ee3201659ff3bc17bcd0a2bdd3137b1d09bc064e03773ebb6b197aac59357",
+      "distribution": "bundled-administrative-record",
+      "redistribution_basis": "Official state-authority text; Law2121/1993 Art2(5).",
+      "rights_url": "https://opi.gr/vivliothiki/nomos-2121-1993/"
+    },
+    {
+      "id": "S2",
+      "title": "ΙΕΠ: Οδηγίες Μαθηματικών Γ΄ ΓΕΛ 2026–2027",
+      "url": "https://www.iep.edu.gr/wp-content/uploads/2026/09/%CE%9C%CE%91%CE%98%CE%97%CE%9C%CE%91%CE%A4%CE%99%CE%9A%CE%91_%CE%93%CE%95%CE%9D.-%CE%9A%CE%91%CE%A4%CE%95%CE%A5%CE%98%CE%A5%CE%9D%CE%A3%CE%97_%CE%93_%CE%93%CE%95%CE%9B_2026-2027.zip",
+      "member": "162303_3_ΣΥΝ2_107560_ΜΑΘΗΜΑΤΙΚΑ_Γ_ΓΕΛ_ΠΡΟΣΑΝ_2026_2027.pdf",
+      "status": "retrieved and extracted; mathematical guidance read; primitive table visually inspected",
+      "verified_on": "2026-10-18",
+      "archive_sha256": "5cb8a441065c0790642c53dc916425a57751410c81d56129efb848eb880b7500",
+      "sha256": "7de3469a7ea230564e73a147e7f14631f57f021bf3ee9a2935ced7995355fdae",
+      "distribution": "link-only",
+      "redistribution_basis": "Official URL and source identity only; no public copy or extracted full text.",
+      "format": "zip",
+      "hash_scope": "PDF member, not ZIP container",
+      "retrieval": "Use available download/archive/PDF tools to read only the recorded member; a web reader rejecting ZIP is not evidence that the source is unavailable."
+    },
+    {
+      "id": "S3",
+      "title": "ΙΕΠ 2026–2027 guidance index",
+      "url": "https://www.iep.edu.gr/yli-kai-odigies-didaskalias-genikou-lykeiou-gia-to-scholiko-etos-2026-2027/",
+      "status": "opened; official source links verified",
+      "verified_on": "2026-10-18"
+    },
+    {
+      "id": "G2-archive",
+      "title": "ΙΕΠ: ΓΛΩΣΣΑ-ΛΟΓΟΤ ΑΒΓ ΓΕΛ 2026-2027",
+      "url": "https://www.iep.edu.gr/wp-content/uploads/2026/09/%CE%93%CE%9B%CE%A9%CE%A3%CE%A3%CE%91-%CE%9B%CE%9F%CE%93%CE%9F%CE%A4_%CE%91%CE%92%CE%93_%CE%93%CE%95%CE%9B_2026-2027.zip",
+      "locators": {
+        "member": "162260_3_ΣΥΝ2_106354_ΝΕΟΕΛΛ_ΓΛ_ΛΟΓ_Γ_ΓΕΛ_2026_2027.pdf"
+      },
+      "status": "retrieved from official index; two PDF members identified",
+      "verified_on": "2026-10-18",
+      "sha256": "91b41da49998cd3c326a104b233d5334ec2e0e4e474f84104e9018219627c7a4",
+      "snapshot_included": false,
+      "retrieved_filename": "guidance-greek-2026-2027.zip"
+    },
+    {
+      "id": "G2",
+      "title": "ΙΕΠ: Οδηγίες διδασκαλίας Νεοελληνικής Γλώσσας και Λογοτεχνίας Γ΄ ΓΕΛ 2026-2027",
+      "url": "https://dide.ira.sch.gr/wp-content/uploads/2026/08/%CE%A3%CE%A5%CE%9D2_106354_%CE%9D%CE%95%CE%9F%CE%95%CE%9B%CE%9B_%CE%93%CE%9B_%CE%9B%CE%9F%CE%93_%CE%93_%CE%93%CE%95%CE%9B-2026_2027.pdf",
+      "locators": {
+        "pages": 27,
+        "resources": [
+          1,
+          2
+        ],
+        "competencies_and_axes": [
+          2,
+          3
+        ],
+        "teaching_and_literature": [
+          4,
+          5
+        ],
+        "assessment_clarifications": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "indicative_examples": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "rubrics": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27
+        ]
+      },
+      "status": "primary official archive member extracted; relevant full text read; pp.4-5 rendered and p.5 visually inspected; rubric labels extracted",
+      "verified_on": "2026-10-18",
+      "member": "162260_3_ΣΥΝ2_106354_ΝΕΟΕΛΛ_ΓΛ_ΛΟΓ_Γ_ΓΕΛ_2026_2027.pdf",
+      "sha256": "3defd74837b282ae91f33ca4551bde84602a45ad6d2d6ec28668a7d1288a2854",
+      "distribution": "link-only",
+      "redistribution_basis": "Official URL and source identity only; no public copy or extracted full text.",
+      "format": "pdf",
+      "hash_scope": "Direct PDF URL bytes; byte-identical to the IEP archive member",
+      "retrieval": "Προτίμησε το άμεσο PDF της επίσημης ΔΔΕ Ηρακλείου. Αν δεν ανοίγει απευθείας, άνοιξε την official_landing_page και ακολούθησε τον σύνδεσμο «ΣΥΝ2_106354_ΝΕΟΕΛΛ_ΓΛ_ΛΟΓ_Γ_ΓΕΛ» για Νεοελληνική Γλώσσα και Λογοτεχνία. Το PDF έχει ελεγχθεί byte-identical με το καταγεγραμμένο μέλος του αρχικού ZIP ΙΕΠ. Εναλλακτικά χρησιμοποίησε archive_url και member με διαθέσιμα εργαλεία ZIP/PDF. Μην υποκαθιστάς την ανάγνωση με μεταδεδομένα.",
+      "archive_sha256": "91b41da49998cd3c326a104b233d5334ec2e0e4e474f84104e9018219627c7a4",
+      "archive_url": "https://www.iep.edu.gr/wp-content/uploads/2026/09/%CE%93%CE%9B%CE%A9%CE%A3%CE%A3%CE%91-%CE%9B%CE%9F%CE%93%CE%9F%CE%A4_%CE%91%CE%92%CE%93_%CE%93%CE%95%CE%9B_2026-2027.zip",
+      "official_landing_page": "https://dide.ira.sch.gr/ekpedevtika-themata/ekp260810/",
+      "alternate_verified_on": "2026-11-07"
+    },
+    {
+      "id": "E1",
+      "title": "Φ.251/119188/Α5/29.9.2022, ΦΕΚ Β΄ 5136/03.10.2022: τρόπος εξέτασης από ακαδημαϊκό έτος 2023-24 και εφεξής",
+      "url": "https://www.minedu.gov.gr/publications/docs2022/FEK-5136_B-2022.pdf",
+      "locators": {
+        "greek": {
+          "pdf": [
+            3,
+            4
+          ],
+          "printed": [
+            52699,
+            52700
+          ],
+          "section": "Β"
+        },
+        "math": {
+          "pdf": [
+            4,
+            5
+          ],
+          "printed": [
+            52700,
+            52701
+          ],
+          "section": "Ε"
+        }
+      },
+      "status": "full primary Ministry-hosted gazette PDF retrieved; relevant sections read; pp.4-5 visually inspected; no exhaustive later-amendment clearance",
+      "verified_on": "2026-10-18",
+      "retrieved_url": "https://old.minedu.gov.gr/publications/docs2022/FEK-5136_B-2022.pdf",
+      "landing_page": "https://old.minedu.gov.gr/news/53638-1-ypourgiki-apofasi-kathorismoy-tropou-eksetasis-ton-panelladika-eksetazomenon-mathimaton-stis-panelladikes-2023-fek-5136-v",
+      "sha256": "b2aa94019bd465fa6d1caa7fc75aa1f440c14ae742d4c8efb3d6d2478bb76b41",
+      "file": "official/exam-rules-fek-5136-2022.pdf",
+      "distribution": "bundled-administrative-record",
+      "redistribution_basis": "Official state-authority text; Law2121/1993 Art2(5).",
+      "rights_url": "https://opi.gr/vivliothiki/nomos-2121-1993/"
+    },
+    {
+      "id": "E2",
+      "title": "ΥΠΑΙΘΑ: Εγκύκλιος Αίτησης-Δήλωσης ΓΕΛ 2026",
+      "url": "https://www.minedu.gov.gr/publications/docs2023/%CE%95%CE%93%CE%9A%CE%A5%CE%9A%CE%9B%CE%99%CE%9F%CE%A3_%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%97%CE%A3_%CE%94%CE%97%CE%9B%CE%A9%CE%A3%CE%97%CE%A3_%CE%93%CE%95%CE%9B_2026.pdf",
+      "locators": {
+        "pdf_pages": [
+          3
+        ],
+        "paragraph": "Φ.251/119188/Α5/2022 ... που ισχύει για τις πανελλαδικές εξετάσεις 2026"
+      },
+      "status": "primary Ministry circular retrieved; relevant p.3 paragraph read; confirms E1 use in 2026, not an explicit 2027 reconfirmation",
+      "verified_on": "2026-10-18",
+      "sha256": "2934502fda45cc799794c40155d4d1f79bebe2b313dffdf9bdc1e257a5aeae9c",
+      "file": "official/application-2026.pdf",
+      "distribution": "bundled-administrative-record",
+      "redistribution_basis": "Official state-authority text; Law2121/1993 Art2(5).",
+      "rights_url": "https://opi.gr/vivliothiki/nomos-2121-1993/"
+    },
+    {
+      "id": "P1-page",
+      "title": "ΥΠΑΙΘΑ 11-09-2026: Πρόγραμμα Πανελλαδικών 2027",
+      "url": "https://www.minedu.gov.gr/site/70820-11-09-26-programma-panelladikon-exetaseon-gel-epal-kai-eidikon-kai-mousikon-mathematon-etous-2027",
+      "locators": {
+        "section": "Α. Πρόγραμμα Πανελλαδικών 2027 των ημερήσιων και εσπερινών ΓΕΛ; paragraph after table"
+      },
+      "status": "official page read; directly verifies 3-hour duration for all GEL 2027 papers",
+      "verified_on": "2026-10-18",
+      "sha256": "0ac48d89e9e8c23e60d00767052e014ef94fdea8922a3795b05e7f6187bdd249",
+      "snapshot_included": false,
+      "retrieved_filename": "programme-2027.html"
+    },
+    {
+      "id": "P1",
+      "title": "ΥΠΑΙΘΑ 11-09-2026: Δελτίο Τύπου Προγράμματος Πανελλαδικών 2027",
+      "url": "https://www.minedu.gov.gr/publications/docs2026/2027_%CE%94%CE%95%CE%9B%CE%A4%CE%99%CE%9F_%CE%A4%CE%A5%CE%A0%CE%9F%CE%A5_%CE%A0%CE%A1%CE%9F%CE%93%CE%A1%CE%91%CE%9C%CE%9C%CE%91_%CE%A0%CE%91%CE%9D%CE%95%CE%9B%CE%9B%CE%91%CE%94%CE%99%CE%9A%CE%95%CE%A3_%CE%95%CE%9E%CE%95%CE%A4%CE%91%CE%A3%CE%95%CE%99%CE%A3_%CE%93%CE%95%CE%9B_%CE%95%CE%A0%CE%91%CE%9B_%CE%9A%CE%91%CE%99_%CE%95%CE%99%CE%94%CE%99%CE%9A%CE%91_2027.docx",
+      "locators": {
+        "section": "Α, table and following paragraph"
+      },
+      "status": "DOCX downloaded from observed Ministry href; XML text read; dates and 3h corroborate page",
+      "verified_on": "2026-10-18",
+      "schedule": {
+        "greek": "2027-05-28",
+        "math": "2027-05-31",
+        "start": "08:30",
+        "arrival_by": "08:00",
+        "duration_minutes": 180
+      },
+      "sha256": "443c18101c5ca896ea16cfb7958609fae1a9c8545506d8b621df6b618cf75aeb",
+      "file": "official/programme-2027.docx",
+      "distribution": "bundled-administrative-record",
+      "redistribution_basis": "Official state-authority text; Law2121/1993 Art2(5).",
+      "rights_url": "https://opi.gr/vivliothiki/nomos-2121-1993/"
+    },
+    {
+      "id": "PA-GR",
+      "title": "Νεοελληνική Γλώσσα και Λογοτεχνία - επίσημα θέματα ΓΕΛ 2026-05-29",
+      "url": "https://www.minedu.gov.gr/publications/docs2026/panelladikes_2026_iounios/them_nea_ellinika_gel_260529.pdf",
+      "locators": {
+        "header_page": 1,
+        "pages": 5,
+        "instructions_page": 5
+      },
+      "status": "Official source identity and selected-item locations checked; see the locator catalog for the reviewed selection and its limits. No stored transcription or answer key; the remaining paper is not cleared for the 2027 syllabus.",
+      "verified_on": "2026-10-18",
+      "sha256": "f1aee0ee5b25d82365058d2c997c8f19d2e373f2d04824af565e84091af54495",
+      "distribution": "link-only",
+      "redistribution_basis": "Official URL and source identity only; no public copy or extracted full text."
+    },
+    {
+      "id": "PA-MA",
+      "title": "Μαθηματικά Προσανατολισμού - επίσημα θέματα ΓΕΛ 2026-06-03",
+      "url": "https://www.minedu.gov.gr/publications/docs2026/panelladikes_2026_iounios/them_mathimatika_gel_260603.pdf",
+      "locators": {
+        "header_page": 1,
+        "pages": 4,
+        "instructions_page": 4
+      },
+      "status": "Official source identity and selected-item locations checked; see the locator catalog for the reviewed selection and its limits. No stored transcription or answer key; the remaining paper is not cleared for the 2027 syllabus.",
+      "verified_on": "2026-10-18",
+      "sha256": "aa5f0d19eebdbe5b9c56cd5dc6e2431a538a09410f7fdb5720d86d5b8c7b8619",
+      "distribution": "link-only",
+      "redistribution_basis": "Official URL and source identity only; no public copy or extracted full text."
+    },
+    {
+      "id": "PA-MATH-2020",
+      "title": "Μαθηματικά Προσανατολισμού - επίσημα θέματα ΓΕΛ 2020-06-17",
+      "url": "https://www.minedu.gov.gr/publications/docs2020/EXETASEIS-2020-IOUNIOS/them_math_NEO_200617.pdf",
+      "sha256": "00a18b91c4e70ffb9b4496232284b7e34ecfe408bbe7ec57de212f37ca6b1438",
+      "verified_on": "2026-10-18",
+      "status": "Official source identity and selected-item locations checked; see the locator catalog for the reviewed selection and its limits. No stored transcription or answer key; the remaining paper is not cleared for the 2027 syllabus.",
+      "distribution": "link-only",
+      "redistribution_basis": "Official URL and source identity only; no public copy or extracted full text."
+    },
+    {
+      "id": "PA-MATH-2023",
+      "title": "Μαθηματικά Προσανατολισμού - επίσημα θέματα ΓΕΛ 2023-06-06",
+      "url": "https://www.minedu.gov.gr/publications/docs2023/panelladikes_2023_iounios/MATHIMATIKA_%CE%9F%CE%A1_HM_2023_04.pdf",
+      "sha256": "6e5b5a70a996937c0a0472002f6a0fc21ee6424154fe68a32d0f1b1cf17d772d",
+      "verified_on": "2026-10-18",
+      "status": "Official source identity and selected-item locations checked; see the locator catalog for the reviewed selection and its limits. No stored transcription or answer key; the remaining paper is not cleared for the 2027 syllabus.",
+      "distribution": "link-only",
+      "redistribution_basis": "Official URL and source identity only; no public copy or extracted full text."
+    },
+    {
+      "id": "PA-MATH-2024",
+      "title": "Μαθηματικά Προσανατολισμού - επίσημα θέματα ΓΕΛ 2024-06-04",
+      "url": "https://www.minedu.gov.gr/publications/docs2024/panelladikes_2024_iounios/them_math_gel_240604.pdf",
+      "sha256": "fabf692d15034e23d01aa3e61f3b7686ca466fef98dbcb8c566272966b6a0465",
+      "verified_on": "2026-10-18",
+      "status": "Official source identity and selected-item locations checked; see the locator catalog for the reviewed selection and its limits. No stored transcription or answer key; the remaining paper is not cleared for the 2027 syllabus.",
+      "distribution": "link-only",
+      "redistribution_basis": "Official URL and source identity only; no public copy or extracted full text."
+    },
+    {
+      "id": "PA-PAPER-GREEK-2020",
+      "title": "Νεοελληνική Γλώσσα και Λογοτεχνία - επίσημα θέματα ΓΕΛ 2020-06-15",
+      "url": "https://eoe.minedu.gov.gr/images/2026_Neoellenike%20Glossa%20%20Logotechnia.pdf",
+      "sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "verified_on": "2026-10-18",
+      "status": "Official source identity and selected-item locations checked; see the locator catalog for the reviewed selection and its limits. No stored transcription or answer key; the remaining paper is not cleared for the 2027 syllabus.",
+      "archive_index_url": "https://eoe.minedu.gov.gr/el/home/arxeio-thematon",
+      "archive_sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "archive_pdf_pages_1_based": [
+        121,
+        125
+      ],
+      "page_count": 5,
+      "artifact_type": "complete annual paper extracted from official consolidated archive; not original downloaded annual-file bytes",
+      "extraction_method": "Poppler pdfseparate -f START -l END ARCHIVE PART-%d.pdf; pdfunite PART-START.pdf ... PART-END.pdf OUTPUT.pdf. Page content unedited. Byte hashes can vary across tool versions; verify source pages/content.",
+      "distribution": "link-only",
+      "redistribution_basis": "Official URL and source identity only; no public copy or extracted full text.",
+      "reviewed_extract_sha256": "0f9e0e3b944fd1b93f8072fecd56aec8ec70d5225584758f5ccfb4be991522a9",
+      "hash_scope": "Bytes of the consolidated archive at url; reviewed_extract_sha256 identifies the earlier annual extract, which is not bundled."
+    },
+    {
+      "id": "PA-PAPER-GREEK-2023",
+      "title": "Νεοελληνική Γλώσσα και Λογοτεχνία - επίσημα θέματα ΓΕΛ 2023-06-02",
+      "url": "https://eoe.minedu.gov.gr/images/2026_Neoellenike%20Glossa%20%20Logotechnia.pdf",
+      "sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "verified_on": "2026-10-18",
+      "status": "Official source identity and selected-item locations checked; see the locator catalog for the reviewed selection and its limits. No stored transcription or answer key; the remaining paper is not cleared for the 2027 syllabus.",
+      "archive_index_url": "https://eoe.minedu.gov.gr/el/home/arxeio-thematon",
+      "archive_sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "archive_pdf_pages_1_based": [
+        139,
+        143
+      ],
+      "page_count": 5,
+      "artifact_type": "complete annual paper extracted from official consolidated archive; not original downloaded annual-file bytes",
+      "extraction_method": "Poppler pdfseparate -f START -l END ARCHIVE PART-%d.pdf; pdfunite PART-START.pdf ... PART-END.pdf OUTPUT.pdf. Page content unedited. Byte hashes can vary across tool versions; verify source pages/content.",
+      "distribution": "link-only",
+      "redistribution_basis": "Official URL and source identity only; no public copy or extracted full text.",
+      "reviewed_extract_sha256": "cece26330d34c127b050293182e0aaae8b120b85b1b9eb28fedf49826233af45",
+      "hash_scope": "Bytes of the consolidated archive at url; reviewed_extract_sha256 identifies the earlier annual extract, which is not bundled."
+    },
+    {
+      "id": "PA-PAPER-GREEK-2025",
+      "title": "Νεοελληνική Γλώσσα και Λογοτεχνία - επίσημα θέματα ΓΕΛ 2025-05-30",
+      "url": "https://eoe.minedu.gov.gr/images/2026_Neoellenike%20Glossa%20%20Logotechnia.pdf",
+      "sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "verified_on": "2026-10-18",
+      "status": "Official source identity and selected-item locations checked; see the locator catalog for the reviewed selection and its limits. No stored transcription or answer key; the remaining paper is not cleared for the 2027 syllabus.",
+      "archive_index_url": "https://eoe.minedu.gov.gr/el/home/arxeio-thematon",
+      "archive_sha256": "6a49ee22b5d14c370db31af08606b02ae8790166ce41ff6b6fd10edfa42ef219",
+      "archive_pdf_pages_1_based": [
+        149,
+        152
+      ],
+      "page_count": 4,
+      "artifact_type": "complete annual paper extracted from official consolidated archive; not original downloaded annual-file bytes",
+      "extraction_method": "Poppler pdfseparate -f START -l END ARCHIVE PART-%d.pdf; pdfunite PART-START.pdf ... PART-END.pdf OUTPUT.pdf. Page content unedited. Byte hashes can vary across tool versions; verify source pages/content.",
+      "distribution": "link-only",
+      "redistribution_basis": "Official URL and source identity only; no public copy or extracted full text.",
+      "reviewed_extract_sha256": "149d717991ab4333b33b6fa16bb0d904a9a823323eb0bdfe063ddfbdf38e9a4e",
+      "hash_scope": "Bytes of the consolidated archive at url; reviewed_extract_sha256 identifies the earlier annual extract, which is not bundled."
+    },
+    {
+      "id": "textbook-mathematics-b",
+      "title": "Μαθηματικά Γ΄ Τάξης Γενικού Λυκείου, Β΄ Μέρος — Ομάδας Προσανατολισμού Θετικών Σπουδών & Σπουδών Υγείας και Σπουδών Οικονομίας & Πληροφορικής",
+      "url": "https://ebooks.edu.gr/ebooks/v/pdf/8547/2604/22-0234-01-v3_Mathimatika-G-Lykeiou-ThSp-SpOikPlir_Vivlio-Mathiti-T2/",
+      "sha256": "1cb7a9c870b645da264a854ac1c200f67ce90401bd3b890c597349776931c697",
+      "bytes": 38442323,
+      "snapshot_included": false,
+      "verified_on": "2026-10-18",
+      "status": "Official complete unmodified textbook; identity/pagination and selected exercises reviewed, not whole-book syllabus approval",
+      "distribution": "link-only",
+      "redistribution_basis": "Official URL and source identity only; no public copy or extracted full text."
+    },
+    {
+      "id": "BOOK-GR-22-0075",
+      "title": "Έκφραση - Έκθεση, τεύχος Γ΄, Γενικό Λύκειο",
+      "url": "https://old.ebooks.edu.gr/modules/document/file.php/DSGL-C130/%CE%94%CE%B9%CE%B4%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CF%8C%20%CE%A0%CE%B1%CE%BA%CE%AD%CF%84%CE%BF/%CE%92%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%20%CE%9C%CE%B1%CE%B8%CE%B7%CF%84%CE%AE/22-0075-02_Ekfrasi-Ekthesi_G-Lyk_BM.pdf",
+      "sha256": "d4b33c836b5896cc67276156d756da824f7726d57bc6784c7878aeeeca549b71",
+      "bytes": 52310437,
+      "snapshot_included": false,
+      "verified_on": "2026-10-18",
+      "status": "identity, relevant contents, page anchors and selected activity/glossary visually checked; full anthology not pedagogically reviewed",
+      "distribution": "link-only",
+      "redistribution_basis": "Official URL and source identity only; no public copy or extracted full text."
+    },
+    {
+      "id": "BOOK-GR-22-0253",
+      "title": "«Εμείς και οι άλλοι…», Δίκτυο κειμένων, Φάκελος Υλικού Νεοελληνικής Γλώσσας Γ΄ Λυκείου",
+      "url": "https://old.ebooks.edu.gr/modules/document/file.php/DSGL-C130/%CE%94%CE%B9%CE%B4%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CF%8C%20%CE%A0%CE%B1%CE%BA%CE%AD%CF%84%CE%BF/%CE%A6%CE%AC%CE%BA%CE%B5%CE%BB%CE%BF%CF%82%20%CE%A5%CE%BB%CE%B9%CE%BA%CE%BF%CF%8D/22-0253-01-v2_Neoelliniki-Glossa_Diktya-Keimenon-G-Lykeiou_Fakelos-Ylikou.pdf",
+      "sha256": "59755fea99299dfa15b0ed183ccf6e3ec1c31601c0506e2863e586968a717817",
+      "bytes": 5361636,
+      "snapshot_included": false,
+      "verified_on": "2026-10-18",
+      "status": "identity, relevant contents, page anchors and selected activity/glossary visually checked; full anthology not pedagogically reviewed",
+      "distribution": "link-only",
+      "redistribution_basis": "Official URL and source identity only; no public copy or extracted full text."
+    },
+    {
+      "id": "BOOK-GR-22-0083",
+      "title": "Κείμενα Νεοελληνικής Λογοτεχνίας, τεύχος Γ΄ (1945-2000), Γ΄ τάξη Γενικού Λυκείου",
+      "url": "https://old.ebooks.edu.gr/modules/document/file.php/DSGL-C131/%CE%94%CE%B9%CE%B4%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CF%8C%20%CE%A0%CE%B1%CE%BA%CE%AD%CF%84%CE%BF/%CE%92%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%20%CE%9C%CE%B1%CE%B8%CE%B7%CF%84%CE%AE/22-0083-02-v2_Keimena-Neoellinikis-Logotechnias_G-Lykeiou_Vivlio-Mathiti.pdf",
+      "sha256": "0cdbe97aa25c2c88002affc109377bd4d82601e22d4f12c075115ccf83719ffc",
+      "bytes": 9478771,
+      "snapshot_included": false,
+      "verified_on": "2026-10-18",
+      "status": "identity, relevant contents, page anchors and selected activity/glossary visually checked; full anthology not pedagogically reviewed",
+      "distribution": "link-only",
+      "redistribution_basis": "Official URL and source identity only; no public copy or extracted full text."
+    },
+    {
+      "id": "BOOK-GR-22-0254",
+      "title": "Λογοτεχνία, Φάκελος Υλικού - Δίκτυα Κειμένων, Γ΄ Γενικού Λυκείου",
+      "url": "https://old.ebooks.edu.gr/modules/document/file.php/DSGL-C131/%CE%94%CE%B9%CE%B4%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CF%8C%20%CE%A0%CE%B1%CE%BA%CE%AD%CF%84%CE%BF/%CE%A6%CE%AC%CE%BA%CE%B5%CE%BB%CE%BF%CF%82%20%CE%A5%CE%BB%CE%B9%CE%BA%CE%BF%CF%8D%20-%20%CE%94%CE%AF%CE%BA%CF%84%CF%85%CE%BF%20%CE%9A%CE%B5%CE%B9%CE%BC%CE%AD%CE%BD%CF%89%CE%BD/22-0254-01_Logotechnia_G-Lykeiou_Fakelos-Ylikou_Diktya-Keimenon.pdf",
+      "sha256": "9266b16622bb2e12786904e50ce0eff147c736677296f59838bf3b0ad1799710",
+      "bytes": 4667402,
+      "snapshot_included": false,
+      "verified_on": "2026-10-18",
+      "status": "identity, relevant contents, page anchors and selected activity/glossary visually checked; full anthology not pedagogically reviewed",
+      "distribution": "link-only",
+      "redistribution_basis": "Official URL and source identity only; no public copy or extracted full text."
+    },
+    {
+      "id": "BOOK-GR-22-0043",
+      "title": "Λεξικό Λογοτεχνικών Όρων, Γυμνασίου - Λυκείου",
+      "url": "https://old.ebooks.edu.gr/modules/document/file.php/DSGL-C131/%CE%94%CE%B9%CE%B4%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CF%8C%20%CE%A0%CE%B1%CE%BA%CE%AD%CF%84%CE%BF/%CE%9B%CE%B5%CE%BE%CE%B9%CE%BA%CF%8C%20%CE%9B%CE%BF%CE%B3%CE%BF%CF%84%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CF%8E%CE%BD%20%CE%8C%CF%81%CF%89%CE%BD/22-0043-02_Lexiko-Logotechnikon-Oron_Gymnasiou-Lykeiou.pdf",
+      "sha256": "41b08addbee0ffa687b280c357427f6456593408037b5b8d4ef3ac27755eeb86",
+      "bytes": 4925587,
+      "snapshot_included": false,
+      "verified_on": "2026-10-18",
+      "status": "identity, relevant contents, page anchors and selected activity/glossary visually checked; full anthology not pedagogically reviewed",
+      "distribution": "link-only",
+      "redistribution_basis": "Official URL and source identity only; no public copy or extracted full text."
+    },
+    {
+      "id": "S1-NOTICE",
+      "title": "ΥΠΑΙΘΑ 94792/Δ2/14-07-2026: γνωστοποίηση δημοσίευσης ύλης 2027",
+      "url": "https://www.iep.edu.gr/wp-content/uploads/2026/09/%CE%A0%CE%91%CE%9D%CE%9D%CE%95%CE%9B%CE%91%CE%94%CE%99%CE%9A%CE%95%CE%A3_%CE%93%CE%95%CE%9B_2026-2027.zip",
+      "file": "official/syllabus-2027-publication-notice.pdf",
+      "archive_member": "161407_1_ΕΞΕ_94792_2026_Γνωστοποίηση_Δημοσίευσης_Υπουργικής_Απόφασης_στην_Εφημερίδα_της_Κυβέρνησης.pdf",
+      "archive_sha256": "2b47d395ab127ec5feb6ba0718e0335c586db9ff10dc10d6ce183d0c3712f6c4",
+      "sha256": "26fad79ead931bd9e8ef90841b4f534cd36c212f1742615c3c4fb674550dd14c",
+      "bytes": 298214,
+      "unmodified": true,
+      "verified_on": "2026-10-18",
+      "status": "Επίσημο διοικητικό πρωτότυπο με διατηρημένη ταυτότητα και αποτύπωμα. Ο αρχικός έλεγχος 18-10-2026 αφορά μόνο τα επαναχρησιμοποιούμενα μαθήματα: Νεοελληνική Γλώσσα και Λογοτεχνία, Μαθηματικά. Για τα νέα μαθήματα διάβασε τους ιδιαίτερους χάρτες, την προέλευση και τα όρια ελέγχου τους.",
+      "distribution": "bundled-administrative-record",
+      "redistribution_basis": "Official state-authority text; Law2121/1993 Art2(5).",
+      "rights_url": "https://opi.gr/vivliothiki/nomos-2121-1993/"
+    },
+    {
+      "id": "S1-FEK",
+      "title": "ΦΕΚ Β΄4210/13-07-2026: απόφαση 90176/Δ2, εξεταστέα ύλη 2027",
+      "url": "https://www.iep.edu.gr/wp-content/uploads/2026/09/%CE%A0%CE%91%CE%9D%CE%9D%CE%95%CE%9B%CE%91%CE%94%CE%99%CE%9A%CE%95%CE%A3_%CE%93%CE%95%CE%9B_2026-2027.zip",
+      "file": "official/syllabus-2027-fek-4210.pdf",
+      "archive_member": "161407_2_ΦΕΚ_Β_4210_13_07_26_ΥΑ_90176_Δ2_ΕΞΕΤ_ΥΛΗ_2027.pdf",
+      "archive_sha256": "2b47d395ab127ec5feb6ba0718e0335c586db9ff10dc10d6ce183d0c3712f6c4",
+      "sha256": "c3de595755554d5e98112d0909c489d9e2e2608b3f2535cbe4201a67db33450f",
+      "bytes": 8648167,
+      "unmodified": true,
+      "verified_on": "2026-10-18",
+      "status": "Επίσημο διοικητικό πρωτότυπο με διατηρημένη ταυτότητα και αποτύπωμα. Ο αρχικός έλεγχος 18-10-2026 αφορά μόνο τα επαναχρησιμοποιούμενα μαθήματα: Νεοελληνική Γλώσσα και Λογοτεχνία, Μαθηματικά. Για τα νέα μαθήματα διάβασε τους ιδιαίτερους χάρτες, την προέλευση και τα όρια ελέγχου τους.",
+      "distribution": "bundled-administrative-record",
+      "redistribution_basis": "Official state-authority text; Law2121/1993 Art2(5).",
+      "rights_url": "https://opi.gr/vivliothiki/nomos-2121-1993/"
+    }
+  ],
+  "limitations": [
+    "Το κοινό μητρώο περιλαμβάνει μόνο πηγές των επιλεγμένων μαθημάτων και τις έξι κοινές διοικητικές πηγές. Η αναλυτική επαλήθευση παραμένει στους χάρτες και στα ιδιαίτερα μητρώα μαθημάτων. Δεν υπάρχει αυτόματη ενημέρωση ή τεκμήριο πλήρους αποδοχής."
+  ],
+  "verified_on": "2026-10-18"
+}

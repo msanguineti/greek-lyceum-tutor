@@ -1,0 +1,376 @@
+{
+  "subject": "ancient-greek",
+  "exam_year": 2027,
+  "verified_on": "2026-11-07",
+  "verification_limits": [
+    "Dated primary-source verification, not continuous monitoring or a guarantee that every amendment has been found.",
+    "Official source PDFs/ZIPs/text extracts are not distributed here. Only links, identity, locators and original teaching notes.",
+    "Actual textbook identity and targeted pages verified; not a full philological or every-exercise audit.",
+    "No liveChatGPT behavioral verification or independent review claimed.",
+    "Only selected past item is approved for current-scope use after source retrieval; no stored prompt, answer or hint.",
+    "Examination rules from retained2022 Gazette checked; no specific2027 conduct-circular reconfirmation."
+  ],
+  "sources": [
+    {
+      "id": "AG-SCOPE-2027",
+      "title": "ΥΠΑΙΘΑ90176/Δ2/06-07-2026: εξεταστέα ύλη Πανελλαδικών ΓΕΛ2027",
+      "source_type": "official-examination-syllabus",
+      "exam_year": 2027,
+      "url": "https://www.minedu.gov.gr/publications/90176_%CE%942_06_07_26_%CE%95%CE%9E%CE%95%CE%A4%CE%91%CE%A3%CE%A4%CE%95%CE%91_%CE%A5%CE%9B%CE%97_2027.pdf",
+      "shared_source_id": "S1",
+      "shared_resource": "../../lyceum-f1-study/references/shared/official/syllabus-2027.pdf",
+      "sha256": "279ee3201659ff3bc17bcd0a2bdd3137b1d09bc064e03773ebb6b197aac59357",
+      "page_count": 22,
+      "locators": {
+        "subject_pdf_pages": [
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "verified_on": "2026-11-07",
+      "distribution": "reference-existing-bundled-administrative-record",
+      "status": "Actual retained complete22-page MinistryPDF read at the specified pages; critical selections visually inspected. Hash identifies retained document, not a fresh network retrieval in this check."
+    },
+    {
+      "id": "AG-IEP-INDEX",
+      "title": "ΙΕΠ: οδηγίες Γενικού Λυκείου2026–2027",
+      "source_type": "official-guidance-index",
+      "school_year": "2026-2027",
+      "url": "https://www.iep.edu.gr/yli-kai-odigies-didaskalias-genikou-lykeiou-gia-to-scholiko-etos-2026-2027/",
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Actual official annual page opened and relevant archive href inspected. No hash asserted for changingHTML."
+    },
+    {
+      "id": "AG-RULES",
+      "title": "Φ.251/119188/Α5/29.9.2022, ΦΕΚ Β΄5136/03.10.2022 — Α. Αρχαία Ελληνικά",
+      "source_type": "official-examination-rules",
+      "url": "https://www.minedu.gov.gr/publications/docs2022/FEK-5136_B-2022.pdf",
+      "retrieved_url": "https://old.minedu.gov.gr/publications/docs2022/FEK-5136_B-2022.pdf",
+      "shared_source_id": "E1",
+      "shared_resource": "../../lyceum-f1-study/references/shared/official/exam-rules-fek-5136-2022.pdf",
+      "sha256": "b2aa94019bd465fa6d1caa7fc75aa1f440c14ae742d4c8efb3d6d2478bb76b41",
+      "locators": {
+        "section": "Α. Αρχαία Ελληνικά",
+        "pdf_page": 3,
+        "printed_page": 52699
+      },
+      "verified_on": "2026-11-07",
+      "distribution": "reference-existing-bundled-administrative-record",
+      "status": "Actual retained relevant page read. Rule applies from2023–24 onward according to document; not a fresh network retrieval.",
+      "verification_limit": "No special2027 conduct-circular reconfirmation; check newer official instructions before claiming a fully current full-exam simulation."
+    },
+    {
+      "id": "AG-IEP-2026-27",
+      "title": "ΙΕΠ2026–2027: Αρχαία Ελληνική Γλώσσα/Γραμματεία και Αρχαία Ελληνικά ΓΕΛ",
+      "source_type": "official-teaching-guidance",
+      "school_year": "2026-2027",
+      "url": "https://www.iep.edu.gr/wp-content/uploads/2026/09/%CE%91%CE%A1%CE%A7%CE%91%CE%99%CE%91_%CE%91%CE%92_%CE%93%CE%95%CE%9B_2026-2027.zip",
+      "archive_member": "162262_2_ΣΥΝ_106310_ΑΡΧΑΙΑ_ΕΛΛ_ΓΛ_ΑΡΧΑΙΑ_ΕΛΛ_ΓΕΛ_2026_2027.pdf",
+      "archive_sha256": "290cd52f5af40bcee5758f19158af5315d5573be78de067446ace73460e4ff25",
+      "sha256": "6d5d656257a0f894dbbe02f99efb2bed4689b351a251fc338ce9f1bf9cb0b8ad",
+      "page_count": 21,
+      "format": "zip",
+      "locators": {
+        "grade_g_pdf_pages": [
+          16,
+          17,
+          18
+        ],
+        "parallel_and_autonomous_text_status": [
+          17
+        ],
+        "grammar_handbook_1_to_21": [
+          17
+        ],
+        "interpretation_and_translation_guidance": [
+          16,
+          17,
+          18
+        ]
+      },
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Actual archive member read; exact gradeG section begins onp16, distinct from gradeB guidance preceding it. Supporting parallel/autonomous texts are not added to prescribed studied-text scope.",
+      "hash_scope": "sha256 is actual PDF member; archive_sha256 identifies actualZIP.",
+      "retrieval": "Use available archive/PDF access for exact member; a reader rejectingZIP does not mean the official source is absent."
+    },
+    {
+      "id": "AG-PHILOSOPHY",
+      "title": "Αρχαία Ελληνικά — Φιλοσοφικός Λόγος",
+      "source_type": "official-textbook",
+      "authors": [
+        "Μ. Ζ. Κοπιδάκης",
+        "Έλενα Πατρικίου",
+        "Δημήτρης Λυπουρλής",
+        "Δέσποινα Μωραΐτου"
+      ],
+      "publisher": "ΙΤΥΕ Διόφαντος",
+      "book_code": "22-0161-02",
+      "isbn": "978-960-06-2416-8",
+      "url": "https://ebooks.edu.gr/ebooks/v/pdf/8547/2534/22-0161-02_Archaia-Ellinika_Filosofikos-Logos_G-Lykeiou-AnthrSp_Vivlio-Mathiti/",
+      "sha256": "88b6b55b90c561b1c9bfbf34e13e9cfb268f0df9acc9e159f6134b82429ccc97",
+      "bytes": 9744464,
+      "page_count": 202,
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Actual title/authors, contents and introduction locators read; selected scope controlled by MinistryPDF, not full book.",
+      "locators": {
+        "contents_pdf_pages": [
+          5,
+          6
+        ],
+        "printed_to_pdf_offset": 1,
+        "socrates_D2_D3_printed": [
+          29,
+          32
+        ],
+        "plato_E1_printed": 35,
+        "protagoras_B_G_printed": [
+          49,
+          51
+        ],
+        "republic_introduction_printed": 83,
+        "cave_note_printed": 103,
+        "aristotle_biography_start_printed": 127,
+        "ethics_introduction_printed": 138,
+        "politics_introduction_printed": 164
+      },
+      "verification_limit": "Πραγματική λήψη και στοχευμένη ανάγνωση, όχι έλεγχος κάθε άσκησης, μορφής ή τυπογραφικού στοιχείου όλου του βιβλίου."
+    },
+    {
+      "id": "AG-FOLDER",
+      "title": "Αρχαία Ελληνικά Γ΄ΓΕΛ — Φάκελος Υλικού",
+      "source_type": "official-textbook",
+      "authors": [],
+      "publisher": "ΙΤΥΕ Διόφαντος",
+      "book_code": "22-0255-01",
+      "isbn": "978-960-06-5995-5",
+      "url": "https://www.ebooks.edu.gr/ebooks/d/8547/5293/22-0255-01_Archaia-Ellinika_G-Lykeiou-AnthrSp_Fakelos-Ylikou.pdf",
+      "sha256": "7ae3f28f3f5afd5aa26b761021e1264f6ee7e84c4b1b965c703f6d0ad9ff2f84",
+      "bytes": 9906959,
+      "page_count": 218,
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Actual title/contents and unit1 page read; precise selected units linked to Ministry scope. No complete reader or stored prompts.",
+      "locators": {
+        "contents_pdf_pages": [
+          6,
+          7
+        ],
+        "printed_to_pdf_offset": 1,
+        "selected_unit_start_printed": {
+          "1": 14,
+          "2": 22,
+          "3": 30,
+          "4": 43,
+          "5": 51,
+          "6": 59,
+          "7": 68,
+          "8": 79,
+          "9": 89,
+          "10": 96,
+          "11": 104,
+          "12": 115,
+          "13": 123,
+          "14": 130,
+          "15": 137,
+          "16": 153,
+          "17": 160,
+          "18": 167,
+          "21": 193
+        },
+        "source_locator_note": "98b12–28 is retained exactly as printed in MinistryPDF and folderunit1/PDF15; use actual school unit, not reconstruction from locator."
+      },
+      "verification_limit": "Πραγματική λήψη και στοχευμένη ανάγνωση, όχι έλεγχος κάθε άσκησης, μορφής ή τυπογραφικού στοιχείου όλου του βιβλίου."
+    },
+    {
+      "id": "AG-HANDBOOK",
+      "title": "Εγχειρίδιο Γλωσσικής Διδασκαλίας",
+      "source_type": "official-textbook",
+      "authors": [
+        "Ν. Μήτσης",
+        "Ειρ. Ζαμάρου",
+        "Ιφ. Παπανδρέου"
+      ],
+      "publisher": "ΙΤΥΕ Διόφαντος",
+      "book_code": "22-0013-02",
+      "isbn": "978-960-06-2305-5",
+      "url": "https://ebooks.edu.gr/ebooks/d/8547/5488/22-0013-02_Egxeiridio-Glossikis-Didaskalias_A-Lykeiou.pdf",
+      "sha256": "6c0dc9d6a30bb3e6791adba666ca0b5bdaf8442fd814b49005e54e99acf9daf3",
+      "bytes": 1562243,
+      "page_count": 118,
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Actual title and full contents for units1–21 read.",
+      "locators": {
+        "contents_pdf_pages": [
+          112,
+          113
+        ],
+        "printed_to_pdf_offset": 1,
+        "included_units": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      "verification_limit": "Πραγματική λήψη και στοχευμένη ανάγνωση, όχι έλεγχος κάθε άσκησης, μορφής ή τυπογραφικού στοιχείου όλου του βιβλίου."
+    },
+    {
+      "id": "AG-GRAMMAR",
+      "title": "Γραμματική της Αρχαίας Ελληνικής",
+      "source_type": "official-textbook",
+      "authors": [
+        "Μιχάλης Χ. Οικονόμου"
+      ],
+      "publisher": "ΙΤΥΕ Διόφαντος",
+      "book_code": "22-0012-02",
+      "isbn": "978-960-06-2304-8",
+      "url": "https://old.ebooks.edu.gr/modules/document/file.php/DSGL-C128/%CE%94%CE%B9%CE%B4%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CF%8C%20%CE%A0%CE%B1%CE%BA%CE%AD%CF%84%CE%BF/%CE%93%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE%20%CF%84%CE%B7%CF%82%20%CE%91%CF%81%CF%87%CE%B1%CE%AF%CE%B1%CF%82%20%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE%CF%82/22-0012-02_Grammatiki-t-Archaias-Ellinikis_Gym-Lyk.pdf",
+      "sha256": "be1874b51835ebc886b6a74ef04d1e24a141b214ad0a3f686717e7ae4d2fd091",
+      "bytes": 2742183,
+      "page_count": 338,
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Actual title/authorship verified; reference work used only within grammar scope.",
+      "locators": {
+        "identity_pdf_pages": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      "verification_limit": "Πραγματική λήψη και στοχευμένη ανάγνωση, όχι έλεγχος κάθε άσκησης, μορφής ή τυπογραφικού στοιχείου όλου του βιβλίου."
+    },
+    {
+      "id": "AG-SYNTAX",
+      "title": "Συντακτικό της Αρχαίας Ελληνικής Α΄Β΄Γ΄ΓΕΛ",
+      "source_type": "official-textbook",
+      "authors": [
+        "Α. Β. Μουμτζάκης"
+      ],
+      "publisher": "ΙΤΥΕ Διόφαντος",
+      "book_code": "22-0031-02",
+      "isbn": "978-960-06-2321-5",
+      "url": "https://old.ebooks.edu.gr/modules/document/file.php/DSGL-C128/%CE%94%CE%B9%CE%B4%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CF%8C%20%CE%A0%CE%B1%CE%BA%CE%AD%CF%84%CE%BF/%CE%A3%CF%85%CE%BD%CF%84%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CF%8C%20%CF%84%CE%B7%CF%82%20%CE%91%CF%81%CF%87%CE%B1%CE%AF%CE%B1%CF%82%20%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE%CF%82/22-0031-02_Syntaktiko-tis-Archaias-Ellinikis_A-B-G-Lykeiou.pdf",
+      "sha256": "d4a8f3926fb44d2627041ea180df3c0e0446d4b268921ca2e6ae33501421246f",
+      "bytes": 2256847,
+      "page_count": 218,
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Actual title/authorship and sentence-structure/agreement section read; reference work does not expand official scope.",
+      "locators": {
+        "identity_pdf_pages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "targeted_pdf_pages": [
+          18,
+          19,
+          20
+        ]
+      },
+      "verification_limit": "Πραγματική λήψη και στοχευμένη ανάγνωση, όχι έλεγχος κάθε άσκησης, μορφής ή τυπογραφικού στοιχείου όλου του βιβλίου."
+    },
+    {
+      "id": "AG-GYMNASIUM-A",
+      "title": "Αρχαία Ελληνική Γλώσσα Α΄ Γυμνασίου — επίσημος κατάλογος",
+      "source_type": "official-textbook-index",
+      "url": "https://old.ebooks.edu.gr/new/books-pdf.php?course=DSGL102",
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Actual catalogue opened and matching course title verified; no full-book hash or complete exercise review claimed. Read specific grammar/syntax pages before use."
+    },
+    {
+      "id": "AG-GYMNASIUM-B",
+      "title": "Αρχαία Ελληνική Γλώσσα Β΄ Γυμνασίου — επίσημος κατάλογος",
+      "source_type": "official-textbook-index",
+      "url": "https://old.ebooks.edu.gr/new/books-pdf.php?course=DSGYM-B112",
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Actual catalogue opened and matching course title verified; no full-book hash or complete exercise review claimed. Read specific grammar/syntax pages before use."
+    },
+    {
+      "id": "AG-GYMNASIUM-C",
+      "title": "Αρχαία Ελληνική Γλώσσα Γ΄ Γυμνασίου — επίσημος κατάλογος",
+      "source_type": "official-textbook-index",
+      "url": "https://old.ebooks.edu.gr/new/books-pdf.php?course=DSGYM-C106",
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Actual catalogue opened and matching course title verified; no full-book hash or complete exercise review claimed. Read specific grammar/syntax pages before use."
+    },
+    {
+      "id": "AG-PAPER-2026",
+      "title": "Αρχαία Ελληνικά — Πανελλαδικές ημερήσιων/εσπερινών ΓΕΛ2026",
+      "source_type": "official-exam-paper",
+      "exam_year": 2026,
+      "exam_date": "2026-06-03",
+      "url": "https://www.minedu.gov.gr/publications/docs2026/panelladikes_2026_iounios/them_arxaia_ellinika_gel_260603.pdf",
+      "sha256": "7e12316db951d132a013d8b2e3085a4ef0e606fb199d7bc5ea7df478f6b409be",
+      "page_count": 5,
+      "bytes": 302560,
+      "verified_on": "2026-11-07",
+      "distribution": "link-only",
+      "status": "Actual complete paper downloaded temporarily; selected item and all necessary text context read; selected item page visually inspected. Only locator/marks/compatibility metadata retained.",
+      "limits": "No official answer key, no full-paper2027 compatibility approval, no predictions of future questions."
+    }
+  ],
+  "selected_past_items": [
+    {
+      "id": "AG-2026-B1",
+      "source_id": "AG-PAPER-2026",
+      "year": 2026,
+      "item": "Β1",
+      "pdf_page": 2,
+      "official_points": 10,
+      "map_sections": [
+        "Δ.13 — Ἠθικά Νικομάχεια Β1.5–8,1103b2–25"
+      ],
+      "compatibility_rationale": "Only the selected item is reviewed: its reference passage is exactly the prescribed Δ.13 text in2027. This does not approve the rest of the paper.",
+      "requires_source_access": true,
+      "required_source_pdf_pages": [
+        1,
+        2
+      ],
+      "required_source_parts": [
+        {
+          "pdf_pages": [
+            1
+          ],
+          "locator": "Κείμενο αναφοράς, πριν από τις ερωτήσεις."
+        },
+        {
+          "pdf_pages": [
+            2
+          ],
+          "locator": "Β1, πλήρες ερώτημα με αναγραφόμενη κατανομή."
+        }
+      ],
+      "marks_provenance": "Actual official item page2:10 points, split7+3; no answer or marking key retained."
+    }
+  ]
+}

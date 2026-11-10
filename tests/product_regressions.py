@@ -13,6 +13,7 @@ import zipfile
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'scripts'))
 import package
+import marketplace
 import products
 import stage
 import validate
@@ -321,6 +322,30 @@ with tempfile.TemporaryDirectory(prefix='lyceum-product-tests-') as temporary:
             validate.validate(plugin, field)
     assert not list(tree.rglob('*.zip'))
     print('PASS: deterministic legacy runtime/desktop ZIP bytes; closed marketplace with every ready field')
+
+    published = temporary / 'published'
+    with contextlib.redirect_stdout(io.StringIO()):
+        marketplace.sync(published)
+        marketplace.sync(published, check=True)
+        catalog_path = published / '.agents/plugins/marketplace.json'
+        catalog_original = catalog_path.read_bytes()
+        changed = json.loads(catalog_original)
+        changed['plugins'][0]['source']['path'] = './'
+        catalog_path.write_text(json.dumps(changed))
+        rejects(lambda: marketplace.sync(published, check=True), 'Marketplace out of sync')
+        catalog_path.write_bytes(catalog_original)
+        plugin = published / manifest['plugins'][0]['source']['path']
+        skill = next(plugin.glob('skills/*/SKILL.md'))
+        skill_original = skill.read_bytes()
+        skill.write_text('Stale published instructions')
+        rejects(lambda: marketplace.sync(published, check=True), 'Marketplace out of sync')
+        skill.write_bytes(skill_original)
+        (plugin / 'unregistered.pdf').write_bytes(b'Synthetic unregistered content')
+        rejects(lambda: marketplace.sync(published, check=True), 'Marketplace out of sync')
+        marketplace.sync(published)
+        marketplace.sync(published, check=True)
+    assert not (plugin / 'unregistered.pdf').exists()
+    print('PASS: published marketplace rejects wrong routing, stale instructions and extra material; sync restores it')
 
     # Exercise all four real runtimes, even when testing an unready source checkout.
     ready_catalog = copy.deepcopy(data)
