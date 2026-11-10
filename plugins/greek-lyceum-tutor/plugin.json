@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "greek-lyceum-tutor",
-  "version": "0.7.16",
+  "version": "0.7.17",
   "description": "Greek-language incremental tutoring for the 2027 Panellinies: study planning, four subjects and examination practice.",
   "extensions": {
     "com.openai": {

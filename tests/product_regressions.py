@@ -237,6 +237,16 @@ with tempfile.TemporaryDirectory(prefix='lyceum-product-tests-') as temporary:
     icon.write_bytes((roots['2'] / products.profile('2')['icon']).read_bytes())
     rejects(lambda: validate.validate(root, field), 'Wrong field icon bytes')
     icon.write_bytes(original_icon)
+    try:
+        oversized = original_icon + bytes(128 * 1024)
+        icon.write_bytes(oversized)
+        rejects(lambda: validate.validate(root, field), 'Invalid icon file size')
+        wrong_dimensions = bytearray(original_icon)
+        wrong_dimensions[16:20] = (512).to_bytes(4, 'big')
+        icon.write_bytes(wrong_dimensions)
+        rejects(lambda: validate.validate(root, field), 'Invalid icon dimensions')
+    finally:
+        icon.write_bytes(original_icon)
     tamper(root, field, 'plugin.json',
            lambda t: update_json(t, lambda x: x.update(mcpServers={'local': {'command': 'python'}})), 'Runtime execution dependencies')
     tamper(root, field, 'plugin.json',

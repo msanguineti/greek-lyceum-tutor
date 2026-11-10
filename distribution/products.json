@@ -213,7 +213,7 @@
     "1": {
       "name": "greek-lyceum-tutor-field-1",
       "display_name": "Πανελλαδικές — 1ο Πεδίο",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "release_ready": true,
       "subjects": [
         "greek",
@@ -230,12 +230,12 @@
         "exams": "lyceum-f1-exams"
       },
       "icon": "assets/icons/field-1.png",
-      "icon_sha256": "487ca1d0a1dba75e4c5ffb30528764f946551ffa217b1039e7285441e13caee7"
+      "icon_sha256": "3e9af84937323b07733daeef7a2bae5c8e1e53c9801d5156ca78f84dc8777383"
     },
     "2": {
       "name": "greek-lyceum-tutor",
       "display_name": "Πανελλαδικές — 2ο Πεδίο",
-      "version": "0.7.16",
+      "version": "0.7.17",
       "release_ready": true,
       "subjects": [
         "greek",
@@ -252,12 +252,12 @@
         "exams": "lyceum-exams"
       },
       "icon": "assets/icons/field-2.png",
-      "icon_sha256": "51d2fedd48f9beb47d121056464d7ba9cecd7e7039cd87cce4f074b6652df19f"
+      "icon_sha256": "ce3b610ced4dc2baceee9a348e8504ab36c373b4265f0c5e8ce47343da18ff38"
     },
     "3": {
       "name": "greek-lyceum-tutor-field-3",
       "display_name": "Πανελλαδικές — 3ο Πεδίο",
-      "version": "0.1.10",
+      "version": "0.1.11",
       "release_ready": true,
       "subjects": [
         "greek",
@@ -274,12 +274,12 @@
         "exams": "lyceum-f3-exams"
       },
       "icon": "assets/icons/field-3.png",
-      "icon_sha256": "e38b643ae2e3f2bf6904d46a65fc2a9e4600300a2ce91724265d1ffe4651714d"
+      "icon_sha256": "4c3b208728b37f1b30134126c052180912f1dcab48bf968af7deec6ca82e04c4"
     },
     "4": {
       "name": "greek-lyceum-tutor-field-4",
       "display_name": "Πανελλαδικές — 4ο Πεδίο",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "release_ready": true,
       "subjects": [
         "greek",
@@ -296,7 +296,7 @@
         "exams": "lyceum-f4-exams"
       },
       "icon": "assets/icons/field-4.png",
-      "icon_sha256": "aee931eaaad4fcef1d227c95a884c0871796b2c9972abf571272e23175ef9870"
+      "icon_sha256": "ca4bceb238e6decaa93a7f672efdb4a9d78a0565b070eda3e5d5c440862d6713"
     }
   }
 }

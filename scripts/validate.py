@@ -47,10 +47,10 @@ def validate(root, field=None):
     icon = ROOT / field['icon']
     assert icon.is_file() and not icon.is_symlink(), 'Missing field icon'
     image = icon.read_bytes()
-    assert 33 <= len(image) <= 5 * 1024 * 1024, 'Invalid icon file size'
+    assert 33 <= len(image) <= 128 * 1024, 'Invalid icon file size'
     assert image[:8] == b'\x89PNG\r\n\x1a\n' and image[12:16] == b'IHDR', 'Icon must be PNG'
     width, height = struct.unpack('>II', image[16:24])
-    assert width == height and 48 <= width <= 4096, 'Invalid icon dimensions'
+    assert width == height == 256, 'Invalid icon dimensions'
     assert hashlib.sha256(image).hexdigest() == field['icon_sha256'], 'Wrong field icon bytes'
     files=runtime_files(ROOT, field); allowed={p.resolve() for p in files}
     assert (ROOT/ext['onboardingSkill']).resolve() in allowed
