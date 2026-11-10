@@ -113,6 +113,7 @@ with tempfile.TemporaryDirectory(prefix='lyceum-product-tests-') as temporary:
     fixture.mkdir()
     shutil.copyfile(ROOT / 'plugin.json', fixture / 'plugin.json')
     shutil.copytree(ROOT / 'skills', fixture / 'skills')
+    shutil.copytree(ROOT / 'assets', fixture / 'assets')
     for subject in set.union(*EXPECTED.values()) - products.LEGACY_SUBJECTS:
         folder = fixture / data['authoring'][subject]['source']
         for relative in data['authoring'][subject]['files']:
@@ -229,6 +230,13 @@ with tempfile.TemporaryDirectory(prefix='lyceum-product-tests-') as temporary:
            lambda t: t.replace('name: ' + names['study'], 'name: wrong-name'), 'SKILL.md')
     tamper(root, field, 'plugin.json',
            lambda t: update_json(t, lambda value: value['extensions']['com.openai']['interface'].update(displayName='Wrong field')), 'Runtime field display name mismatch')
+    tamper(root, field, 'plugin.json',
+           lambda t: update_json(t, lambda value: value['extensions']['com.openai']['interface'].update(logo='../foreign.png')), 'Wrong field icon reference')
+    icon = root / field['icon']
+    original_icon = icon.read_bytes()
+    icon.write_bytes((roots['2'] / products.profile('2')['icon']).read_bytes())
+    rejects(lambda: validate.validate(root, field), 'Wrong field icon bytes')
+    icon.write_bytes(original_icon)
     tamper(root, field, 'plugin.json',
            lambda t: update_json(t, lambda x: x.update(mcpServers={'local': {'command': 'python'}})), 'Runtime execution dependencies')
     tamper(root, field, 'plugin.json',

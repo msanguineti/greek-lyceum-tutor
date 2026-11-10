@@ -193,6 +193,7 @@ def stage(field, destination):
                         description=f"Greek-language tutoring for field {field['number']}, 2027 Panellinies.")
         interface = manifest['extensions']['com.openai']['interface']
         interface['displayName'] = field['display_name']
+        interface['logo'] = interface['composerIcon'] = './' + field['icon']
         interface['longDescription'] = ', '.join(catalog()['authoring'][s]['label'] for s in field['subjects']) + '. Μικρά βήματα, υποδείξεις, μελέτη και εξάσκηση για τις Πανελλαδικές 2027. Δεν αποθηκεύεται αυτόματα προσωπική πρόοδος. Πρωτότυπες ασκήσεις και δοκιμασίες δημιουργούνται όταν τις ζητήσεις· η βαθμολόγησή τους είναι εκπαιδευτική.'
         manifest['extensions']['com.openai']['onboardingSkill'] = f"./skills/{field['skill_names']['study']}/SKILL.md"
         payload['plugin.json'] = json_bytes(manifest)

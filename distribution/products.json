@@ -213,7 +213,7 @@
     "1": {
       "name": "greek-lyceum-tutor-field-1",
       "display_name": "Πανελλαδικές — 1ο Πεδίο",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "release_ready": true,
       "subjects": [
         "greek",
@@ -228,12 +228,14 @@
         "history": "lyceum-f1-history",
         "latin": "lyceum-f1-latin",
         "exams": "lyceum-f1-exams"
-      }
+      },
+      "icon": "assets/icons/field-1.png",
+      "icon_sha256": "487ca1d0a1dba75e4c5ffb30528764f946551ffa217b1039e7285441e13caee7"
     },
     "2": {
       "name": "greek-lyceum-tutor",
       "display_name": "Πανελλαδικές — 2ο Πεδίο",
-      "version": "0.7.15",
+      "version": "0.7.16",
       "release_ready": true,
       "subjects": [
         "greek",
@@ -248,12 +250,14 @@
         "physics": "lyceum-physics",
         "chemistry": "lyceum-chemistry",
         "exams": "lyceum-exams"
-      }
+      },
+      "icon": "assets/icons/field-2.png",
+      "icon_sha256": "51d2fedd48f9beb47d121056464d7ba9cecd7e7039cd87cce4f074b6652df19f"
     },
     "3": {
       "name": "greek-lyceum-tutor-field-3",
       "display_name": "Πανελλαδικές — 3ο Πεδίο",
-      "version": "0.1.9",
+      "version": "0.1.10",
       "release_ready": true,
       "subjects": [
         "greek",
@@ -268,12 +272,14 @@
         "chemistry": "lyceum-f3-chemistry",
         "biology": "lyceum-f3-biology",
         "exams": "lyceum-f3-exams"
-      }
+      },
+      "icon": "assets/icons/field-3.png",
+      "icon_sha256": "e38b643ae2e3f2bf6904d46a65fc2a9e4600300a2ce91724265d1ffe4651714d"
     },
     "4": {
       "name": "greek-lyceum-tutor-field-4",
       "display_name": "Πανελλαδικές — 4ο Πεδίο",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "release_ready": true,
       "subjects": [
         "greek",
@@ -288,7 +294,9 @@
         "economics": "lyceum-f4-economics",
         "informatics": "lyceum-f4-informatics",
         "exams": "lyceum-f4-exams"
-      }
+      },
+      "icon": "assets/icons/field-4.png",
+      "icon_sha256": "aee931eaaad4fcef1d227c95a884c0871796b2c9972abf571272e23175ef9870"
     }
   }
 }

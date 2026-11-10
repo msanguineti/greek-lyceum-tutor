@@ -8,10 +8,10 @@
 
 | Πεδίο | Μαθήματα προσανατολισμού | Λήψη |
 | --- | --- | --- |
-| 1ο — Ανθρωπιστικές, Νομικές και Κοινωνικές Επιστήμες | Αρχαία Ελληνικά, Ιστορία, Λατινικά | [ZIP 1ου πεδίου](https://github.com/msanguineti/greek-lyceum-tutor/releases/download/v0.8.2/panelladikes-field-1-0.1.2.zip) |
-| 2ο — Θετικές και Τεχνολογικές Επιστήμες | Μαθηματικά, Φυσική, Χημεία | [ZIP 2ου πεδίου](https://github.com/msanguineti/greek-lyceum-tutor/releases/download/v0.8.2/panelladikes-field-2-0.7.15.zip) |
-| 3ο — Επιστήμες Υγείας και Ζωής | Φυσική, Χημεία, Βιολογία | [ZIP 3ου πεδίου](https://github.com/msanguineti/greek-lyceum-tutor/releases/download/v0.8.2/panelladikes-field-3-0.1.9.zip) |
-| 4ο — Επιστήμες Οικονομίας και Πληροφορικής | Μαθηματικά, Οικονομία, Πληροφορική | [ZIP 4ου πεδίου](https://github.com/msanguineti/greek-lyceum-tutor/releases/download/v0.8.2/panelladikes-field-4-0.1.2.zip) |
+| 1ο — Ανθρωπιστικές, Νομικές και Κοινωνικές Επιστήμες | Αρχαία Ελληνικά, Ιστορία, Λατινικά | [ZIP 1ου πεδίου](https://github.com/msanguineti/greek-lyceum-tutor/releases/download/v0.8.3/panelladikes-field-1-0.1.3.zip) |
+| 2ο — Θετικές και Τεχνολογικές Επιστήμες | Μαθηματικά, Φυσική, Χημεία | [ZIP 2ου πεδίου](https://github.com/msanguineti/greek-lyceum-tutor/releases/download/v0.8.3/panelladikes-field-2-0.7.16.zip) |
+| 3ο — Επιστήμες Υγείας και Ζωής | Φυσική, Χημεία, Βιολογία | [ZIP 3ου πεδίου](https://github.com/msanguineti/greek-lyceum-tutor/releases/download/v0.8.3/panelladikes-field-3-0.1.10.zip) |
+| 4ο — Επιστήμες Οικονομίας και Πληροφορικής | Μαθηματικά, Οικονομία, Πληροφορική | [ZIP 4ου πεδίου](https://github.com/msanguineti/greek-lyceum-tutor/releases/download/v0.8.3/panelladikes-field-4-0.1.3.zip) |
 
 Κατέβασε μόνο το πεδίο που χρειάζεσαι. Οι τρέχουσες λήψεις βρίσκονται και στη [σελίδα εκδόσεων](https://github.com/msanguineti/greek-lyceum-tutor/releases/latest).
 

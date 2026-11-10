@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Structural/package validation; does not certify teaching behaviour."""
-import hashlib, json, re, sys
+import hashlib, json, re, struct, sys
 from pathlib import Path
 import yaml
 from urllib.parse import urlsplit
@@ -42,12 +42,21 @@ def validate(root, field=None):
     assert isinstance(interface['capabilities'],list)
     assert not {'apps','hooks','mcpServers','dependencies'} & ext.keys(), 'Runtime execution dependencies are forbidden'
     assert not ext.keys()-{'onboardingSkill','interface'}, 'Unsupported runtime extension key'
-    assert not interface.keys()-{'displayName','shortDescription','longDescription','category','capabilities','defaultPrompt'}, 'Unsupported runtime interface key'
+    assert not interface.keys()-{'displayName','shortDescription','longDescription','category','capabilities','defaultPrompt','logo','composerIcon'}, 'Unsupported runtime interface key'
+    assert interface.get('logo') == interface.get('composerIcon') == './' + field['icon'], 'Wrong field icon reference'
+    icon = ROOT / field['icon']
+    assert icon.is_file() and not icon.is_symlink(), 'Missing field icon'
+    image = icon.read_bytes()
+    assert 33 <= len(image) <= 5 * 1024 * 1024, 'Invalid icon file size'
+    assert image[:8] == b'\x89PNG\r\n\x1a\n' and image[12:16] == b'IHDR', 'Icon must be PNG'
+    width, height = struct.unpack('>II', image[16:24])
+    assert width == height and 48 <= width <= 4096, 'Invalid icon dimensions'
+    assert hashlib.sha256(image).hexdigest() == field['icon_sha256'], 'Wrong field icon bytes'
     files=runtime_files(ROOT, field); allowed={p.resolve() for p in files}
     assert (ROOT/ext['onboardingSkill']).resolve() in allowed
     skills=list((ROOT/'skills').glob('*/SKILL.md')); assert len(skills)==6
     assert {p.parent.name for p in skills} == set(names.values()), 'Foreign or missing field skill'
-    actual={p.relative_to(ROOT).as_posix() for p in (ROOT/'skills').rglob('*') if p.is_file()}
+    actual={p.relative_to(ROOT).as_posix() for directory in ('skills','assets') for p in (ROOT/directory).rglob('*') if p.is_file()}
     expected={p.relative_to(ROOT).as_posix() for p in files if p.name!='plugin.json'}
     assert actual==expected, 'Runtime inventory contains unselected or missing files'
     assert ext['onboardingSkill']==f"./skills/{names['study']}/SKILL.md", 'Wrong field onboarding'
@@ -62,8 +71,8 @@ def validate(root, field=None):
         assert not p.is_symlink(),p
         assert not any(part.startswith('.') for part in p.relative_to(ROOT).parts),p
         assert p.resolve().is_relative_to(ROOT)
-        assert p.suffix.lower() in {'.json','.md','.yaml','.pdf','.docx'}, f'Runtime executables or unapproved binary: {p}'
-        assert p.name=='plugin.json' or p.is_relative_to(ROOT/'skills'), f'Unexposed plugin-root source: {p}'
+        assert p.suffix.lower() in {'.json','.md','.yaml','.pdf','.docx','.png'}, f'Runtime executables or unapproved binary: {p}'
+        assert p.name=='plugin.json' or p.is_relative_to(ROOT/'skills') or p==icon, f'Unexposed plugin-root source: {p}'
         if p.suffix=='.json':
             obj=json.loads(p.read_text())
             def check_paths(node):

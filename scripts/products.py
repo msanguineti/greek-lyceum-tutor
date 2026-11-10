@@ -1,5 +1,6 @@
 """Explicit source inventory and field contracts. Nothing here is a runtime dependency."""
 import json
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -24,6 +25,8 @@ def catalog():
     emitted = set()
     identities = set()
     for number, field in data['fields'].items():
+        assert field['icon'] == f'assets/icons/field-{number}.png', 'Wrong field icon source'
+        assert re.fullmatch(r'[0-9a-f]{64}', field['icon_sha256']), 'Invalid field icon hash'
         assert isinstance(field.get('release_ready'), bool), 'Missing field readiness'
         assert len(field['subjects']) == len(set(field['subjects'])) == 4
         assert set(field['subjects']) == FIELD_SUBJECTS[number], 'Wrong subjects for scientific field'
@@ -64,7 +67,7 @@ def profile(number='2', *, release=False):
 def inventory(field, *, emitted=False):
     """Return (source-relative path, emitted-relative path) pairs; never scan all skills."""
     data = catalog()
-    pairs = [('plugin.json', 'plugin.json')]
+    pairs = [('plugin.json', 'plugin.json'), (field['icon'], field['icon'])]
     reviewed = {REVIEW_FILES[s] for s in field['subjects'] if s in REVIEW_FILES}
     for role, name in field['skill_names'].items():
         entry = data['authoring'][role]
